@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Teaching Vacancies design history"
-description: "A history of the design, research and analysis of the Teaching vervices service."
+description: "A history of the analysis, design and research from the Teaching vervices service."
 related:
   items:
   - text: Prototype
