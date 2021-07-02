@@ -6,8 +6,8 @@ related:
   items:
   - text: Prototype
     description: |
-      Username: `test-user`
-      Password: `test4278`
+      Username: `teaching`
+      Password: `vacancies`
     href: https://teaching-vacancies-prototype.london.cloudapps.digital/
 pagination:
   data: collections.all
