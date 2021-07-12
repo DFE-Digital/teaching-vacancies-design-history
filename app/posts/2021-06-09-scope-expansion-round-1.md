@@ -1,5 +1,5 @@
 ---
-title: Scope Expansion - round 1
+title: Scope expansion - round 1
 description: Initial findings on how we might expand the scope of Teaching Vacancies to support the listing of Teaching Assistant roles.
 date: 2021-06-09
 related:
@@ -19,6 +19,7 @@ With time it has become evident that there is a need for schools to list out-of-
 Before considering expanding the scope of the service, further research was required to validate assumptions and gather potential user needs around the listing and recruitment of teaching assistant vacancies.
 
 The intention was to answer the following questions:
+
 * What are TAs? How is this role defined in different schools? 
 * How do hiring staff recruit TAs? What are the specific requirements when listing these roles? Are they hired locally or nationally?
 * What is the typical contract type for TAs?
@@ -61,12 +62,12 @@ Task 4: Closing Interview
 
 ## Hypothesis
 
-* Expanding the scope to TAs may support the Department’s goals to support schools in COVID and Recovery.
-* Teaching assistant roles are relatively similar to teacher roles, therefore it is not required to make fundamental changes to the service for hiring staff to be able to list teaching assistants roles on the service.
-* Hiring staff have an understanding of what school tutors are.
-* Tutor roles are relatively similar to TA roles and therefore we do not need to make fundamental changes to the service for hiring staff to be able to list tutor roles on the service.
+* Expanding the scope to TAs may support the Department’s goals to support schools in COVID and Recovery
+* Teaching assistant roles are relatively similar to teacher roles, therefore it is not required to make fundamental changes to the service for hiring staff to be able to list teaching assistants roles on the service
+* Hiring staff have an understanding of what school tutors are
+* Tutor roles are relatively similar to TA roles and therefore we do not need to make fundamental changes to the service for hiring staff to be able to list tutor roles on the service
 * Hiring staff would use Teaching Vacancies to list teaching assistants roles if the scope was expanded
-* Expanding the scope of the service to include TAs and tutor roles won’t stop schools/ trusts from listing job vacancies on other job boards.
+* Expanding the scope of the service to include TAs and tutor roles won’t stop schools/ trusts from listing job vacancies on other job boards
 
 ## What we learned
 
@@ -90,9 +91,9 @@ The hypothesis ‘we would not need to make fundamental changes to the service f
 
 ### Job details
 
-* users felt there wasn’t a suitable option under the job role.
-* users specified that TA roles are listed as term time only, an option we do not currently have under working pattern / contract type.
-* users felt there wasn’t a suitable option under subject.
+* users felt there wasn’t a suitable option under the job role
+* users specified that TA roles are listed as term time only, an option we do not currently have under working pattern / contract type
+* users felt there wasn’t a suitable option under subject
 * suitable for NQTs was not always required for this type of role
 
 {{ appFigure({
@@ -115,8 +116,8 @@ Users felt it was important for this type of role to specify actual earnings, wi
 
 ### Application form
 
-* TRN, QTS and induction year were not requirements for this type of role.
-* users wanted to see barred declarations on the application form.
+* TRN, QTS and induction year were not requirements for this type of role
+* users wanted to see barred declarations on the application form
 
 {{ appFigure({
   image: {
@@ -135,4 +136,4 @@ Users felt it was important for this type of role to specify actual earnings, wi
 
 ### More research with hiring staff
 
-* Dig deeper into schools’ feelings and motivations towards listing all support roles once we are ready to test pilot designs.
+* Dig deeper into schools’ feelings and motivations towards listing all support roles once we are ready to test pilot designs
