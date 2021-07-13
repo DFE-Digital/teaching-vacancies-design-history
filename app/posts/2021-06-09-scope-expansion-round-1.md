@@ -60,7 +60,7 @@ Task 2: Create a job listing for a Teaching Assistant
 Task 3: Receive an application
 Task 4: Closing Interview
 
-## Hypothesis
+## Hypotheses
 
 * Expanding the scope to TAs may support the Department’s goals to support schools in COVID and Recovery
 * Teaching assistant roles are relatively similar to teacher roles, therefore it is not required to make fundamental changes to the service for hiring staff to be able to list teaching assistants roles on the service
