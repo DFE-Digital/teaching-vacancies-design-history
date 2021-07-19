@@ -32,8 +32,6 @@ related:
     href: https://drive.google.com/drive/u/0/folders/1JHpUO0NwT45yL5RQXQXVq_bGuWRVStqB
   - text: S77 - Application Round 3 Research(JS)
     href: https://drive.google.com/drive/u/0/folders/1GmpFWxLPFEcsajQpzrGPjfp2wKI4WqtO
-  - text: Download application
-    href: https://drive.google.com/drive/u/0/folders/1GmpFWxLPFEcsajQpzrGPjfp2wKI4WqtO
   - text: TVS notifications
     href: https://drive.google.com/drive/u/0/folders/1q9pRP3DTxFjRKLyFwbvz0UYMK83maPjB
   - text: Application ideation
