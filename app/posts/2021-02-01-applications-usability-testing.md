@@ -18,7 +18,7 @@ Given the above, a basic Google forms application was created to explore the lan
 
 ## User needs
 
-User needs around applications for jobseekers and hiring staff can be found in the [User needs/ Hypothesis master](https://docs.google.com/spreadsheets/d/1c0S0OZTgpRBlStgBBX79WJ7P07i-3F9VODIKSO5qkxM/edit#gid=877107711).
+User needs around applications for jobseekers and hiring staff can be found in the [User needs/Hypothesis master](https://docs.google.com/spreadsheets/d/1c0S0OZTgpRBlStgBBX79WJ7P07i-3F9VODIKSO5qkxM/edit#gid=877107711).
 
 ## Who we tested with
 
