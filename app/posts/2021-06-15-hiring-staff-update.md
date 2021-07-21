@@ -32,7 +32,7 @@ Text within each dashboard row was all a similar size, the lack of typographic h
 
 In addition, the same link appeared many times in each row (for example, ‘edit listing’ appeared for each job) which created a less than ideal experience for assistive technology users.
 
-This jobs dashboard represented the ‘hub’ in a ‘hub and spoke’ information architecture pattern.While this was sufficient at the time it was built, with more things now being associated with a job we needed to move towards a hierarchical structure. 
+This jobs dashboard represented the ‘hub’ in a ‘hub and spoke’ information architecture pattern. While this was sufficient at the time it was built, with more things now being associated with a job we needed to move towards a hierarchical structure. 
 
 ### What we did
 
