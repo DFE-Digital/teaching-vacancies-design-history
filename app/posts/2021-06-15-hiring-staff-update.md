@@ -28,7 +28,7 @@ Previously users accessed all job related tasks from their main jobs dashboard, 
   }
 }) }}
 
-All text within each row on the jobs dashboards were all a similar size, this lack of typographic hierarchy made it hard to establish an order of importance within the content. Some links were actions (for example, ‘edit listing’ or ‘extend deadline’) and others were navigation based (for example the titles of the jobs),. This made it difficult for the user to distinguish what the purpose of each link was.
+Text within each dashboard row was all of a similar size and this lack of typographic hierarchy made it hard to establish an order of importance within the content. Some links were actions (for example, ‘edit listing’ or ‘extend deadline’) and others were navigation based (for example the titles of the jobs),. This made it difficult for the user to distinguish what the purpose of each link was.
 
 In addition, the same link appeared many times in each row (for example, ‘edit listing’ appeared for each job) which created a less than ideal experience for assistive technology users.
 
