@@ -34,7 +34,7 @@ In addition, the same link appeared many times in each row (for example, ‘edit
 
 This jobs dashboard represented the ‘hub’ in a ‘hub and spoke’ information architecture pattern.While this was sufficient at the time it was built, with more things now being associated with a job we needed to move towards a hierarchical structure. 
 
-## What we did
+### What we did
 
 The newly designed jobs dashboard is much simpler. There is one clear primary call to action - the job title.
 
@@ -47,7 +47,7 @@ When the user clicks on each job title they are taken through to a job page. On 
   }
 }) }}
 
-### Introducing job pages
+## Introducing job pages
 
 Each job now has a unique page in the jobs dashboard with all data and tasks associated with a job consolidated in one place. The underlying intention is:
 
