@@ -55,7 +55,7 @@ The research revealed that hiring staff could save valuable time when reviewing 
 
 On the application teachers expect to include their education and qualifications and other professional qualifications.
 
-> “With teaching, the gap in your service needs to be recorded. If i’ve had a year travelling, I need to record that. I need to say what I did.”
+> “With teaching, the gap in your service needs to be recorded. If I’ve had a year travelling, I need to record that. I need to say what I did.”
 
 As found in previous application research studies, some hiring staff anonymise applications before sharing them with the shortlisting panel. They either remove the information by deleting personal details on a copy of the application or by printing the application and detaching the parts that can identify an applicant. Some schools/ trusts do not follow this practice for a range of different reasons.  They don’t believe this step is necessary, it hinders the process (as it prevents them from knowing whether the candidate has previously applied for a role at the school), they lack the tools to anonymise, or they need to review their recruitment practices.
 
@@ -64,10 +64,6 @@ As found in previous application research studies, some hiring staff anonymise a
 Hiring staff would like to schedule interviews with shortlisted candidates through the service. Some prepare the interview/ tasks timetable before the job is listed, allowing them to indicate the interview dates in the job advert. However, sometimes it is difficult for hiring staff to estimate how many candidates they will shortlist for the role, so setting up a timetable beforehand is not always possible.
 
 One of the biggest challenges experienced throughout the process of recruiting teachers is collecting references. Hiring staff would like to collect references before the interviews take place, but quite frequently referees have to be chased, hindering the recruitment timeline. References are most commonly collected via email but some hiring personnel prefer to phone referees directly.
-
-> “For organisation, do you mean school or the council?”
-
-Some users (not all) wanted guidance to write their personal statement.
 
 > “People are less likely to be dishonest when they speak in person.”
 
@@ -85,7 +81,7 @@ Conducting DBS checks used to be a big challenge for hiring staff, but it has im
 
 Finally, when recruiting teachers, hiring staff follow a set of recruitment steps or processes. The process might be set out by their local authority, a hiring officer at the trust level, or the person in charge of recruitment at the school. These are based on the [Keeping Children Safe in Education](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2) guidelines and might be refined over time with information gained from different sources such as seminars or courses on safe recruitment.
 
-The process flow of the ‘as is’ end-to-end journey can be found in the [Miro board (jpeg)](https://drive.google.com/drive/u/0/folders/15QBjF7BvMsTt1tm-yMr0iDuCxolNOwb5).
+The process flow of the ‘as is’ end-to-end journey can be found in the [Miro board (jpeg)](https://drive.google.com/file/d/1BtMbihcQUm_fBNCRDfkxzPRTjb3M33AW/view?usp=sharing).
 
 ## Next steps 
 
