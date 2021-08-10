@@ -1,6 +1,6 @@
 ---
 applications:
 - name: teaching-vacancies-design-history
-  memory: 128M
+  memory: 256M
   buildpacks:
   - nodejs_buildpack
