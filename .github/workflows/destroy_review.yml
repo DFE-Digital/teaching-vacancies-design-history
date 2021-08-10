@@ -1,0 +1,38 @@
+name: Clean up GOV.UK PaaS review app
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
+
+jobs:
+  turnstyle:
+    name: Wait for previous deploys to finish
+    runs-on: ubuntu-20.04
+    timeout-minutes: 20
+    steps:
+      - uses: DFE-Digital/github-actions/turnstyle@master
+        with:
+          initial-wait-seconds: 12
+          poll-interval-seconds: 20
+          abort-after-seconds: 1800
+          same-branch-only: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  destroy_review:
+    name: Destroy review app on merge
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set application environment
+        env:
+          PR_NUMBER: ${{ github.event.number }}
+        run: echo "CF_APP_NAME=teaching-vacancies-design-history-pr-$PR_NUMBER" >> $GITHUB_ENV
+      - uses: DFE-Digital/github-actions/setup-cf-cli@master
+        with:
+          CF_USERNAME: ${{ secrets.CF_USERNAME }}
+          CF_PASSWORD: ${{ secrets.CF_PASSWORD }}
+          CF_SPACE_NAME: teaching-vacancies-prototype
+      - name: Delete application
+        run: cf delete -rf ${{ env.CF_APP_NAME }}
