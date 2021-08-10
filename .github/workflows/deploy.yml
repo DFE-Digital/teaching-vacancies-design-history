@@ -4,6 +4,13 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - synchronize
+      - reopened
 
 jobs:
   turnstyle:
@@ -11,10 +18,11 @@ jobs:
     runs-on: ubuntu-20.04
     timeout-minutes: 20
     steps:
-      - uses: softprops/turnstyle@v1
-        name: Check workflow concurrency
+      - uses: DFE-Digital/github-actions/turnstyle@master
         with:
+          initial-wait-seconds: 12
           poll-interval-seconds: 20
+          abort-after-seconds: 1800
           same-branch-only: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -24,6 +32,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Set application environment (main branch)
+        if: github.event_name == 'push'
+        run: echo "CF_APP_NAME=teaching-vacancies-design-history" >> $GITHUB_ENV
+      - name: Set application environment (Pull Request)
+        if: github.event_name == 'pull_request'
+        env:
+          PR_NUMBER: ${{ github.event.number }}
+        run: echo "CF_APP_NAME=teaching-vacancies-design-history-pr-$PR_NUMBER" >> $GITHUB_ENV
       - uses: DFE-Digital/github-actions/setup-cf-cli@master
         with:
           CF_USERNAME: ${{ secrets.CF_USERNAME }}
@@ -37,4 +53,10 @@ jobs:
       - name: Run Eleventy build
         run: npm run build --if-present
       - name: Push application
-        run: cf push
+        run: cf push ${{ env.CF_APP_NAME }}
+      - name: Post sticky pull request comment
+        if: github.event_name == 'pull_request'
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          message: |
+            Review app deployed to <https://teaching-vacancies-design-history-pr-${{ github.event.number }}.london.cloudapps.digital>
