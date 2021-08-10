@@ -12,9 +12,9 @@ related:
     href: https://docs.google.com/presentation/d/1OWWx2lWNdLW09es7XTRzENJCpDCryggFoV9giDkHahw/edit#slide=id.p
 ---
 
-The discovery research conducted in October 2020 highlighted the benefits of providing a standardised application form for teachers to apply for jobs listed in Teaching vacancies. Having a single application format would make it easier for jobseekers to apply for those jobs as they wouldn’t have to fill applications that came not only in a variety of formats but also asked different questions, which are current pain points for teachers. 
+The discovery research conducted in October 2020 highlighted the benefits of providing a standardised application form for teachers to apply for jobs listed on Teaching Vacancies. Having a single application format would make it easier for jobseekers to apply for those jobs as they wouldn’t have to fill applications that came not only in a variety of formats but also asked different questions, which are current pain points for teachers. 
 
-Given the above, a basic Google forms application was created to explore the landscape with teachers and from there a more detailed prototype was developed and tested, giving rise to a second prototype which was also tested with teachers during round 3, in order to refine the application process from the jobseeker’s point of view. 
+Given the above, a basic Google forms application was created to explore the landscape with teachers and from there a more detailed prototype was developed and tested. This second prototype was tested with teachers during round 3, in order to refine the application process from the jobseeker’s point of view.
 
 ## User needs
 
@@ -63,7 +63,7 @@ On the application teachers expect to include their education and qualifications
 
 On ‘Professional status’ users expect to be asked a clear and precise question e.g. _“Have you completed your NQT year?”_
 
-Users don’t fully understand what it’s meant by the question around ‘Relevant organisation membership’. They don’t know what exactly we are asking and some thought it has to do with them belonging to a union, which they felt shouldn’t be asked.
+Users don’t understand what is meant by the questions asking about ‘Relevant organisation membership’. They don’t know what we are asking for and some thought it has to do with them belonging to a union, which they felt shouldn’t be asked.
 
 > “Does this mean unions? If that was the case I would leave this blank.”
 
