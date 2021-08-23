@@ -50,9 +50,11 @@ We agreed that we needed to address these two problems in March 2021.
 We identified the following user needs in research conducted in November-December 2020.  
  
 **As an LA user**
-I want
-to list jobs at one school or multiple schools within my LA and any other LA I choose
-to view and manage job listings for listings created by hiring staff in my LA and any other LA I have chosen 
+I want to
+
+* list jobs at one school or multiple schools within my LA and any other LA I choose
+* view and manage job listings for listings created by hiring staff in my LA and any other LA I have chosen 
+
 So that I can provide job listing services to schools within my stewardship
  
 **As an LA user**
