@@ -62,6 +62,15 @@ When MAT hiring staff users sign in, they have to select the schools in their tr
 
 {{ appFigure({
   image: {
+    file: "manage-view.png",
+    alt: "A screenshot of the manage your view screen"
+  }
+}) }}
+
+When they get to their dashboard, they can filter the jobs by the schools on the left hand side. 
+
+{{ appFigure({
+  image: {
     file: "legacy-jobs.png",
     alt: "A screenshot of the legacy manage jobs screen"
   }
