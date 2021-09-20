@@ -1,12 +1,12 @@
 ---
 title: 'A/B test: radius expansion links in site searches with no results'
 description: Radius expansion links helped users find vacancies without distracting them.
-date: 2021-26-28
+date: 2021-06-28
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-For some time, when users complete a search that contains a radius, but no results were found, we have presented them with a series of links to alternative search radii which they could try. These links only appear if results would be found for each larger radius, and are accompanied by the number of results that would be found in brackets. We wanted to test whether this was helping users to find vacancies when they had been too specific about their search radius. We also wanted to check whether the presence of the links was distracting users from creating job alerts, as creating a job alert is a priority next step for users who are unable to find a vacancy during a quiet period in the annual recruitment cycle.
+For some time, when users complete a search that contains a radius, but no results were found, we have presented them with a series of links to alternative search radii which they could try. These links only appear if results are found for each larger radius, and are accompanied by the number of results that would be found in brackets. We wanted to test whether this was helping users to find vacancies when they had been too specific about their search radius. We also wanted to check whether the presence of the links was distracting users from creating job alerts, as creating a job alert is a priority next step for users who are unable to find a vacancy during a quiet period in the annual recruitment cycle.
 
 ## Hypothesis
 
