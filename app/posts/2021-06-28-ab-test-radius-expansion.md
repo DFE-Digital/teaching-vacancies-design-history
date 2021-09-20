@@ -10,7 +10,7 @@ For some time, when users complete a search that contains a radius, but no resul
 
 ## Hypothesis
 
-If we include radius expansion links in search results with no results, more users will find vacancies, without being distracted from creating job alerts.
+If we include radius expansion links in search results with no results then more users will find vacancies, without being distracted from creating job alerts.
 
 ## Who we tested with
 
