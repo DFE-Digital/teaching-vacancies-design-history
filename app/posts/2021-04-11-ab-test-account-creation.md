@@ -1,5 +1,5 @@
 ---
-title: 'A/B test:  jobseeker account creation from home page'
+title: 'A/B test: jobseeker account creation from home page'
 description: A more obtrusive button distracted users from finding vacancies.
 date: 2021-04-11
 ---
@@ -23,8 +23,6 @@ If the test were to be repeated, for every 100,000 jobseekers we would expect:
 * 150 to create an account with the original invitation to create an account - a blue box on the right hand side of the home page, titled ‘Save jobs you are interested in’, with a light grey ‘Create an account’ button at the bottom of the box
 * 280 to create an account with a sticky banner at the bottom inviting them to create an account - however, an additional 1,800 would click on the button but not go on to create an account, and 1,400 fewer people would complete a site search
 * 210 to create an account if we gave the invitation to create an account a white, contrasting background and a green button - however, this design diverged from the GDS design pattern because it placed a second green button on the page, instead of distinguishing between primary and secondary calls-to-action (CTA)
-
-
 
 ## Screenshots
 
