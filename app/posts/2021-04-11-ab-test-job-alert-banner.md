@@ -1,5 +1,5 @@
 ---
-title: 'A/B test: : job alert banner placement'
+title: 'A/B test: job alert banner placement'
 description: Making the banner blue and sticky made it more visible.
 date: 2021-01-29
 ---
