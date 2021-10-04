@@ -10,7 +10,7 @@ When jobseekers create a job alert, they are not required to create an account. 
 
 ## Hypothesis
 
-If we allow job alert creators to create accounts from a form within the job alert confirmation screen itself, instead of just linking to it then more of them will create an account.
+If we allow job alert creators to create accounts from a form within the job alert confirmation screen itself, instead of just linking to it, then more of them will create an account.
 
 ## Who we tested with
 
