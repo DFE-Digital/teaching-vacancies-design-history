@@ -6,7 +6,7 @@ date: 2021-03-04
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-When jobseekers create a job alert, they are not required to create an account. This is so that we don’t discourage them from creating an alert by placing an unnecessary extra step in the journey. However, if they do create an account, then they have access to a greater range of functionality - better management of job alerts, and also the ability to save and apply for jobs. So, we wanted to encourage as many job alert creators as possible to create an account without requiring them to do so.
+When jobseekers create a job alert, they are not required to create an account. This is so that we don’t discourage them from creating an alert by placing an unnecessary extra step in the journey. However if they do create an account, then they have access to a greater range of functionality - better management of job alerts, and also the ability to save and apply for jobs. So, we wanted to encourage as many job alert creators as possible to create an account without requiring them to do so.
 
 ## Hypothesis
 
