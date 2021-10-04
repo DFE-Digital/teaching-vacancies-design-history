@@ -34,7 +34,7 @@ These are the three designs we tested.
     file: "account-creation.png",
     alt: "A screenshot of the account sign up screen" 
    },
-  caption: "On the left, a link to to create an account. On the right, An inline form to cerate an account."
+  caption: "On the left, a link to the create an account form. On the right, an inline form to cerate an account."
 }) }}
 
 ## Next steps
