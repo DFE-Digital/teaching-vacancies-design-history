@@ -28,7 +28,7 @@ If we make the cookie opt-in banner more intrusive, we can increase the cookie o
 
 ## Who we tested with
 
-We carried out 2 rounds of testing with a total of 254,756 daily users, and evaluated the cookie opt-in rate alongside indicators of user engagement and task success (bounce rate, site search rate, vacancy view rate and jobseeker account creation rate) for 6 different cookie opt-in banner design variants in each round of testing. Findings from the first round of testing informed the designs that we tested in the second round.
+We carried out 2 rounds of testing with a total of 254,756 users, and evaluated the cookie opt-in rate alongside indicators of user engagement and task success (bounce rate, site search rate, vacancy view rate and jobseeker account creation rate) for 6 different cookie opt-in banner design variants in each round of testing. Findings from the first round of testing informed the designs that we tested in the second round.
 
 ## Findings
 
@@ -75,5 +75,5 @@ The ‘modal’ banner we also tested:
 
 ## Next steps
 
-We eventually decided to implement the GDS design pattern, but positioned at the bottom of the screen, because it maximised the opt-in rate, minimised the skew, showed no quantitative evidence of reducing user engagement with the service and ensured that users were able to make a clear choice about their cookie preferences.
+We decided to implement the GDS design pattern, but positioned at the bottom of the screen, because it maximised the opt-in rate, minimised the skew, showed no quantitative evidence of reducing user engagement with the service and ensured that users were able to make a clear choice about their cookie preferences.
 
