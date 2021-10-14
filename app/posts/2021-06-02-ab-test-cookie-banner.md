@@ -14,7 +14,7 @@ related:
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-Use of analytics cookies on digital services is governed by the Privacy and Electronic Communications Regulations (PECR), which state that analytics cookies may only be stored in users’ browsers if they have explicitly opted in to this. Analytics cookies are important to us because they allow Google Analytics to identify who a user is, even if they are returning to a site later in time. In general, the more users opt in to cookies, the more we can track, and so the more useful the data gathered is.
+Use of analytics cookies on digital services is governed by the Privacy and Electronic Communications Regulations (PECR), which state that analytics cookies may only be stored in users’ browsers if they have explicitly opted in to this. Analytics cookies are important to us because they allow Google Analytics to identify who a user is, even if they are returning to a site later in time. In general, the more users that opt in to cookies, the more we can track, and so the more useful the data gathered is.
 
 Although we now have a cookieless analytical platform based in BigQuery, Google Analytics remains useful because of particular capabilities it has around funnel analysis, tracking particular types of frontend events (e.g. scroll depth) and handling particular types of marketing/SEO data (e.g. from Google Search Console). It is also possible that in future we may want to introduce other forms of analytics tooling that also rely on cookies.
 
