@@ -41,13 +41,13 @@ We spoke with 8 jobseekers actively seeking an education support role within a s
 ## Hypothesis
 
 We wanted to validate the following assumptions:
-* We believe jobseekers looking for support roles will expect to find these roles on Teaching Vacancies.
-* We believe education support roles attract local candidates  (parents, school alumni and the local community.)
-* We believe support staff want to see their actual salary rather than FTE and grade scales.
-* We believe support staff expect to see roles that are listed as term time only.
-* We believe jobseekers rely on agencies if they are looking for part time work to fit around their studies or other career aspirations.
-* We believe the majority of education support staff are parents, seeking a job that fits around their parenting duties.
-* We believe the majority of job seekers looking for an education support staff role are not looking to further their career in education.
+* we believe jobseekers looking for support roles will expect to find these roles on Teaching Vacancies.
+* we believe education support roles attract local candidates  (parents, school alumni and the local community.)
+* we believe support staff want to see their actual salary rather than FTE and grade scales.
+* we believe support staff expect to see roles that are listed as term time only.
+* we believe jobseekers rely on agencies if they are looking for part time work to fit around their studies or other career aspirations.
+* we believe the majority of education support staff are parents, seeking a job that fits around their parenting duties.
+* we believe the majority of job seekers looking for an education support staff role are not looking to further their career in education.
 
 ## What did we test
 
@@ -79,11 +79,11 @@ Working hours make a role attractive. Alongside full time and part time, we adde
 
 ### Salary
 
-*Salary is one of the leading factors that helps job seekers make quick decisions on a job's appeal. For support staff working term time only contracts, it can be both time consuming and frustrating having to work out actual earnings from the FTE, or grade scale provided. All participants preferred the TVS prototype where they were able to see the actual salary alongside the FTE.
+Salary is one of the leading factors that helps job seekers make quick decisions on a job's appeal. For support staff working term time only contracts, it can be both time consuming and frustrating having to work out actual earnings from the FTE, or grade scale provided. All participants preferred the TVS prototype where they were able to see the actual salary alongside the FTE.
 
 > "Salary has been a minefield for me to try and get my head around...I haven’t got a clue”
 
-> “that's much better where you put the actual salary rather than the grade and pro rata"
+> “That's much better, where you put the actual salary rather than the grade and pro rata"
 
 ### Search patterns
 
