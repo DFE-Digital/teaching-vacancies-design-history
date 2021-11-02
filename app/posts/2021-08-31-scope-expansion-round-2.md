@@ -29,7 +29,7 @@ We then carried out a second round of user research, this time just with hiring 
 
 ## Overarching user need
 
-These were the needs identified in the initial research with hiring staff:
+These were the needs identified in the initial research with hiring staff.
 
 **As a hiring staff user**
 I need:
@@ -175,7 +175,7 @@ The initial design included information explaining that hiring staff aren't able
 
 {{ appFigure({
   image: {
-    file: "step5.png",
+    file: "step6 original.png",
     alt: "The applying for the job screen in the create a job flow"
   }
 }) }}
