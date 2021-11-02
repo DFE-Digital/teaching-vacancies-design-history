@@ -31,9 +31,11 @@ We then carried out a second round of user research, this time just with hiring 
 
 These were the needs identified in the initial research with hiring staff:
 
-* I need to reduce the time I spend on publishing a job advert so that I can recruit more efficiently.
+**As a hiring staff user**
+I need:
+* to reduce the time I spend on publishing a job advert so that I can recruit more efficiently.
 
-* I need education support roles to have wide exposure so that it increases my chance of filling the position with high quality candidates.
+* education support roles to have wide exposure so that it increases my chance of filling the position with high quality candidates.
 
 
 ## Who we tested with
