@@ -186,7 +186,7 @@ The initial design included information explaining that hiring staff aren't able
 
 > “When I draft an education support vacancy listing, it prompts me to choose how applicants should apply and advises that it is not possible for candidates to apply directly through teaching services. I do not wish for direct applications, but it will not permit me to go further with the form.”
 
-* It wasn’t clear to hiring staff how they could include a link to an online application form
+* It wasn’t clear to hiring staff how they could include a link to an online application form.
 
 * Hiring staff questioned whether they would be able to upload a copy of their own application form, not seeing that there was an option to do this in the next step.
 
