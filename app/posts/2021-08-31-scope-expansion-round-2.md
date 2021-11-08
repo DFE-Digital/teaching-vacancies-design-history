@@ -18,7 +18,7 @@ related:
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-We recently expanded the scope of the service to allow hiring staff to list education support roles. We released this MVP (minimum viable product) following an [initial round of research](/2021-06-09-scope-expansion-round-1.md) with both hiring staff and jobseekers.
+We recently expanded the scope of the service to allow hiring staff to list education support roles. We released this MVP (minimum viable product) following an [initial round of research](/scope-expansion-round-1/) with both hiring staff and jobseekers.
 
 We then carried out a second round of user research, this time just with hiring staff. We wanted to:
 
