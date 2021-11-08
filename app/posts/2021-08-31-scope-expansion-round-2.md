@@ -1,5 +1,5 @@
 ---
-title: Second round of user research on listing education support roles.
+title: Second round of user research on listing education support roles
 description: Key takeaways from the second round of user testing with hiring staff on listing education support roles
 date: 2021-08-31
 related:
@@ -18,7 +18,7 @@ related:
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-We recently expanded the scope of the service to allow hiring staff to list education support roles. We released this MVP (minimum viable product) following an [initial round of research](/2021-06-09-scope-expansion-round-1./) with both hiring staff and jobseekers.
+We recently expanded the scope of the service to allow hiring staff to list education support roles. We released this MVP (minimum viable product) following an [initial round of research](/2021-06-09-scope-expansion-round-1/) with both hiring staff and jobseekers.
 
 We then carried out a second round of user research, this time just with hiring staff. We wanted to:
 
@@ -180,7 +180,7 @@ Telling hiring staff they cannot accept applications directly through Teaching V
 
 > “When I draft an education support vacancy listing, it prompts me to choose how applicants should apply and advises that it is not possible for candidates to apply directly through teaching services. I do not wish for direct applications, but it will not permit me to go further with the form.”
 
-It wasn’t clear to hiring staff how they could include a link to an online application form.
+* It wasn’t clear to hiring staff how they could include a link to an online application form.
 
 Hiring staff questioned whether they would be able to upload a copy of their own application form, not seeing that there was an option to do this in the next step.
 
@@ -205,7 +205,8 @@ Hiring staff questioned whether they would be able to upload a copy of their own
 * Hiring staff need to advertise on multiple sites to increase the likelihood of reaching quality candidates, but prefer to receive and manage their applications (for all roles) in one place. Receiving a PDF copy of an application via email felt easier because it meant they could advertise on multiple platforms but receive applications in one place.
 * It is not uncommon for jobseekers with assisted digital needs to apply for support roles nor is it uncommon for hiring staff with assisted digital needs to manage applications. We need to think about how we might further assist both sets of assisted digital users.
 
-## TASK 2: Card sorting activity
+
+## Task 2: Card sorting activity
 
 We conducted a card sorting activity to validate our designs and the assumptions we had made on how hiring staff categorise job roles.
 
