@@ -18,7 +18,7 @@ related:
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-We recently expanded the scope of the service to allow hiring staff to list education support roles. We released this MVP (minimum viable product) following an [initial round of research](/2021-06-09-scope-expansion-round-1/) with both hiring staff and jobseekers.
+We recently expanded the scope of the service to allow hiring staff to list education support roles. We released this MVP (minimum viable product) following an [initial round of research](/scope-expansion-round-1/) with both hiring staff and jobseekers.
 
 We then carried out a second round of user research, this time just with hiring staff. We wanted to:
 
@@ -180,7 +180,7 @@ Telling hiring staff they cannot accept applications directly through Teaching V
 
 > “When I draft an education support vacancy listing, it prompts me to choose how applicants should apply and advises that it is not possible for candidates to apply directly through teaching services. I do not wish for direct applications, but it will not permit me to go further with the form.”
 
-* It wasn’t clear to hiring staff how they could include a link to an online application form.
+It wasn’t clear to hiring staff how they could include a link to an online application form.
 
 Hiring staff questioned whether they would be able to upload a copy of their own application form, not seeing that there was an option to do this in the next step.
 
@@ -195,15 +195,17 @@ Hiring staff questioned whether they would be able to upload a copy of their own
   }
 }) }}
 
-* Hiring staff were not clear what they were meant to do when reaching the homepage and the link to sign in was not easily located. Upon arriving at the site, participants either:
+Hiring staff were not clear what they were meant to do when reaching the homepage and the link to sign in was not easily located. Upon arriving at the site, participants either:
 
 1. entered the job title they were listing in the keyword search
 2. selected the ‘list a teaching job link’ in the footer
 3. went to sign in via the ‘apply for jobs’ box
 
-* Alongside advertising amongst parents and the local community, local authority sites are widely used to advertise support roles. Local authority sites are not education specific, so hiring staff feel they cast a wider net and attract people from all professions to a job in education. However, these current methods are not reaching candidates with the desired experience. This lack of experience has become a bigger challenge for schools as they recover from the pandemic.
-* Hiring staff need to advertise on multiple sites to increase the likelihood of reaching quality candidates, but prefer to receive and manage their applications (for all roles) in one place. Receiving a PDF copy of an application via email felt easier because it meant they could advertise on multiple platforms but receive applications in one place.
-* It is not uncommon for jobseekers with assisted digital needs to apply for support roles nor is it uncommon for hiring staff with assisted digital needs to manage applications. We need to think about how we might further assist both sets of assisted digital users.
+Alongside advertising amongst parents and the local community, local authority sites are widely used to advertise support roles. Local authority sites are not education specific, so hiring staff feel they cast a wider net and attract people from all professions to a job in education. However, these current methods are not reaching candidates with the desired experience. This lack of experience has become a bigger challenge for schools as they recover from the pandemic.
+
+Hiring staff need to advertise on multiple sites to increase the likelihood of reaching quality candidates, but prefer to receive and manage their applications (for all roles) in one place. Receiving a PDF copy of an application via email felt easier because it meant they could advertise on multiple platforms but receive applications in one place.
+
+It is not uncommon for jobseekers with assisted digital needs to apply for support roles nor is it uncommon for hiring staff with assisted digital needs to manage applications. We need to think about how we might further assist both sets of assisted digital users.
 
 
 ## Task 2: Card sorting activity
@@ -223,9 +225,11 @@ We conducted a card sorting activity to validate our designs and the assumptions
 
 ## Key findings
 
-* Hiring staff were familiar with the term ‘education support’ and believed it to incorporate teaching assistants and other student-facing in-scope roles including high level teaching assistants, behaviour support, learning mentors and cover supervisors. The majority also included pastoral care within this category (with an increased demand for pastoral roles due to covid recovery.)
-* Head of English / Head of Year roles mostly fell within a form of ‘teaching’ or ‘extended leadership’ category rather than the Senior Leadership Team SLT.
-* There was no clear agreement on where to place the SENDCo role (supporting our current design which separates out the SENDCo role).
+Hiring staff were familiar with the term ‘education support’ and believed it to incorporate teaching assistants and other student-facing in-scope roles including high level teaching assistants, behaviour support, learning mentors and cover supervisors. The majority also included pastoral care within this category (with an increased demand for pastoral roles due to covid recovery.)
+
+Head of English / Head of Year roles mostly fell within a form of ‘teaching’ or ‘extended leadership’ category rather than the Senior Leadership Team SLT.
+
+There was no clear agreement on where to place the SENDCo role (supporting our current design which separates out the SENDCo role).
 
 ## Next steps
 
