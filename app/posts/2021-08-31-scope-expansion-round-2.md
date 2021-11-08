@@ -1,5 +1,5 @@
 ---
-title: Second round of user research on listing education support roles.
+title: Second round of user research on listing education support roles
 description: Key takeaways from the second round of user testing with hiring staff on listing education support roles
 date: 2021-08-31
 related:
