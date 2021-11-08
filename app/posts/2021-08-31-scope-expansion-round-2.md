@@ -216,7 +216,7 @@ The initial design included information explaining that hiring staff aren't able
 * It is not uncommon for jobseekers with assisted digital needs to apply for support roles nor is it uncommon for hiring staff with assisted digital needs to manage applications. We need to think about how we might further assist both sets of assisted digital users.
 
 
-## TASK 2: Card sorting activity
+## Task 2: Card sorting activity
 
 We conducted a card sorting activity to validate our designs and the assumptions we had made on how hiring staff categorise job roles.
 
