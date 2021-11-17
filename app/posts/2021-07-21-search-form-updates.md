@@ -23,9 +23,9 @@ This is what the search form looked like as of June 2021.
 {{ appFigure({
   image: {
     file: "initial-search-with-filters-open.png",
-    alt: "A screenshot of our original search form with search radius open and filters exposed."
+    alt: "A screenshot of our original search form with search radius open and filters exposed"
   },
-  caption: "The search form with search radius open and filters exposed"
+  caption: "The search form with search radius open and filters exposed."
 }) }}
 
 We wanted to remove the placeholders in the text fields as they present [a number of usability issues](https://adamsilver.io/blog/placeholders-are-problematic/). 
