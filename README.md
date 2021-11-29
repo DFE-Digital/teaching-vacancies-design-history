@@ -6,13 +6,13 @@ A place for us to document our service designs for the GOV.UK Teaching Vacancies
 
 ## Set up
 
-Clone this repo.
+Clone this project using Git. New to Git? Here is more [information about cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).  
 
 Use Terminal to navigate to the directory and run `npm install`.
 
 If the install is successful, run `npm start`.
 
-Follow the prompts in Terminal to open the design history locally.
+Follow the prompts in Terminal to open the design history in your browser. If the set up is successfu it will be available at `http://localhost:8080/`. 
 
 ## Writing an entry
 
@@ -26,9 +26,11 @@ Duplicate an existing entry. You will find them in the `/posts` directory.
 
 Give the `.md` file a unique name and date it to reflect when the work was done.
 
-Once you have finished adding the content of the post, check it looks ok then raise a pull request.
+Once you have finished adding the content of the post, check it looks ok in your browser at `http://localhost:8080/`. 
 
-Get the PR reviewed by a peer.
+Raise a pull request. Here is more [information about pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+
+Get the pull request reviewed by a peer.
 
 Once the pull request is approved, merge it.
 
