@@ -10,9 +10,9 @@ Clone this project using Git. New to Git? Here is more [information about clonin
 
 Use Terminal to navigate to the directory and run `npm install`.
 
-If the install is successful, run `npm start`.
+If the install is successful, run `npm start`. If there are erros, follow the prompts to debug then.
 
-Follow the prompts in Terminal to open the design history in your browser. If the set up is successfu it will be available at `http://localhost:8080/`. 
+Follow the prompts in Terminal to open the design history in your browser. If the set up is successful it will be available at `http://localhost:8080/`. 
 
 ## Writing an entry
 
