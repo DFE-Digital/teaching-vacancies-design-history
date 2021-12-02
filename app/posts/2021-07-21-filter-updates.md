@@ -71,7 +71,7 @@ We also suspect we are encouraging a ‘search again’ behaviour (as opposed to
 * Has a bias towards searching unintentionally been introduced?
 * Is there a primary behaviour we want to encourage when viewing search results? Searching again or filtering?
 
-We have planned an A/B with a variant where the search and filter UI are decoupled. We are curious if this will affect search again frequency vs filter usage.
+We have planned an A/B test with a variant where the search and filter UI are decoupled. We are curious if this will affect search again frequency vs filter usage.
 
 {{ appFigure({
   image: {
