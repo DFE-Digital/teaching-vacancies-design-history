@@ -57,7 +57,7 @@ The listing with and without contents buttons on mobile looked like this:
 
 {{ appFigure({
   image: {
-    file: "mobile-present.png",
+    file: "mobile-absent.png",
     alt: "A screenshot of the listing page with blue navigation buttons absent." 
    },
   caption: "The listing page on a mobile device with blue navigation buttons absent."
