@@ -1,6 +1,6 @@
 ---
-title: 'A/B test: remove blue contents tabs from job listing'
-description: Removing the tabs increased clicks on ‘Get More Information’ links and had little impact on anything else.
+title: 'A/B test: remove blue contents links from job listing'
+description: Removing the links increased clicks on ‘Get More Information’ links and had little impact on anything else.
 date: 2021-11-29
 ---
 
