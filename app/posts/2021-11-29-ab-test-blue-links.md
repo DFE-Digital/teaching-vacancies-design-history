@@ -21,6 +21,7 @@ We tested with 623,146 jobseekers between 1st August and 29th November 2021. 50%
 If the test were to be repeated in identical conditions:
 - 2.21 +/- 0.05 % of jobseekers would click on a ‘Get More Information’ link to an external site chosen by the publisher if the blue contents buttons were present
 - 2.39 +/- 0.05 % of jobseekers would click on a ‘Get More Information’ link to an external site chosen by the publisher if the blue contents buttons were absent
+
 There would be no statistically significant difference between the proportions of jobseekers who downloaded a document (8.2%), saved a job (0.17%) or applied for a job (0.16%). It is possible that running the test for several months longer might yield a very small but statistically significant difference, but if so, it would be so small it would be safe to ignore.
 
 So, removing the buttons drives up the number of clicks on ‘Get More Information’ and has little impact on anything else. Possibly this behaviour is just casual users who want to click on something clicking on that button because they can no longer click on the blue contents buttons instead.
