@@ -36,7 +36,7 @@ We also aimed to build a better understanding of the end to end recruitment proc
 ## What we tested
 12 remote 1 hour sessions were carried out using Lookback.
 
-This was an exploratory usability test. We wanted to give hiring staff free reign of the prototype to see how they would use TV upon receiving applications through the service.
+This was an exploratory usability test. We wanted to give hiring staff free rein of the prototype to see how they would use TV upon receiving applications through the service.
 
 We followed a discussion guide to ensure any questions asked were consistent.
 
@@ -46,9 +46,9 @@ We followed a discussion guide to ensure any questions asked were consistent.
 
 I need:
 
-*  to manage my applications in an efficient way so that I can reduce the time I spend on the recruitment process.
+* to manage my applications in an efficient way so that I can reduce the time I spend on the recruitment process.
 * to share the applications I receive with the shortlisting panel so that they can start the shortlisting process.
-*  to inform the shortlisted candidates of the interview details so that they know when they have to come in and what is expected of them.
+* to inform the shortlisted candidates of the interview details so that they know when they have to come in and what is expected of them.
 * to notify unsuccessful candidates that they haven’t been appointed so that they know they didn’t get the position.
 * to notify the successful candidate they have been appointed so that they can decide if they want to accept the offer.
 
@@ -84,7 +84,7 @@ Our aim was to validate the following assumptions.
 **Communicating decisions with an applicant**
 
 * We believe hiring staff communicate with applicants when they need to:
-clarify information provided on the application
+    * clarify information provided on the application
     * collect references
     * complete the required DBS checks
     * arrange an interview
@@ -107,9 +107,9 @@ The low take up of our application feature may be influenced by a number of othe
 * ties with the trust / LA.
 * ties with the school’s application form.
 * decisions to move away from adopted systems falling on the headteacher.
-* a lack of awareness of TV and the application offering
+* a lack of awareness of TV and the application offering.
 * the time and management constraints of adding a new system on top of what they already have.
-* jobseeker awareness and the risk of losing quality candidates
+* jobseeker awareness and the risk of losing quality candidates.
 
 > "I think TV would be great for our school, it's easy..it's sufficient" "it’s quicker than having paper"
 
@@ -123,7 +123,7 @@ As we encounter more and more schools with mandated application forms, we need t
 
 In November 2020 a research study was conducted to understand what schools needed from an application form. In that study, we found, if a form were to be provided for schools to use, it was most important that schools were able to customise it to meet their needs.
 
-If competitors like Tes are offering online applications that are customisable, should we be doing the same?
+If competitors like TES are offering online applications that are customisable, should we be doing the same?
 
 >"Anyone who worked in the LA used the same form - but now you can put your own logo on it, provided you meet some of their criteria because we buy into their personnel team."
 
@@ -172,7 +172,7 @@ We also tested a feature where hiring staff were able to send applicants a messa
 
 We found speed of response was very important if any contact needed to be made. Phone calls are made to get quick answers about a candidate’s application or interview attendance. Features like ‘invite to interview’ and ‘contact’ are most likely to be used in conjunction with this method as a confirmation once an initial call has been made. If hiring staff were to place their trust in TV and use features like this, they would need reassurance that their message had been received and that the candidate could effectively respond. It was that reassurance they lacked.
 
->“If we know that someone's good, we are thinking, are they interviewing elsewhere? and how quickly do we need to get them in before another school hires them.”
+>“If we know that someone's good, we are thinking, are they interviewing elsewhere? And how quickly do we need to get them in before another school hires them.”
 
 >"So that tells me we have invited her to an interview, it doesn’t tell me if she has accepted or if she is not going to attend, has she sent me a message back?"
 
@@ -216,11 +216,11 @@ We found our current download does not fully support the needs of the SLT as it�
   }
 }) }}
 
-We found notes are made by both hiring staff and the SLT both before and after shortlisting has taken place. Sticky notes, handwritten notes and  highlighted text communicate red flags such as issues around references, right to work in the UK, if that candidate had appeared rude during any contact that had been made or to mark areas of the application that seemed incomplete.
+We found notes are made by both hiring staff and the SLT both before and after shortlisting has taken place. Sticky notes, handwritten notes and  highlighted text communicate red flags such as issues around references, right to work in the UK, whether that candidate had appeared rude during any contact that had been made or to mark areas of the application that seemed incomplete.
 
 Hiring staff add these notes directly onto the applications before they share them with the panel. We found it is unlikely the panel would see the notes made on TV (pre-shortlisting) unless they were actually part of the download.
 
-9. We tested a feature where hiring staff are able to communicate with an applicant if their application has been unsuccessful.
+9. We tested a feature that enabled hiring staff to communicate with an applicant if their application has been unsuccessful.
 
 {{ appFigure({
   image: {
@@ -236,7 +236,7 @@ Hiring staff add these notes directly onto the applications before they share th
   }
 }) }}
 
-We found HS don't like the term reject, they feel hesitant to use it as it seems both ‘harsh’ and too 'final.’
+We found hiring staff don't like the term reject, they feel hesitant to use it as it seems both ‘harsh’ and too 'final.’
 
 Because of this, 3 hiring staff reached for the contact link instead of the reject button to let someone know they haven't been successful.
 
@@ -291,5 +291,5 @@ As the decision makers within schools, we need to dedicate some time to understa
 
 Some design thinking and research is required around talent pools and what our competitors are offering to help hiring staff reach quality candidates.
 
-* How might we help HS hire applicants that might be more suited to other opportunities within the school?
-* How might we help HS target their ads to the desired audience and reach quality candidates?
+* How might we help hiring staff hire applicants that might be more suited to other opportunities within the school?
+* How might we help hiring staff target their ads to the desired audience and reach quality candidates?
