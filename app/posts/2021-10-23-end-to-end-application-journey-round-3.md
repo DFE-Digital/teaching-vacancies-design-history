@@ -22,7 +22,6 @@ related:
 
 As it stands, our live application feature is not being widely used by schools and only provides hiring staff with a fairly limited set of features to assist with their recruitment process. For this next round of research on the application journey, our aim was to be [more ambitious with our prototype](/application-management/) and think bigger for future development in an attempt to better support that complete end to end process.
 
-
 ## Goals for the study
 
 We aimed to usability test multiple new features on the hiring staff tracking system to verify that it meets their needs. New features included:
@@ -293,4 +292,4 @@ As the decision makers within schools, we need to dedicate some time to understa
 Some design thinking and research is required around talent pools and what our competitors are offering to help hiring staff reach quality candidates.
 
 * How might we help HS hire applicants that might be more suited to other opportunities within the school?
-* How might we help HS target their ads to the desired audience and reach quality candidates? 
+* How might we help HS target their ads to the desired audience and reach quality candidates?
