@@ -220,7 +220,7 @@ We found notes are made by both hiring staff and the SLT both before and after s
 
 Hiring staff add these notes directly onto the applications before they share them with the panel. We found it is unlikely the panel would see the notes made on TV (pre-shortlisting) unless they were actually part of the download.
 
-9. We tested a feature that enabled hiring staff to communicate with an applicant if their application has been unsuccessful.
+9. We tested a feature that enabled hiring staff to communicate with an applicant if their application had been unsuccessful.
 
 {{ appFigure({
   image: {
