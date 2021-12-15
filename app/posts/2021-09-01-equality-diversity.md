@@ -48,7 +48,7 @@ We sought advice from the Legal Advisers Office and received a response in writi
 
 We held a workshop to agree within the team how we might do this and came to the conclusion that it was too soon to develop a way to share diversity data. We first need a better understanding of the following:
 
-How do schools use diversity data? (breaking this down into types of school, types of hiring staff users within schools)
-Who in the department is interested in using the data? What would they use it for?
-Why did we decide to collect the data from jobseekers in the first place?
+* How do schools use diversity data? (breaking this down into types of school, types of hiring staff users within schools)
+* Who in the department is interested in using the data? What would they use it for?
+* Why did we decide to collect the data from jobseekers in the first place?
 What could we use the data for within Teaching Vacancies?
