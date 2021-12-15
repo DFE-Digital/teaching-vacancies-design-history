@@ -1,21 +1,21 @@
 {
-  "name": "design-history",
+  "name": "teaching-vacancies-design-history",
   "version": "1.0.0",
   "private": true,
   "engines": {
-    "node": "^15.0.0"
+    "node": "^16.0.0"
   },
   "description": "A place for documenting GOV.UK service designs",
   "keywords": [
-    "becoming-a-teacher",
+    "teaching-vacancies",
     "govuk",
     "11ty"
   ],
   "author": "Becoming a teacher team",
   "license": "MIT",
-  "homepage": "https://design-history.herokuapp.com",
-  "repository": "github:DFE-Digital/govuk-design-history",
-  "bugs": "https://github.com/DFE-Digital/govuk-design-history/issues",
+  "homepage": "https://teaching-vacancies-design-history.london.cloudapps.digital/",
+  "repository": "github:DFE-Digital/teaching-vacancies-design-history",
+  "bugs": "https://github.com/DFE-Digital/teaching-vacancies-design-history/issues",
   "scripts": {
     "prebuild": "rm -rf public",
     "build:files": "eleventy",
