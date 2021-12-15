@@ -18,11 +18,11 @@ related:
 
 When jobseekers apply for a job using the Teaching Vacancies application form, they are presented with optional diversity monitoring questions as part of the application process. When the application form is submitted, we ensure the diversity data is immediately separated from the application form, anonymised, and stored in a secure database. In user research, hiring staff from schools told us they would like to view this information to gauge how well their recruitment strategy is performing and ensure their workforce is diverse and inclusive.
 
-###  What we wanted to learn
+##  What we wanted to learn
 
 We wanted to agree how we can share diversity monitoring information from job applications with schools in a way that is unbiased, provides value to users and GDPR compliant.
 
-###  Hypothesis
+##  Hypothesis
 
 Our initial plan was to share the data on the service with schools after the closing date of a job and only if there were 5 or more applications for the job to reduce the risk of identifying applicants. We made this decision based on guidance from policy colleagues and the Information Commissioner’s Office.
 
@@ -48,7 +48,8 @@ We sought advice from the Legal Advisers Office and received a response in writi
 
 We held a workshop to agree within the team how we might do this and came to the conclusion that it was too soon to develop a way to share diversity data. We first need a better understanding of the following:
 
-* How do schools use diversity data? (breaking this down into types of school, types of hiring staff users within schools)
-* Who in the department is interested in using the data? What would they use it for?
+* How do schools use diversity data?
+* Who in the department is interested in using the data?
+* If there is an interest, what would the data be used for?
 * Why did we decide to collect the data from jobseekers in the first place?
-What could we use the data for within Teaching Vacancies?
+* What could we use the data for within Teaching Vacancies?
