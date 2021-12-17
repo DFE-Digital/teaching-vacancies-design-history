@@ -17,6 +17,7 @@ jobs:
     name: Build and deploy to GOV.UK PaaS
     runs-on: ubuntu-latest
     concurrency: deploy-${{ github.ref }}
+    if: ${{ github.actor != 'dependabot[bot]' }}
     steps:
       - uses: actions/checkout@v2
       - name: Set application environment (main branch)
