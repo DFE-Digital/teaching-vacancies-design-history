@@ -45,4 +45,4 @@ The two versions of the search results page on desktop devices which we tested a
 
 ## Next steps
 
-Based on these findings, we decided to move the buttons to the top of the search results page. Of the two designs this had a slightly higher vacancy view rate (even though the difference between the two was not statistically significant) and did make the filters more visible. However, we don’t expect any significant impact on the number of jobseekers viewing listings as a result.
+Based on these findings, we decided to move the fields to the top of the search results page. Of the two designs this had a slightly higher vacancy view rate (even though the difference between the two was not statistically significant) and did make the filters more visible. However, we don’t expect any significant impact on the number of jobseekers viewing listings as a result.
