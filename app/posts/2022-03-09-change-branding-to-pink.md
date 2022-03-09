@@ -4,6 +4,8 @@ description: Change all of the branding on our service to pink because it looks 
 date: 2022-03-09
 ---
 
+{% from "figure/macro.njk" import appFigure with context %}
+
 ## Hypothesis
 
 Decaffeinated, aroma, saucer et, chicory, crema, crema macchiato grinder saucer frappuccino. Robust whipped, steamed brewed café au lait mug and irish. Latte, caramelization crema rich sweet roast percolator froth.
@@ -25,3 +27,13 @@ Also:
 1. eins
 2. zwei
 3. drei
+
+## Here's an image
+{{ appFigure({
+  image: {
+    file: "coffee.jpeg",
+    path: "/images/"
+    alt: "Alt text."
+  },
+  caption: "I am an image caption."
+}) }}
