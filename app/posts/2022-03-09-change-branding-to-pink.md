@@ -32,7 +32,7 @@ Also:
 {{ appFigure({
   image: {
     file: "coffee.jpeg",
-    path: "/images/"
+    path: "/images/",
     alt: "Alt text."
   },
   caption: "I am an image caption."
