@@ -57,8 +57,37 @@ The maps shown below are instead a tool that helps us to debug the location sear
 
 {{ appFigure({
   image: {
-    file: "manage-view.png",
-    alt: "A screenshot of the manage your view screen"
+    file: "example-of-a-point-location-search.png",
+    alt: "Example of a point location search"
   }
 }) }}
-
+{{ appFigure({
+  image: {
+    file: "example-of-a-polygon-location-search.png",
+    alt: "Example of a polygon location search"
+  }
+}) }}
+{{ appFigure({
+  image: {
+    file: "the-london-polygon-unbuffered.png",
+    alt: "The London polygon with no buffer"
+  }
+}) }}
+{{ appFigure({
+  image: {
+    file: "the-london-polygon-with-a-5-mile-buffer.png",
+    alt: "The London polygon with a 5 mile buffer"
+  }
+}) }}
+{{ appFigure({
+  image: {
+    file: "the-london-polygon-with-a-10-mile-buffer.png",
+    alt: "The London polygon with a 10 mile buffer"
+  }
+}) }}
+{{ appFigure({
+  image: {
+    file: "service-homepage-before-radius-selection-was-removed.png",
+    alt: "The Service homepage before radius selection was removed "
+  }
+}) }}
