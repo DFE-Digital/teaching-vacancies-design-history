@@ -55,12 +55,8 @@ This logic was also applied to job alerts, increasing the location relevance for
 At time of implementation we did not display a map to jobseekers on the service.
 The maps shown below are instead a tool that helps us to debug the location search by visualising results.
 
-{{ appFigure({
-  image: {
-    file: "example-of-a-point-location-search.png",
-    alt: "Example of a point location search"
-  }
-}) }}
+{{ appFigure({ image: { file: "example-of-a-point-location-search.png", alt: "Example of a point location search" } }) }}
+
 {{ appFigure({
   image: {
     file: "example-of-a-polygon-location-search.png",
