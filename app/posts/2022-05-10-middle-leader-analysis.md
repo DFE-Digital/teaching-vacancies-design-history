@@ -15,13 +15,13 @@ Note that the figures of this analysis could be subject to change as more data i
 
 ## Hypotheses
 
-** The following hypotheses on miscategorisation based on observing the data have been explored :
+**The following hypotheses on miscategorisation based on observing the data have been explored :**
 
 1. More likely to misclassify middle leader in primary schools as roles are bigger proportionally and may "up" vacancy to leadership
 2. Leadership is too vague a definition and leads to people selecting over middle leader (journey is single select so cannot combine middle_leader and teacher or leadership for example)
 3. Pay affects categorisation (using TLR in job_role and salary descriptions to determine)
 
-** 1. More likely to misclassify middle leader in primary schools as roles are bigger proportionally and may "up" vacancy to leadership
+**1. More likely to misclassify middle leader in primary schools as roles are bigger proportionally and may "up" vacancy to leadership**
 
 * 12% miscategorisation in general in secondary schools
 * 7% miscategorisation in general in primary schools
@@ -29,24 +29,24 @@ Note that the figures of this analysis could be subject to change as more data i
 
 Likely reject this hypothesis as miscategorisation in primary schools is below our total miscategorisation average. We are seeing more in secondary schools, but the numbers are still inkeeping with our overall average. Data suggests that primary schools are better at correctly categorising a vacancy correctly when it is middle leader.
 
-** 2. Leadership is too vague a definition and leads to people selecting over middle leader (journey is single select so cannot combine middle_leader and teacher or leadership for example)
+**2. Leadership is too vague a definition and leads to people selecting over middle leader (journey is single select so cannot combine middle_leader and teacher or leadership for example)**
 
 * We deem 23% of those categorised as leadership should really be classified as middle_leader
 * Likely good evidence to suggest leadership is too vague
 * Teacher categorisation is also misclassified ~11%, we think these should be middle_leader (as teacher has a much higher count than the other job roles this is a larger issue by quantity)
 
-** 3. Pay affects categorisation (using TLR in job_role and salary descriptions as an indicator0
+**3. Pay affects categorisation (using TLR in job_role and salary descriptions as an indicator**
 
 * If contains TLR in salary description or job title -  42% miscategorisation
 * If doesn't contain TLR in salary description or job title - 9% miscategorisation
 
-** Other notable mentions (please note that some sample sizes are small when drawing conclusions):
+**Other notable mentions (please note that some sample sizes are small when drawing conclusions):**
 
 * Secondary + TLR + leadership - 91% miscategorisation
 * All through/secondary/primary + TLR + teacher - 89.5/70/62.5% miscategorisation respectively
 * Secondary + leadership + no TLR - ~24% (moderate sample size)
 
-** CTR observations
+**CTR observations**
 
 * 1.4% searches middle_leader filter used with 12% unique searches leading to a vacancy view
 * Comparing to leadership/teacher filters they have much higher usage 40/10% as well as almost double the views from unique searches at around 24%. It's worth noting here that middle_leader is slightly under half it's true "population size" due to miscategorisation. Proper categorisation would mean a greater volume of middle_leader vacancies which could increase views from searches, however, we can't be sure.
