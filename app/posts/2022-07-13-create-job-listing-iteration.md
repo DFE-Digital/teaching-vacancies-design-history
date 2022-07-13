@@ -2,9 +2,9 @@
 title: Create job listing iteration
 date: 2022-07-13
 tags:
-  - UN001
   - HN001
-  - HN002
+  - JN001
+  - JN002
 ---
 
 Research shows that users find [creating a job listing](/service-snapshot) problematic for many reasons so we have made several changes.
@@ -162,8 +162,8 @@ The hint text will change based on the role and type of school.
 | Headteacher, deputy or assistant headteacher | NA | For example ‘Assistant headteacher’ |
 | Head of year, department or phase | Primary | For example ‘KS1 phase leader’ |
 | Head of year, department or phase | Secondary | For example ‘Head of modern foreign languages’ |
-| Teaching assistant | Secondary | For example ‘Level 2 teaching assistant’ |
 | Teaching assistant | Primary | For example ‘KS1 teaching assistant’ |
+| Teaching assistant | Secondary | For example ‘Level 2 teaching assistant’ |
 | Learning support, cover supervisor or tutor | Primary | For example ‘KS2 learning mentor’ |
 | Learning support, cover supervisor or tutor | Secondary | For example ‘SEND learning support assistant’ |
 | SENDCo | NA | For example ‘SENDCo’ |
@@ -592,6 +592,16 @@ We now just have:
 - a link labelled ‘Preview job listing (opens in new tab)’
 - a paragraph that says ‘By publishing this job listing you agree to the [terms and conditions]’
 
+If the job listing is being published today:
+
+- the h1 heading says ‘Check details and publish job listing’
+- the submit button says ‘Publish job listing’
+
+If the job listing is being published in the future:
+
+- the h1 heading says ‘Check details and schedule job listing’
+- the submit button says ‘Schedule job listing’
+
 ### Previewing a job listing
 
 Previously, when a user previewed a job listing, they were taken to a preview page with a notification banner at the top. It contained options to:
@@ -710,8 +720,11 @@ We want to consider:
     text: "Upload additional documents - step 3",
     img: { src: "upload-additional-documents-0.png" }
   }, {
-    text: "Check answers",
-    img: { src: "check.png" }
+    text: "Check answers - publishing today",
+    img: { src: "check--publish.png" }
+  }, {
+    text: "Check answers - scheduling for the future",
+    img: { src: "check--schedule.png" }
   }, {
     text: "Confirmation page - published",
     img: { src: "confirmation--published.png" }
