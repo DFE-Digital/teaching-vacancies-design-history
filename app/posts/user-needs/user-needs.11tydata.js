@@ -1,8 +1,5 @@
 module.exports = {
   tags: ['user-need'],
-  eleventyNavigation: {
-    parent: 'User needs for TV'
-  },
   eleventyComputed: {
     title: data => `Need ${data.page.fileSlug}`,
     related: data => {
@@ -17,6 +14,9 @@ module.exports = {
           }))
         }
       }
+    },
+    eleventyNavigation: {
+      parent: 'User needs'
     }
   }
 }
