@@ -1,24 +1,18 @@
 ---
 title: Create job listing iteration
-description: We made many changes to the flow for creating a job listing.
 date: 2022-07-13
+tags:
+  - UN001
+  - HN001
+  - HN002
 ---
 
 Research shows that users find [creating a job listing](/service-snapshot) problematic for many reasons so we have made several changes.
 
 ## User needs
 
-As a hiring staff user
-I need to be able to create a job listing
-So that jobseekers can find and apply for jobs at my school
-
-As a jobseeker
-I need to easily understand a job listing
-So that I know whether it’s suitable
-
-As a jobseeker
-I need to be able to apply for a job easily
-So that I spend as little time as possible applying for jobs
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 ## Measuring success
 
