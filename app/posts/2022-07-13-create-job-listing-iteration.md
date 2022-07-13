@@ -592,6 +592,16 @@ We now just have:
 - a link labelled ‘Preview job listing (opens in new tab)’
 - a paragraph that says ‘By publishing this job listing you agree to the [terms and conditions]’
 
+If the job listing is being published today:
+
+- the h1 heading says ‘Check details and publish job listing’
+- the submit button says ‘Publish job listing’
+
+If the job listing is being published in the future:
+
+- the h1 heading says ‘Check details and schedule job listing’
+- the submit button says ‘Schedule job listing’
+
 ### Previewing a job listing
 
 Previously, when a user previewed a job listing, they were taken to a preview page with a notification banner at the top. It contained options to:
@@ -710,8 +720,11 @@ We want to consider:
     text: "Upload additional documents - step 3",
     img: { src: "upload-additional-documents-0.png" }
   }, {
-    text: "Check answers",
-    img: { src: "check.png" }
+    text: "Check answers - publishing today",
+    img: { src: "check--publish.png" }
+  }, {
+    text: "Check answers - scheduling for the future",
+    img: { src: "check--schedule.png" }
   }, {
     text: "Confirmation page - published",
     img: { src: "confirmation--published.png" }
