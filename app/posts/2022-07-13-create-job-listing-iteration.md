@@ -2,9 +2,9 @@
 title: Create job listing iteration
 date: 2022-07-13
 tags:
-  - UN001
   - HN001
-  - HN002
+  - JN001
+  - JN002
 ---
 
 Research shows that users find [creating a job listing](/service-snapshot) problematic for many reasons so we have made several changes.
@@ -162,8 +162,8 @@ The hint text will change based on the role and type of school.
 | Headteacher, deputy or assistant headteacher | NA | For example ‘Assistant headteacher’ |
 | Head of year, department or phase | Primary | For example ‘KS1 phase leader’ |
 | Head of year, department or phase | Secondary | For example ‘Head of modern foreign languages’ |
-| Teaching assistant | Secondary | For example ‘Level 2 teaching assistant’ |
 | Teaching assistant | Primary | For example ‘KS1 teaching assistant’ |
+| Teaching assistant | Secondary | For example ‘Level 2 teaching assistant’ |
 | Learning support, cover supervisor or tutor | Primary | For example ‘KS2 learning mentor’ |
 | Learning support, cover supervisor or tutor | Secondary | For example ‘SEND learning support assistant’ |
 | SENDCo | NA | For example ‘SENDCo’ |
