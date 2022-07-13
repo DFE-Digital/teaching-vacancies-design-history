@@ -69,17 +69,17 @@ We changed the primary submit button to ‘Save and continue’ and removed the 
 We added a ‘Save and finish later’ secondary button next to the primary button to make it clearer that this is possible
 
 We moved the cancel link to below the submit button and changed the label to ‘Cancel’ as it’s more concise and makes room for the submit buttons
-### Locations at multi academy trusts (MAT)
+### Locations at multi academy trusts (MAT) and local authorities (LA)
 
 Previously, users who belong to organisations with multiple locations were asked where the job will be based. The options were:
 
-- At one school in the trust - this takes users to a page with a list of locations as radio buttons
-- At the trust’s head office - this takes users to the job details page
-- At more than one school in the trust - this takes users to a page with a list of locations as checkboxes
+- At one school in the organisation - this takes users to a page with a list of locations as radio buttons
+- At the organisations’ head office - this takes users to the job details page
+- At more than one school in the organisation - this takes users to a page with a list of locations as checkboxes
 
-This is long winded and unnecessary. So we changed this so that users are only asked to select a location where the job is based as checkboxes.
+This is long winded and unnecessary. So we changed this so that users are only asked to select a location where the job is based.
 
-The options include the head office and the schools within that MAT.
+Options are given as checkboxes and include the head office and the schools within that organisation.
 
 ### Role labels
 
