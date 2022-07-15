@@ -139,21 +139,20 @@ We want to consider:
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Job listings"
+    text: "Create account"
   }, {
-    text: "Interstitial",
-    img: { src: "copied.png" }
+    text: "Account created"
   }, {
-    text: "Title"
+    text: "Profile"
   }, {
-    text: "Publish and closing dates",
-    img: { src: "publish-closing-dates.png" }
+    text: "Publish and closing dates"
   }, {
     text: "Start date"
   }, {
     text: "Check answers",
     img: { src: "check.png" }
   }, {
-    text: "Confirmation"
+    text: "Profile - some filled out",
+    img: { src: "profile--filled.png" }
   }]
 }) }}
