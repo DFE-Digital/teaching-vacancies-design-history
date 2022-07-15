@@ -2,7 +2,11 @@
 title: Creating a jobseeker profile
 date: 2022-07-15
 tags:
-  - HN001
+  - HN002
+  - JN002
+  - JN003
+  - JN006
+  - JN009
 ---
 
 {% from "email/macro.njk" import appEmail with context %}
@@ -195,6 +199,12 @@ We want to consider:
   }, {
     text: "Qualifications - review",
     img: { src: "qualifications--review.png" }
+  }, {
+    text: "About",
+    img: { src: "about.png" }
+  }, {
+    text: "About - review",
+    img: { src: "about--review.png" }
   }, {
     text: "Profile - some filled out",
     img: { src: "profile--filled.png" }
