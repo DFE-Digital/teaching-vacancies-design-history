@@ -1,6 +1,6 @@
 ---
 title: Finding schools
-date: 2022-07-15
+date: 2022-07-18
 tags:
   - HN003
   - JN004
