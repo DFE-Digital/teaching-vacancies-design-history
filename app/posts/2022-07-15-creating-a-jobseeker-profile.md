@@ -138,8 +138,6 @@ We want to consider:
 - the consequences of turning off a profile after it’s been saved by a school
 - updating the content of the email job seekers receive after creating an account
 
-
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
