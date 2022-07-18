@@ -75,13 +75,13 @@ It has sections for:
 
 - Personal details - name and contact details
 - Job preferences - role, age group, key stage, subject, working pattern
-- Teaching status
+- Teaching status - qualified teaching status (QTS), early career teacher (ECT)
 - Degrees
 - Other qualifications
 - Work experience
 - About you
 
-Users can click into each section and fill it out. Once they have filled out the section, they return to the profile page.
+Users can click into each section and fill it out. Once they’ve filled out the section, they can return to the profile page.
 
 ### Previewing a profile
 
@@ -117,7 +117,7 @@ It also removes the green status tag of ‘Active’ next to the h1 heading.
 
 We want to find out if jobseekers:
 
-- understand what a profile is (from the email)
+- understand what a profile is before they create one
 - would choose to create a profile
 - find it easy to create a profile
 - would turn their profile on before it’s complete
