@@ -38,7 +38,7 @@ Clicking the link takes users to create an account.
 
 As a trainee teacher, you can start thinking about your first teaching job.
 
-You can find teaching jobs on GOV.UK
+You can find teaching jobs on GOV.UK.
 
 # Create a profile
 
