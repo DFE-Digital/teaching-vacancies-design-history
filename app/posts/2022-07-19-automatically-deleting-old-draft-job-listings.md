@@ -11,7 +11,7 @@ Users can create draft job listings, but sometimes they do not go on to publish 
 
 This is problematic because:
 
-- the list of draft jobs can get really long
+- the list of draft jobs can get very long
 - when we update the structure of a job listing, we cannot easily deprecate the older ones
 - they take up resources
 
@@ -57,16 +57,14 @@ Get support, report a problem or give feedback at [teaching.vacancies@education.
 
 <!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
-  subject: "6 draft job listings will be deleted in 7 days",
+  subject: "6 draft job listings will be deleted in 1 day",
   content: "
 
 Dear ((name))
 
 You currently have 6 draft job listings that have not been updated for over 2 months.
 
-These job listings will be deleted in 7 days on 19 August 2022.
-
-If you would like to keep these job listings, please make changes or publish them.
+If you do not make any changes or publish them, they’ll be deleted tomorrow (19 August 2022) at 11:59pm.
 
 Manage draft job listings:
 
@@ -74,6 +72,7 @@ Manage draft job listings:
 
 # Get support
 
-Get support, report a problem or give feedback at [teaching.vacancies@education.gov.uk](mailto:teaching.vacancies@education.gov.uk).
+Get support, report a problem or give feedback at teaching.vacancies@education.gov.uk.
+
   "
 }) }}
