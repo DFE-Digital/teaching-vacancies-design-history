@@ -30,7 +30,6 @@ We’ll notify users that the draft job listing will be deleted 7 days before, a
 
 ### 7 days to go
 
-<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   subject: "6 draft job listings will be deleted in 7 days",
   content: "
@@ -47,15 +46,17 @@ Manage draft job listings:
 
 ((link))
 
-# Get support
+# Get help
 
-Get support, report a problem or give feedback at [teaching.vacancies@education.gov.uk](mailto:teaching.vacancies@education.gov.uk).
+Report a problem or give feedback on how we can improve the service.
+
+https://teaching-vacancies.service.gov.uk/support_request/new
+
   "
 }) }}
 
 ### 1 day to go
 
-<!-- markdownlint-disable MD025 MD001 -->
 {{ appEmail({
   subject: "6 draft job listings will be deleted in 1 day",
   content: "
@@ -70,9 +71,11 @@ Manage draft job listings:
 
 ((link))
 
-# Get support
+# Get help
 
-Get support, report a problem or give feedback at teaching.vacancies@education.gov.uk.
+Report a problem or give feedback on how we can improve the service.
+
+https://teaching-vacancies.service.gov.uk/support_request/new
 
   "
 }) }}
