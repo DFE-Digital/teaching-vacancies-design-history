@@ -50,3 +50,14 @@ Ultimately, this test does not confirm nor deny whether Teaching Vacancies can m
 
 
 ## Screenshots
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "List only"
+    img: { src: "list-only.png" }
+  }, {
+    text: "map only"
+    img: { src: "map.png" }
+  }]
+}) }}
