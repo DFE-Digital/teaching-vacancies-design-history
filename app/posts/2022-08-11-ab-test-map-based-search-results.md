@@ -6,15 +6,15 @@ date: 2022-08-11
 
 We ran this A/B test to understand how introducing map-based search results would impact the jobseeker search journey. Using a map will affect future work on a new "commute time" feature, so we needed to identify if introducing a map would have a negative effect on a jobseeker’s user journey.
 
-We tested two variants; the first showed search results on a map, which displayed if a user specified a location, and between 1 and 500 results were available. The second only presented search results in a list. 
+We tested two variants; the first showed search results on a map, which displayed if a user specified a location, and between 1 and 500 results were available. The second only presented search results in a list.
 
 
-## Hypothesis 
+## Hypothesis
 
 If search results are presented on a map then jobseekers will see more relevant search results.
 
 
-## Who we tested with 
+## Who we tested with
 
 We sampled 246,500 searches between 30 Mayth 2022 and 26th June 2022. 50% of users were assigned to each variant.
 
@@ -45,19 +45,16 @@ In detail:
 - Showing users a map made no significant difference to how likely they were to download a document from a vacancy, and no difference to how many vacancies they viewed.
 
 
-## Next steps 
-Ultimately, this test does not confirm nor deny whether Teaching Vacancies can meet more users’ needs with the map feature. We fully implemented the map-based search results because there was no evidence that jobseeker journeys were adversely disrupted by them, and they will be necessary for showing commuting times on job listings in the future. Furthermore, we may test different designs of the map in the future. 
-
-
-## Screenshots
+## Next steps
+Ultimately, this test does not confirm nor deny whether Teaching Vacancies can meet more users’ needs with the map feature. We fully implemented the map-based search results because there was no evidence that jobseeker journeys were adversely disrupted by them, and they will be necessary for showing commuting times on job listings in the future. Furthermore, we may test different designs of the map in the future.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "List only"
+    text: "List only",
     img: { src: "list-only.png" }
   }, {
-    text: "map only"
+    text: "Map only",
     img: { src: "map.png" }
   }]
 }) }}
