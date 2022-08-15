@@ -1,6 +1,6 @@
 ---
 title: 'A/B test: Map-based search results'
-description: AB test for map-based search results
+description: A/B test for map-based search results
 date: 2022-08-11
 ---
 
