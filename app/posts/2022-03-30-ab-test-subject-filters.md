@@ -4,8 +4,6 @@ description: Subject filters were implemented because users do engage with them 
 date: 2022-03-30
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## Introduction
 
 We ran this A/B test to see how jobseekers would interact with subject filters if they were introduced, and whether using the filters would improve the relevance of results and job alerts to users. There were two variants: the current version of the service without subject filters, and the test variant that contained subject filters on both the "search results" and "create a job alert" pages.
