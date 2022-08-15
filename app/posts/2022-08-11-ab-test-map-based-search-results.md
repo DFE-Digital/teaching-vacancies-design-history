@@ -51,10 +51,10 @@ Ultimately, this test does not confirm nor deny whether Teaching Vacancies can m
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "List only",
+    text: "List-only search results",
     img: { src: "list-only.png" }
   }, {
-    text: "Map only",
+    text: "Map-based search results (with list)",
     img: { src: "map.png" }
   }]
 }) }}
