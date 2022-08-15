@@ -56,8 +56,6 @@ We tested with 127,231 jobseekers between 27th January and 11th March 2022. 1/6t
 Based on these findings we decided to use variant 2 for all job alert emails. This is because it generated the highest CTR to a vacancy and results still appeared relevant to jobseekers, and certainly more so than the present subject line.
 
 
-## Screenshots
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
