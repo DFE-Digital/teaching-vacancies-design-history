@@ -1,6 +1,6 @@
 ---
-title: 'A/B test: "popular searches" (quick links) on home page'
-description: 'The "popular searches" quick links were implemented because we deemed it unlikely that they would worsen users' search experiences'
+title: 'A/B test: popular searches (quick links) on home page'
+description: The popular searches quick links were implemented because we deemed it unlikely that they would worsen users' search experiences
 date: 2022-08-16
 ---
 
