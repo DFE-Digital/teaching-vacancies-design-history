@@ -138,7 +138,7 @@ In this case, it will say ‘The job listing will list the education phases.’
 
 We added a key stages filter to the job listings page. This will allow jobseekers to find relevant jobs across different types of schools.
 
-For example, if a jobseeker wants to teach KS2 but does not mind if the role is at a primary school or middle school,they can now just filter by KS2.
+For example, if a jobseeker wants to teach KS2 but does not mind if the role is at a primary school or middle school, they can now just filter by KS2.
 
 ### Conditionally showing key stages based on the phase of education
 
@@ -153,7 +153,7 @@ We’ll only show the relevant key stages for the phase of education.
 | middle_deemed_primary | KS1, KS2, KS3 | Yes |
 | middle_deemed_secondary | KS2, KS3, KS4 | Yes |
 | secondary | KS3, KS4 | Yes |
-| 16 |-19 KS5 | No |
+| 16-19 | KS5 | No |
 | all_through | Early years, KS1, KS2, KS3, KS4, KS5 | Yes |
 
 ### Changes to full time working pattern option
