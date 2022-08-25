@@ -276,11 +276,7 @@ We want to consider:
   }, {
     text: "Title"
   }, {
-    text: "Phase missing for a single location",
-    img: { src: "phase.png" }
-  }, {
-    text: "Phase missing for multiple locations",
-    img: { src: "phase--multiple.png" }
+    text: "Phase"
   }, {
     text: "Key stages"
   }, {
