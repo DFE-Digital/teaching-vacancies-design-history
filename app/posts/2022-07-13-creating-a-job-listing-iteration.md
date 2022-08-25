@@ -154,7 +154,7 @@ To simplify this, we decided to:
 
 The hint text will change based on the role and type of school.
 
-| Role | Subject | Hint |
+| Role | Phase | Hint |
 |------------|----------|----------|
 | Teacher | Primary | For example ‘Teacher of KS1’ |
 | Teacher | Secondary | For example ‘Teacher of Maths’ |
