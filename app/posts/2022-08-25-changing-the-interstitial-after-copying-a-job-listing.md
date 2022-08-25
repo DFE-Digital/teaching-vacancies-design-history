@@ -5,7 +5,7 @@ tags:
   - HN001
 ---
 
-We recently [added an interstitial page that’s shown after copying a job listing](/copying-a-job-listing).
+We recently [added an interstitial page that’s shown after copying a job listing](/copying-a-job-listing-iteration).
 
 We did not mention which job listing was copied.
 
