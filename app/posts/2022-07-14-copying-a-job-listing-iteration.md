@@ -1,5 +1,5 @@
 ---
-title: Copy job listing iteration
+title: Copying a job listing iteration
 date: 2022-07-14
 tags:
   - HN001
