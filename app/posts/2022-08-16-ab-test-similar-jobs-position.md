@@ -45,6 +45,6 @@ Based on these findings, we decided to keep the similar jobs feature in it’s o
     img: { src: "similar-job-on-left-hand-side-of-listing.png" }
   }, {
     text: "Similar jobs at bottom of listing",
-    img: { src: "similar-jobs-at-bottom-of-listing.png" }
+    img: { src: "similar-jobs-bottom-of-listing.png" }
   }]
 }) }}
