@@ -18,7 +18,7 @@ If similar jobs are displayed on the left of job listings, under the timeline, t
 
 
 ## Who we tested with: 
-We tested with 109,548 jobseekers between 18th March 2022 and 26th April 2022. 50% of desktop users were assigned to each variant. 
+We tested with 109,548 jobseekers between 18 March 2022 and 26 April 2022. 50% of desktop users were assigned to each variant. 
 
 
 ## Findings:
