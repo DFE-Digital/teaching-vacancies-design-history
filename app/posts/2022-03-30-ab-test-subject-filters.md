@@ -14,7 +14,7 @@ IF subject filters are present THEN users will engage with them AND will receive
 
 
 ## Who we tested with 
-We tested with 264,313 jobseekers between 22nd February and 15th March 2022. 50% of users were assigned to each variant.
+We tested with 264,313 jobseekers between 22 February 2022 and 15 March 2022. 50% of users were assigned to each variant.
 
 
 ## Limitations
@@ -24,9 +24,9 @@ Consequently, the A/B test does not show reliable results, especially when it co
 
 
 ## Findings
-About 1% of users appear to use subject filters when they are displayed on the page
-The numbers are higher on desktop (3%) than on mobile (0.5%)
-This could be due to the fact that they are more prominent and easier to use on the desktop view of the service
+-  About 1% of users appear to use subject filters when they are displayed on the page
+-  The numbers are higher on desktop (3%) than on mobile (0.5%)
+-  This could be due to the fact that they are more prominent and easier to use on the desktop view of the service
 
 
 ## Next steps
