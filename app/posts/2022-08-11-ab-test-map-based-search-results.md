@@ -16,7 +16,7 @@ If search results are presented on a map then jobseekers will see more relevant 
 
 ## Who we tested with
 
-We sampled 246,500 searches between 30 Mayth 2022 and 26th June 2022. 50% of users were assigned to each variant.
+We sampled 246,500 searches between 30 May 2022 and 26 June 2022. 50% of users were assigned to each variant.
 
 No statistical tests were carried out on the data; owing to the complexity of the requirements, this was an ad-hoc piece of analysis which was not able to re-use our standard A/B testing code. However, the sample sizes were large, indicating that the results are likely to be statistically significant.
 
