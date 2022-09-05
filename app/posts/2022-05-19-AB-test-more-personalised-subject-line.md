@@ -31,7 +31,7 @@ IF job alert emails have a more personalised subject line THEN more jobseekers w
 
 ## Who we tested with
 
-We tested with 127,231 jobseekers between 27th January and 11th March 2022. 1/6th of users who receive job alerts were assigned each variant.
+We tested with 127,231 jobseekers between 27 January 2022 and 11 March 2022. 1/6th of users who receive job alerts were assigned each variant.
 
 
 ## Findings
