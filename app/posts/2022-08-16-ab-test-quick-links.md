@@ -11,7 +11,7 @@ We tested two variants with users: the default home page without quick links, an
 
 
 ## Date work was completed
-30th March 2022 (A/B test turned off)
+30 March 2022 (A/B test turned off)
 
 
 ## Hypothesis
@@ -19,7 +19,7 @@ If quick links are displayed then users will click on them, and these will lead 
 
 
 ## Who we tested with
-We tested with 200,302 jobseekers between 1st February and 21st February 2022. Half of users were assigned to each variant of the homepage.
+We tested with 200,302 jobseekers between 1 February 2022 and 21 February 2022. Half of users were assigned to each variant of the homepage.
 
 
 ## Limitations
