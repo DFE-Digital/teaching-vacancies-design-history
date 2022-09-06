@@ -4,8 +4,6 @@ description: Subject filters were implemented because users do engage with them 
 date: 2022-03-30
 ---
 
-{% from "figure/macro.njk" import appFigure with context %}
-
 ## Introduction
 
 We ran this A/B test to see how jobseekers would interact with subject filters if they were introduced, and whether using the filters would improve the relevance of results and job alerts to users. There were two variants: the current version of the service without subject filters, and the test variant that contained subject filters on both the "search results" and "create a job alert" pages.
@@ -16,7 +14,7 @@ IF subject filters are present THEN users will engage with them AND will receive
 
 
 ## Who we tested with 
-We tested with 264,313 jobseekers between 22nd February and 15th March 2022. 50% of users were assigned to each variant.
+We tested with 264,313 jobseekers between 22 February 2022 and 15 March 2022. 50% of users were assigned to each variant.
 
 
 ## Limitations
@@ -26,10 +24,22 @@ Consequently, the A/B test does not show reliable results, especially when it co
 
 
 ## Findings
-About 1% of users appear to use subject filters when they are displayed on the page
-The numbers are higher on desktop (3%) than on mobile (0.5%)
-This could be due to the fact that they are more prominent and easier to use on the desktop view of the service
+-  About 1% of users appear to use subject filters when they are displayed on the page
+-  The numbers are higher on desktop (3%) than on mobile (0.5%)
+-  This could be due to the fact that they are more prominent and easier to use on the desktop view of the service
 
 
 ## Next steps
 We implemented the subject filters despite the bug (discussed under the "limitations" section) meaning that we could not accurately measure how the subject filters affected the relevance of results and job alerts for jobseekers. However, we knew that subject filters would be necessary for mapping search terms to filters, and the A/B test did prove that users engage with them when they are present, therefore, we decided to keep them.
+
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+    text: "Without subject filters",
+    img: { src: "without-subject-filters.png" }
+  }, {
+    text: "With subject filters",
+    img: { src: "with-subject-filters.png" }
+  }]
+}) }}
