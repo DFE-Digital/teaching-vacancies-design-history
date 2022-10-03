@@ -206,5 +206,17 @@ We want to consider:
   }, {
     text: "Profile - some filled out",
     img: { src: "profile--filled.png" }
+  }, {
+    text: "Turn off profile",
+    img: { src: "turn-off.png" }
+  }, {
+    text: "Turn off profile - success message",
+    img: { src: "turn-off--success.png" }
+  }, {
+    text: "Turn on profile",
+    img: { src: "turn-on.png" }
+  }, {
+    text: "Turn on profile - success message",
+    img: { src: "turn-on--success.png" }
   }]
 }) }}
