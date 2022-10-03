@@ -167,10 +167,10 @@ It’s also not necessary to help hiring staff find a suitable candidate. Hiring
     text: "Qualifications - type",
     img: { src: "qualifications--type.png" }
   }, {
-    text: "Qualifications - key stages",
+    text: "Qualifications - another UK qualification",
     img: { src: "qualifications--type--another-uk-qualification.png" }
   }, {
-    text: "Qualifications - subjects",
+    text: "Qualifications - a qualification not from the UK",
     img: { src: "qualifications--type--non-uk.png" }
   }, {
     text: "Qualifications - details",
