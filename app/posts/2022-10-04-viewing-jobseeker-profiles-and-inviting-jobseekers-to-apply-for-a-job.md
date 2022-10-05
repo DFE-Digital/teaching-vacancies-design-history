@@ -8,7 +8,7 @@ tags:
 ---
 
 
-We recently designed a way for [jobseekers to create a profile](/creating-a-jobseeker-profile).
+We recently designed a way for [jobseekers to create a profile](/creating-a-jobseeker-profile-iteration-2).
 
 We’ve now designed a way for hiring staff to view relevant jobseeker profiles and invite them to apply for their jobs.
 
