@@ -120,7 +120,8 @@ So we’ve added examples for this.
 | Head of year, department or phase | Middle | For example ‘Head of modern foreign languages’ |
 | Head of year, department or phase | Sixth form or college | For example ‘Head of modern foreign languages’ |
 | Head of year, department or phase | Through school | For example ‘KS1 phase leader’ or ‘Head of modern foreign languages’ |
-| Teaching assistant | NA | For example ‘Level 2 teaching assistant’’ |
+| Teaching assistant | NA | For example ‘Teaching assistant’ |
+| HLTA | NA | For example ‘Higher level teaching assistant’ |
 | Learning support, cover supervisor or tutor | NA | For example ‘Learning support assistant’ |
 | SENDCo | NA | For example ‘SENDCo’ |
 
