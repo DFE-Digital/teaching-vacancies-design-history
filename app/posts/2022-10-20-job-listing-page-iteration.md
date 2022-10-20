@@ -1,5 +1,5 @@
 ---
-title: Redesigning the job listing page
+title: Job listing page iteration
 date: 2022-10-20
 tags:
   - JN001
@@ -31,7 +31,7 @@ For example:
 
 ### Removing the ‘Similar jobs’ section
 
-We removed the ‘Similar jobs nearby’ section because it does not currently show relevant suggestions.
+We removed the ‘Similar jobs nearby’ section because it does not show relevant suggestions.
 
 In future, we’ll add this functionality back in when we can reliably show relevant suggestions.
 
@@ -43,7 +43,7 @@ But to save space and make the page easier to read, we’ve changed this into a 
 
 ### Adding an ‘Apply for job’ call to action
 
-Previously the call to action to apply for the job was in the middle of the page.
+Previously, the call to action to apply for the job was in the middle of the page.
 
 This makes it hard to spot so we added an ‘Apply for job’ button to the top of the page.
 
