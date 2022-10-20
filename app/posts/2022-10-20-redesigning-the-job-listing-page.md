@@ -39,7 +39,7 @@ In future, we’ll add this functionality back in when we can reliably show rele
 
 Previously, on job listings at multiple schools, we showed details about each school within an accordion.
 
-But to save space and make the page easier to read, we’ve changed this into a list of links to the individual [school profile pages](#).
+But to save space and make the page easier to read, we’ve changed this into a list of links to the individual [school profile pages](/finding-schools).
 
 ### Adding an ‘Apply for job’ call to action
 
