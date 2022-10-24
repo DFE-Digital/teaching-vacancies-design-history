@@ -25,7 +25,7 @@ We removed styles that do not follow the GOV.UK Design System.
 
 For example:
 
-- we changed ‘Get job alert for similar jobs’ and ‘Save this job for later’ into standard buttons.
+- we changed ‘Get job alert for similar jobs’ and ‘Save this job for later’ into standard buttons
 - we removed the grey bottom borders used on h2 headings
 - we removed the timeline styles for the publish, closing and job start date
 
