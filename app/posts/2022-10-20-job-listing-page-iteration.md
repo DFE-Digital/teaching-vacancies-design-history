@@ -10,7 +10,7 @@ tags:
 
 We recently redesigned how hiring staff [create job listings](/creating-a-job-listing-iteration-2).
 
-As a result we redesigned the job listing page to reflect the new structure and make other improvements.
+As a result, we redesigned the job listing page to reflect the new structure and make other improvements.
 
 ## User needs
 
@@ -27,7 +27,7 @@ For example:
 
 - we changed ‘Get job alert for similar jobs’ and ‘Save this job for later’ into standard buttons.
 - we removed the grey bottom borders used on h2 headings
-- we removed the ‘train tracks’ for the publish, closing and job start date
+- we removed the timeline styles for the publish, closing and job start date
 
 ### Removing the ‘Similar jobs’ section
 
@@ -37,7 +37,7 @@ In future, we’ll add this functionality back in when we can reliably show rele
 
 ### Removing accordions for schools within a trust
 
-Previously, on job listings at multiple schools, we showed details about each school within an accordion.
+Previously, on job listings at multiple schools within a trust, we showed details about each school within an accordion.
 
 But to save space and make the page easier to read, we’ve changed this into a list of links to the individual [school profile pages](/finding-schools).
 
@@ -45,9 +45,9 @@ But to save space and make the page easier to read, we’ve changed this into a 
 
 Previously, the call to action to apply for the job was in the middle of the page.
 
-This makes it hard to spot so we added an ‘Apply for job’ button to the top of the page.
+This makes it hard to spot, so we added an ‘Apply for job’ button to the top of the page.
 
-Clicking on the button works differently depending on how hiring staff have set up the application process.
+Clicking the button works differently depending on how hiring staff have set up the application process.
 
 | How applications are made | What the ‘Apply for job’ button does |
 |------------|----------|
