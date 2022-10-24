@@ -1,6 +1,6 @@
 ---
 title: Job listing page iteration
-date: 2022-10-20
+date: 2022-10-24
 tags:
   - JN001
   - JN004
