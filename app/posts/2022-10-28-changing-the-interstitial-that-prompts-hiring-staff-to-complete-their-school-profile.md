@@ -26,7 +26,11 @@ Here, we’re trying to encourage users to complete their school profile in orde
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Interstitial",
-    img: { src: "interstitial.png" }
+    text: "School interstitial",
+    img: { src: "school-interstitial.png" }
+  },
+  {
+    text: "Organisation interstitial",
+    img: { src: "organisation-interstitial.png" }
   }]
 }) }}
