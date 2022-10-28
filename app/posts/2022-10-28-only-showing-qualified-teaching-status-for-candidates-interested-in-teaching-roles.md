@@ -4,10 +4,9 @@ date: 2022-10-28
 tags:
 - HN002
 - JN002
-- JN008
 ---
 
-Previously, qualified teaching status (QTS) was included in candidate profiles for all roles on the service.
+Previously, qualified teaching status (QTS) was included in [candidate profiles](/creating-a-jobseeker-profile-iteration-2/) for all roles on the service.
 
 QTS is a requirement for teaching roles and gives hiring staff confidence that the candidates have the right experience for the following roles:
 - Teacher
@@ -37,6 +36,9 @@ This makes candidate profiles more inclusive of all the roles in scope on the se
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
+    text: "Candidate profiles",
+    img: { src: "candidate-profiles.png" }
+  }, {
     text: "Teacher candidate profile",
     img: { src: "teacher-candidate-profile.png" }
   }, {
