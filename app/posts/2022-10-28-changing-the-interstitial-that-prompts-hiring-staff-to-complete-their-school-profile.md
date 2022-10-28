@@ -22,7 +22,6 @@ We also realised we had not told users about school profiles yet, so we redesign
 
 Here, we’re trying to encourage users to complete their school profile in order to save time later when they list jobs on the service. It’s clearer and introduces school profiles, before giving them extra tasks to complete. We’ll encourage users to add their school logos and photos later on.
 
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
