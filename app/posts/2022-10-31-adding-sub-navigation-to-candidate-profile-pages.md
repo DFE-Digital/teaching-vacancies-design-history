@@ -29,5 +29,10 @@ This allows hiring staff users to see:
   items: [{
     text: "Candidate profile",
     img: { src: "candidate-profile.png" }
-  }]
+  },
+  {
+    text: "Candidate profile with 'Invitation to apply' selected",
+    img: { src: "candidate-profile-with-invitation-to-apply-selected.png" }
+  }
+  ]
 }) }}
