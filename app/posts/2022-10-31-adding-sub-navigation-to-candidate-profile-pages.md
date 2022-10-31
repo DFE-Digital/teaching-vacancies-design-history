@@ -1,6 +1,6 @@
 ---
 title: Adding sub navigation to candidate profile pages
-date: 2022-10-28
+date: 2022-10-31
 tags:
 - HN002
 ---
