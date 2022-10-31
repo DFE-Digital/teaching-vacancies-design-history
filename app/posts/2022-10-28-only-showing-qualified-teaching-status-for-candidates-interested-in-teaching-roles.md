@@ -12,6 +12,7 @@ QTS is relevant to teaching roles and gives hiring staff confidence that the can
 - Teacher
 - Headteacher, deputy or assistant headteacher
 - Head of year, department, curriculum or phase
+- SENDCo (special educational needs and disabilities coordinator)
 
 These candidates can say that they have QTS, or are on track to receive it if they are currently in teacher training.
 
