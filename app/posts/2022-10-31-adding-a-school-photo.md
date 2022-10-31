@@ -38,12 +38,12 @@ We also changed the page design so the image users upload is now displayed below
     img: { src: "school-photo-updated-page.png" }
   },
   {
-    text: "Organisation photo updated page",
-    img: { src: "check-school-photo-page.png" }
-  },
-  {
     text: "Organisation photo upload page",
     img: { src: "organisation-photo-upload-page.png" }
+  },
+  {
+    text: "Check organisation photo page",
+    img: { src: "check-organisation-photo-page.png" }
   },
   {
     text: "Organisation photo updated page",
