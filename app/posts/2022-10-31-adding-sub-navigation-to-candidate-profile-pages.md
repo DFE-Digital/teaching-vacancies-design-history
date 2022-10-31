@@ -31,7 +31,7 @@ This allows hiring staff users to see:
     img: { src: "candidate-profile.png" }
   },
   {
-    text: "Candidate profile with 'Invitation to apply' selected",
+    text: "Invitation to apply",
     img: { src: "candidate-profile-with-invitation-to-apply-selected.png" }
   }
   ]
