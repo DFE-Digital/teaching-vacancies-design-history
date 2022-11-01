@@ -18,7 +18,7 @@ These candidates can say that they have QTS, or are on track to receive it if th
 
 We iterated the candidate profile design so qualified teaching status (QTS) is only included on profiles where the candidate is interested in teaching roles, or teaching and support roles.
 
-Now, it will not say ‘Does not have QTS’ on profiles where the candidate is exclusively looking for support or SENDCo (special educational needs and disabilities coordinator) roles, as this is not a requirement for the job:
+Now, it will not say ‘Does not have QTS’ on profiles where the candidate is exclusively looking for support roles, as this is not a requirement for the job:
 - Teaching assistant
 - HLTA (higher level teaching assistant)
 - Learning support, cover supervisor or tutor
