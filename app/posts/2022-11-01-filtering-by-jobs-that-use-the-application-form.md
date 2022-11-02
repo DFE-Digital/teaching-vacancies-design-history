@@ -5,8 +5,8 @@ date: 2022-11-01
 
 Hiring staff can set up their job listings so that applications are received by either:
 
-- using our application form
-- downloading a PDF application form and sending it to the school by email
+- using our online application form
+- downloading an application form and sending it to the school by email
 - clicking through to an external website
 
 We recommend using our application form because:
