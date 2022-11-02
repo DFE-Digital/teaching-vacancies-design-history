@@ -12,7 +12,7 @@ This includes the school or organisation’s:
 
 - education phase
 - contact email address
-- email address to receive PDF applications
+- email address to receive application forms
 - description
 - commitment to safeguarding
 

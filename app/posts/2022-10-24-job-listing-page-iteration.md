@@ -51,8 +51,8 @@ Clicking the button works differently depending on how hiring staff have set up 
 
 | How applications are made | What the ‘Apply for job’ button does |
 |------------|----------|
-| Through the application form | Takes the user to the first step of application form |
-| Downloading a PDF application form | Scrolls the user down to the section to download the PDF application form |
+| Through the onlone application form | Takes the user to the first step of application form |
+| Downloading an application form | Scrolls the user down to the section to download the application form |
 | Clicking a link to an external website | Scrolls the user down to the section with a link to the external website |
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
@@ -61,7 +61,7 @@ Clicking the button works differently depending on how hiring staff have set up 
     text: "Job listing",
     img: { src: "job-listing.png" }
   }, {
-    text: "Job listing - when jobseeker must apply with a PDF application form",
+    text: "Job listing - when jobseeker must apply with a form they download",
     img: { src: "job-listing--pdf.png" }
   }, {
     text: "Job listing - when jobseeker must apply through an external website",
