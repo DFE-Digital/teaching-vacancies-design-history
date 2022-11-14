@@ -22,6 +22,7 @@ We’ll consider these changes to be successful if:
 - feedback is more positive about the job listing
 - more applications are made to jobs
 - time spent creating a job listing is reduced
+- the amount of out of scope roles are reduced
 
 ## What we changed
 

@@ -27,9 +27,9 @@ We also think this will further encourage hiring staff to use the application fo
 
 ## How it works
 
-Job listings that use the application form will show a green tag that says ‘Quick apply’.
+Job listings that use the application form will show a green tag that says ‘Apply directly online’.
 
-Jobseekers can filter by ‘Quick apply’ which will update the list to only show job listings that use the application form.
+Jobseekers can filter by ‘Apply directly online’ which will update the list to only show job listings that use the application form.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
