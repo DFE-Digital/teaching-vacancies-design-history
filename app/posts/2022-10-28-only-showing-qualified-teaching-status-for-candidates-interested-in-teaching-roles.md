@@ -4,7 +4,6 @@ date: 2022-10-28
 tags:
 - HN002
 - JN002
-- dog
 themes:
 - Profile
 ---

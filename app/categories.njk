@@ -62,8 +62,13 @@ permalink: /categories/index.html
 <ul>
   {%- for tag, posts in collections %}
 
-      <a class="tag" href="{{ tag }}">{{ tag }}, posts: {{ posts | length }}</a>
-{%- endfor %}
+    {% if ('JN' in tag) or ('HN' in tag) %}
+
+    {% else %}
+    <a class="tag" href="{{ tag }}">{{ tag }}, posts: {{ posts | length }}</a>
+    {% endif %}
+
+  {%- endfor %}
 </ul>
 
   <section>
