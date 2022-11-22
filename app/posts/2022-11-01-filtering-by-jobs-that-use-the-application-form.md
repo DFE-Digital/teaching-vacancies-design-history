@@ -1,6 +1,8 @@
 ---
 title: Filtering by jobs that use the application form (quick apply)
 date: 2022-11-01
+tags:
+  - applying_for_a_job
 ---
 
 Hiring staff can set up their job listings so that applications are received by either:

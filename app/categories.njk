@@ -58,24 +58,18 @@ permalink: /categories/index.html
   Categories
 </h1>
 
+<p class="govuk-body">All categories:</p>
 
-<ul>
+<ul class="govuk-list govuk-list--bullet">
   {%- for tag, posts in collections %}
 
-    {% if ('JN' in tag) or ('HN' in tag) %}
-
+    {% if ('JN' in tag) or ('HN' in tag) or ('search' in tag) or ('user-need' in tag) or ('all' in tag)%}
     {% else %}
-    <a class="tag" href="{{ tag }}">{{ tag }}, posts: {{ posts | length }}</a>
+      <li><a class="govuk-link" href="/categories/{{ tag }}">{{ tag }} ({{ posts | length }})</a></li>
     {% endif %}
 
   {%- endfor %}
 </ul>
-
-  <section>
-  {%- for tag, posts in collections %}
-  tag: {{ tag }}, posts: {{ posts | length }}<br/>
-  {%- endfor %}
-</section>
 
 
 {% endblock %}

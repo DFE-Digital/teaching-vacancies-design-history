@@ -3,6 +3,7 @@ title: Adding an 'Invitees' section to job listing pages
 date: 2022-10-31
 tags:
 - HN002
+- school_profiles
 ---
 
 We added a section within a job listing page called ‘Invitees’. This allows hiring staff users to see all of the candidate profiles who have been invited to apply for the job by themselves or other members of their school or organisation.
