@@ -3,6 +3,7 @@ title: Handling incomplete sections of a candidate profile
 date: 2022-11-08
 tags:
   - JN002
+  - candidate_profiles
 ---
 
 When a jobseeker [creates a candidate profile](/creating-a-jobseeker-profile-iteration-2), there are situations that can lead to having incomplete sections.

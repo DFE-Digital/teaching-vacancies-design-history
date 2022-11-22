@@ -4,6 +4,9 @@ date: 2022-10-28
 tags:
 - HN002
 - JN002
+- dog
+themes:
+- Profile
 ---
 
 Previously, qualified teaching status (QTS) was included in [candidate profiles](/creating-a-jobseeker-profile-iteration-2/) for all roles on the service.
@@ -30,6 +33,7 @@ This makes candidate profiles more inclusive of all the roles in scope on the se
 ## User needs
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
+
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 

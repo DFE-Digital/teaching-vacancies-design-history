@@ -65,6 +65,35 @@
               }) }}
             </div>
           {% endif %}
+          <div class="govuk-grid-column-one-third">
+              <aside class="app-related govuk-!-display-none-print" role="complementary">
+                <h2 class="govuk-heading-s govuk-!-margin-bottom-2" id="-title">Categories</h2>
+                <nav role="navigation" aria-labelledby="-title">
+                  <ul class="app-related__list">
+                    <li class="app-related__list-item">
+                      <h3 class="app-related__list-item-title">
+                        <a class="govuk-link" href="categories/candidate-profiles.html">Candidate profiles</a>
+                      </h3>
+                    </li>
+                    <li class="app-related__list-item">
+                      <h3 class="app-related__list-item-title">
+                        <a class="govuk-link" href="/categories/job-seeker-candidate-profiles">School and organisation profiles</a>
+                      </h3>
+                    </li>
+                    <li class="app-related__list-item">
+                      <h3 class="app-related__list-item-title">
+                        <a class="govuk-link" href="/categories/job-seeker-candidate-profiles">Searching for a role</a>
+                      </h3>
+                    </li>
+                    <li class="app-related__list-item">
+                      <h3 class="app-related__list-item-title">
+                        <a class="govuk-link" href="/categories/job-seeker-candidate-profiles">Searching for a role</a>
+                      </h3>
+                    </li>
+                  </ul>
+                </nav>
+              </aside>
+            </div>
         {# List sections (pages whose parent is `home`) if homepage with no pagination key set #}
         {% elif eleventyNavigation.key == "home" %}
           <div class="govuk-grid-column-full">
