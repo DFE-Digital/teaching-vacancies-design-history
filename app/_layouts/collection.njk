@@ -66,37 +66,35 @@
             </div>
           {% endif %}
 
-
-
           <div class="govuk-grid-column-one-third">
-              <aside class="app-related govuk-!-display-none-print" role="complementary">
-                <h2 class="govuk-heading-s govuk-!-margin-bottom-2" id="-title">Categories</h2>
-                <nav role="navigation" aria-labelledby="-title">
-                  <ul class="app-related__list">
-                    <li class="app-related__list-item">
-                      <h3 class="app-related__list-item-title">
-                        <a class="govuk-link" href="/categories/"><span class="govuk-visually-hidden">view </span>All categories</a>
-                      </h3>
-                    </li>
+            <aside class="app-related govuk-!-display-none-print" role="complementary">
+              <h2 class="govuk-heading-s govuk-!-margin-bottom-2" id="-title">Categories</h2>
+              <nav role="navigation" aria-labelledby="-title">
+                <ul class="app-related__list">
+                  <li class="app-related__list-item">
+                    <h3 class="app-related__list-item-title">
+                      <a class="govuk-link" href="/categories/"><span class="govuk-visually-hidden">view </span>All categories</a>
+                    </h3>
+                  </li>
 
-                      {% for tag, count in collections.bySize %}
+                    {% for tag, count in collections.bySize %}
 
-                        {% if ('JN' in tag) or ('HN' in tag) or ('index' in tag) or ('user-need' in tag) or ('all' in tag)%}
-                        {% else %}
-                          <li class="app-related__list-item">
-                            <h3 class="app-related__list-item-title">
-                              <a class="govuk-link" href="/categories/{{ tag }}"><span class="govuk-visually-hidden">view posts in the category </span>{{ tag | replace("_", " ") }} ({{ count }})</a>
-                            </h3>
-                          </li>
-                        {% endif %}
+                      {% if ('JN' in tag) or ('HN' in tag) or ('index' in tag) or ('user-need' in tag) or ('all' in tag)%}
+                      {% else %}
+                        <li class="app-related__list-item">
+                          <h3 class="app-related__list-item-title">
+                            <a class="govuk-link" href="/categories/{{ tag }}"><span class="govuk-visually-hidden">view posts in the category </span>{{ tag | replace("_", " ") }} ({{ count }})</a>
+                          </h3>
+                        </li>
+                      {% endif %}
 
-                      {% endfor %}
+                    {% endfor %}
 
-                  </ul>
+                </ul>
 
-                </nav>
-              </aside>
-            </div>
+              </nav>
+            </aside>
+          </div>
         {# List sections (pages whose parent is `home`) if homepage with no pagination key set #}
         {% elif eleventyNavigation.key == "home" %}
           <div class="govuk-grid-column-full">

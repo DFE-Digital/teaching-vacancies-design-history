@@ -1,5 +1,5 @@
 ---
-permalink: /categories/candidate_profiles.html
+permalink: /categories/searching_for_a_job.html
 ---
 
 {% extends "govuk/template.njk" %}
@@ -46,7 +46,7 @@ permalink: /categories/candidate_profiles.html
       href: "/categories/"
     },
     {
-      text: "Posts about candidate profiles"
+      text: "Posts about searching for a job"
     }
   ]
   }) }}
@@ -63,11 +63,11 @@ permalink: /categories/candidate_profiles.html
     <div class="govuk-grid-column-two-thirds">
 
       <h1 class="govuk-heading-l">
-        Posts about candidate profiles
+        Posts about searching for a job
       </h1>
 
       <ul class="govuk-list">
-        {%- for post in collections.candidate_profiles | reverse  -%}
+        {%- for post in collections.searching_for_a_job | reverse  -%}
           <li class="app-document-list__item" style="margin-top:15px;">
             <h2 class="app-document-list__item-title">
               <a class="govuk-link" href="{{ post.url | url | pretty }}">{{ post.data.title }}</a>
@@ -87,7 +87,6 @@ permalink: /categories/candidate_profiles.html
       </ul>
 
     </div>
-
 
 
 
