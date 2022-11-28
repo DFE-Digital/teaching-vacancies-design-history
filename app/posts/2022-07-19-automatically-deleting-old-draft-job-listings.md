@@ -3,6 +3,7 @@ title: Automatically deleting old draft jobs listings
 date: 2022-07-19
 tags:
   - HN001
+  - hiring_staff
 ---
 
 {% from "email/macro.njk" import appEmail with context %}

@@ -33,35 +33,27 @@ permalink: /categories/candidate_profiles.html
 
 {% block beforeContent %}
 
-{% from "govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
+  {% from "govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
 
-    {{ govukBreadcrumbs({
-      items: [
-      {
-        text: "Teaching Vacancies design history",
-        href: "/"
-      },
-      {
-        text: "Categories",
-        href: "/categories/"
-      },
-      {
-        text: "Posts about candidate profiles"
-      }
-    ]
-    }) }}
+  {{ govukBreadcrumbs({
+    items: [
+    {
+      text: "Teaching Vacancies design history",
+      href: "/"
+    },
+    {
+      text: "Categories",
+      href: "/categories/"
+    },
+    {
+      text: "Posts about candidate profiles"
+    }
+  ]
+  }) }}
+  
 {% endblock %}
 
 {% set mainClasses = mainClasses | default("govuk-main-wrapper--auto-spacing") %}
-
-
-
-
-
-
-
-
-
 
 
 
@@ -75,7 +67,7 @@ permalink: /categories/candidate_profiles.html
       </h1>
 
       <ul class="govuk-list">
-        {%- for post in collections.candidate_profiles -%}
+        {%- for post in collections.candidate_profiles | reverse  -%}
           <li class="app-document-list__item">
             <h2 class="app-document-list__item-title">
               <a class="govuk-link" href="{{ post.url | url | pretty }}">{{ post.data.title }}</a>

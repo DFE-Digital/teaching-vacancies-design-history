@@ -2,6 +2,8 @@
 title: Create a job - adding education phases
 description: Using the education phase to help organisations specify subject and key stages.
 date: 2021-10-08
+tags:
+  - hiring_staff
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -38,7 +40,7 @@ Primary phase organisations are now presented with inset text that plays back th
   }
 }) }}
 
-### For jobs at Secondary phase organisations 
+### For jobs at Secondary phase organisations
 
 Secondary and 16-19 phase organisations are now presented with inset text that plays back the phase to the user (we specify a 16-19 phase if appropriate), relevant hint text for the job title field and only presented with secondary subjects to select from.
 
@@ -53,7 +55,7 @@ Secondary and 16-19 phase organisations are now presented with inset text that p
 
 All-through organisations presented a challenge. The GIAS data didn’t help us determine what phase the job would cover yet we knew it was unlikely to cover more than one phase.
 
-Users who posted jobs in this scenario are presented with an additional question that precedes the job details step where we ask them to specify the phase the role will cover. 
+Users who posted jobs in this scenario are presented with an additional question that precedes the job details step where we ask them to specify the phase the role will cover.
 
 {{ appFigure({
   image: {

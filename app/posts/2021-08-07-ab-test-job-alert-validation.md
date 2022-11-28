@@ -6,8 +6,9 @@ related:
   items:
   - text: Performance review of job alerts feature (November 2020)
     href: https://docs.google.com/presentation/d/13sa9poO2PSCgPT1D2GmSgcYsjRD-v4P7h9V7xjDKFL0/edit?usp=sharing
+tags:
+  - job_alerts
 ---
-
 {% from "figure/macro.njk" import appFigure with context %}
 
 Initial analysis of the performance of our job alerts feature found that when users set up job alerts with less specific criteria - i.e. not specifying a location or what kind of job they were looking for, or not specifying anything at all - when they later received emails triggered by that alert, they were less likely to click on a vacancy included in the email. We assumed that this was because the vacancies in the email were likely to be less relevant to them if they had been less specific about what they were looking for.
@@ -40,7 +41,7 @@ The validation error displayed if a user attempts to create a job alert which is
 {{ appFigure({
   image: {
     file: "job-alert-validation.png",
-    alt: "A screenshot of the job alert screen including error validation" 
+    alt: "A screenshot of the job alert screen including error validation"
    }
 }) }}
 

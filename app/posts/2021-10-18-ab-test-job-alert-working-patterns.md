@@ -2,6 +2,8 @@
 title: 'A/B test: setting job alert working patterns automatically'
 description: Setting working patterns automatically on new job alerts makes job alert emails less relevant to jobseekers
 date: 2021-10-18
+tags:
+  - job_alerts
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

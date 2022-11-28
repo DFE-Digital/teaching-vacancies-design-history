@@ -4,6 +4,9 @@ date: 2022-08-25
 tags:
   - HN001
   - JN001
+
+  - hiring_staff
+
 ---
 
 We recently redesigned the way users [create a job listing](/creating-a-job-listing-iteration/).

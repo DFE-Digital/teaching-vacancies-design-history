@@ -3,6 +3,8 @@ title: Changing the interstitial to make hiring staff aware of candidate profile
 date: 2022-10-28
 tags:
 - HN002
+
+- school_profiles
 ---
 
 We recently designed [an interstitial page to make hiring staff aware of candidate profiles](/making-hiring-staff-aware-of-jobseeker-profiles/). We’ve improved the copy on this page to make it clearer and more specific.

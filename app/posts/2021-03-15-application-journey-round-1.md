@@ -12,9 +12,11 @@ related:
     href: https://drive.google.com/file/d/10aJNz49xreH9N0uZxGm0DvgedVSEGjEc/view?usp=sharing
   - text: Relevant information
     href: https://drive.google.com/file/d/1zfGxUfzMW_loV8sY_1HNOyDHHTbbIump/view?usp=sharing
+tags:
+  - searching_for_a_job
 ---
 
-In October 2020, an application discovery research study took place to uncover how we might increase the quantity and quality of applications for teaching roles through the Teaching Vacancies service. The study highlighted the need for a standardised application form. Research with users informed two MVP application prototypes: an application form for jobseekers and an application tracking system for hiring staff. These prototypes were tested and iterated three times. Following this, the MVP was defined and development started. 
+In October 2020, an application discovery research study took place to uncover how we might increase the quantity and quality of applications for teaching roles through the Teaching Vacancies service. The study highlighted the need for a standardised application form. Research with users informed two MVP application prototypes: an application form for jobseekers and an application tracking system for hiring staff. These prototypes were tested and iterated three times. Following this, the MVP was defined and development started.
 
 ## About this work
 
@@ -83,7 +85,7 @@ Finally, when recruiting teachers, hiring staff follow a set of recruitment step
 
 The process flow of the ‘as is’ end-to-end journey can be found in the [Miro board (jpeg)](https://drive.google.com/file/d/1BtMbihcQUm_fBNCRDfkxzPRTjb3M33AW/view?usp=sharing).
 
-## Next steps 
+## Next steps
 
 * a prototype will be created to allow hiring staff to anonymise applications and to  shortlist in bulk (prioritised features)
 * a user research study (End-to-end application - round 2) will be carried out with hiring staff to test the usability of the new features

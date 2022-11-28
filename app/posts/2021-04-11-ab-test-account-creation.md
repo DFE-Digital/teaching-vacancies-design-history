@@ -2,6 +2,8 @@
 title: 'A/B test: jobseeker account creation from home page'
 description: A more obtrusive button distracted users from finding vacancies.
 date: 2021-04-11
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -31,7 +33,7 @@ These are the three designs we tested.
 {{ appFigure({
   image: {
     file: "default.png",
-    alt: "A screenshot of the homepage with a dark blue sign up box" 
+    alt: "A screenshot of the homepage with a dark blue sign up box"
    },
   caption: "The default, as-is design"
 }) }}

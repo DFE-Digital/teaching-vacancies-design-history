@@ -3,6 +3,7 @@ title: Changing the homepage to be the job listings page
 date: 2022-11-15
 tags:
   - general_updates
+  - searching_for_a_job
 ---
 The current homepage is cluttered and contains a lot of information that the majority of users do not find useful.
 

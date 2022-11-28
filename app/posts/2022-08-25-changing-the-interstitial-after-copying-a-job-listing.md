@@ -3,6 +3,8 @@ title: Changing the interstitial after copying a job listing
 date: 2022-08-25
 tags:
   - HN001
+
+  - hiring_staff
 ---
 
 We recently [added an interstitial page that’s shown after copying a job listing](/copying-a-job-listing-iteration).

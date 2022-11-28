@@ -2,9 +2,11 @@
 title: Teaching Vacancies as of June 2021
 description: A snapshot of the service.
 date: 2021-06-01
+tags:
+  - general_updates
 ---
 
-A complete snapshot of the Teaching Vacancies service as it looked at the beginning of June 2021. 
+A complete snapshot of the Teaching Vacancies service as it looked at the beginning of June 2021.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 

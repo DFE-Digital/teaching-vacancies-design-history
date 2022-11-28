@@ -2,13 +2,15 @@
 title: Improvements to the hiring staff dashboard
 description: Introducing job pages into our information architecture for hiring staff.
 date: 2021-06-15
+tags:
+  - hiring_staff
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-We’ve recently introduced the ability for people to apply for jobs in our service and for hiring staff to manage these applications. This has significantly increased the complexity of what _a job_ is within our service. 
+We’ve recently introduced the ability for people to apply for jobs in our service and for hiring staff to manage these applications. This has significantly increased the complexity of what _a job_ is within our service.
 
-We realised that our current interface would not be able to scale to allow hiring staff to complete the following tasks in a consistent location: 
+We realised that our current interface would not be able to scale to allow hiring staff to complete the following tasks in a consistent location:
 
 * manage jobs (delete/edit/copy/extend deadlines)
 * collect and manage applications (view/shortlist/reject)
@@ -32,7 +34,7 @@ Text within each dashboard row was all a similar size, the lack of typographic h
 
 In addition, the same link appeared many times in each row (for example, ‘edit listing’ appeared for each job) which created a less than ideal experience for assistive technology users.
 
-This jobs dashboard represented the ‘hub’ in a ‘hub and spoke’ information architecture pattern. While this was sufficient at the time it was built, with more things now being associated with a job we needed to move towards a hierarchical structure. 
+This jobs dashboard represented the ‘hub’ in a ‘hub and spoke’ information architecture pattern. While this was sufficient at the time it was built, with more things now being associated with a job we needed to move towards a hierarchical structure.
 
 ### What we did
 

@@ -16,6 +16,8 @@ related:
     href: https://teaching-vacancies-design-history.london.cloudapps.digital/application-management/
   - text: Discussion guide
     href: https://docs.google.com/document/d/1StGiRaDgm7onBWUBnT3C9P3VbiiPM1M-enL46LWlm68/edit#
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

@@ -4,6 +4,8 @@ date: 2022-07-13
 tags:
   - HN001
   - JN001
+
+  - hiring_staff
 ---
 
 Research shows that users find [creating a job listing](/service-snapshot) problematic for many reasons so we have made several changes.

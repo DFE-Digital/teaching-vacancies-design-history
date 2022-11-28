@@ -2,6 +2,8 @@
 title: 'A/B test: move keyword & location fields to the top of search results for desktop users'
 description: Moving the fields had no impact on search success, but encouraged searchers to refine searches using filters more often
 date: 2022-01-06
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

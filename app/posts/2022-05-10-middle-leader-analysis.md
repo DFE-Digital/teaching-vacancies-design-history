@@ -1,7 +1,9 @@
 ---
 title: Middle leader analysis
-description: Analysis of middle leader categorisation 
+description: Analysis of middle leader categorisation
 date: 2022-05-10
+tags:
+  - searching_for_a_job
 ---
 
 The middle leader job role is being used when listing vacancies and is working well when being used. However, we are seeing a number of false negatives of vacancies where we would expect a vacancy to be categorised under middle leader, but is instead being categorised otherwise.

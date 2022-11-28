@@ -2,23 +2,25 @@
 title: 'A/B test: position of similar jobs feature (desktop view)'
 description: We decided to keep the similar jobs feature at the bottom of job listings on the desktop view of the service
 date: 2022-08-16
+tags:
+  - general_updates
 ---
 
 
-## Introduction: 
+## Introduction:
 We ran this A/B test to see whether changing the position of the similar jobs feature on the desktop version of the site would increase the similar jobs click rate.We also measured  document downloads, GMI/apply clicks and saved job conversion rates to make sure we were not reducing engagement in these areas as a result of this action.
 
 
-## Date work was completed: 
+## Date work was completed:
 26th April 2022 (A/B test turned off)
 
 
-## Hypothesis: 
+## Hypothesis:
 If similar jobs are displayed on the left of job listings, under the timeline, then the similar job link click rate will increase and engagement with listings will not be reduced.
 
 
-## Who we tested with: 
-We tested with 109,548 jobseekers between 18 March 2022 and 26 April 2022. 50% of desktop users were assigned to each variant. 
+## Who we tested with:
+We tested with 109,548 jobseekers between 18 March 2022 and 26 April 2022. 50% of desktop users were assigned to each variant.
 
 
 ## Findings:
@@ -35,7 +37,7 @@ We tested with 109,548 jobseekers between 18 March 2022 and 26 April 2022. 50% o
 
 
 ## Next steps:
-Based on these findings, we decided to keep the similar jobs feature in it’s original position at the bottom of job listings on the desktop view of the service. This was because, although placing them on the left increased the click rate on similar jobs, engagement with the job listings decreased, which we believe won’t be beneficial in helping users to achieve their goals 
+Based on these findings, we decided to keep the similar jobs feature in it’s original position at the bottom of job listings on the desktop view of the service. This was because, although placing them on the left increased the click rate on similar jobs, engagement with the job listings decreased, which we believe won’t be beneficial in helping users to achieve their goals
 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}

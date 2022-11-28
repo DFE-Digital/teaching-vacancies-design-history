@@ -10,6 +10,8 @@ related:
     href: https://lucid.app/lucidspark/invitations/accept/inv_baabd507-099d-4d9f-9550-fd90dfa7cc9b
   - text: Lookback recordings
     href: https://lookback.io/org/teaching-vacancies-2/projects/scope-expansion/rounds#round-3545056/
+tags:
+  - hiring_staff
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -20,14 +22,14 @@ Before considering expanding the scope of the service, further research was requ
 
 The intention was to answer the following questions:
 
-* What are TAs? How is this role defined in different schools? 
+* What are TAs? How is this role defined in different schools?
 * How do hiring staff recruit TAs? What are the specific requirements when listing these roles? Are they hired locally or nationally?
 * What is the typical contract type for TAs?
 * How many are recruited in comparison to teachers? Do they expect that number to increase going forward?
 * What is the role of agencies in this recruitment?
 * What is the cost of hiring TAs  vs teachers?
-* Could our application work to recruit TA staff? How does it compare to recruiting teachers? 
-* What is the consequence of not listing other support jobs in our service? What are the pros for hiring staff? 
+* Could our application work to recruit TA staff? How does it compare to recruiting teachers?
+* What is the consequence of not listing other support jobs in our service? What are the pros for hiring staff?
 * What would it take to stop using agencies and other paid-for alternatives?
 
 We believed, by expanding the scope to TAs, it may support the Department’s goals to aid schools in COVID and Recovery. In alignment with the COVID recovery plan for schools, we believed that there was likely to be a high demand for not only TAs but tutors going forward. It was therefore vital that we gained an understanding of these roles and whether we would need to open up the service to tutors also.
@@ -50,7 +52,7 @@ We spoke with 6 hiring staff within in scope state funded schools and trusts in 
 
 ## What did we do?
 
-* 6 remote 1 hour sessions were carried out using Lookback 
+* 6 remote 1 hour sessions were carried out using Lookback
 * A [discussion guide](https://docs.google.com/document/d/1yX3K2MJmd2yhn6IT1Bl7_vkYgYIeysFBQ3NAF5VdxiI/edit) was followed to ensure the sessions were consistent
 
 Users were given a set of tasks to perform using the [prototype](https://teaching-vacancies-prototype.london.cloudapps.digital/prototypes/application/round-3/):
@@ -127,7 +129,7 @@ Users felt it was important for this type of role to specify actual earnings, wi
 }) }}
 
 
-## Next steps 
+## Next steps
 
 ### Research with jobseekers in educational support roles
 

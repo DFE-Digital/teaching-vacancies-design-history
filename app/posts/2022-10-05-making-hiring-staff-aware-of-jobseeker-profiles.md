@@ -4,6 +4,8 @@ date: 2022-10-05
 tags:
   - HN002
   - JN002
+
+  - creating_a_job_listing
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

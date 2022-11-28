@@ -3,6 +3,9 @@ title: Changing the interstitial that prompts hiring staff to complete their sch
 date: 2022-10-28
 tags:
 - HN003
+
+- school_profiles
+
 ---
 
 We recently designed [an interstitial page to prompt users to complete their school profile](/prompting-hiring-staff-to-complete-their-school-profile/).

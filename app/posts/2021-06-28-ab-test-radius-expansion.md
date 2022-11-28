@@ -2,6 +2,9 @@
 title: 'A/B test: radius expansion links in site searches with no results'
 description: Radius expansion links helped users find vacancies without distracting them.
 date: 2021-06-28
+tags:
+  - searching_for_a_job
+  - general_updates
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -32,7 +35,7 @@ These are the two designs we tested.
 {{ appFigure({
   image: {
     file: "links.png",
-    alt: "A screenshot of the search results screen with radius links" 
+    alt: "A screenshot of the search results screen with radius links"
    },
   caption: "With radius links"
 }) }}

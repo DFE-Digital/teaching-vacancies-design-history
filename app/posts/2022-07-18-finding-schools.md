@@ -7,6 +7,9 @@ tags:
   - JN005
   - JN007
   - JN008
+
+  - school_profiles
+  - hiring_staff
 ---
 
 Research shows that some jobseekers find it useful to be able to find jobs at schools that they know or are within their local area.

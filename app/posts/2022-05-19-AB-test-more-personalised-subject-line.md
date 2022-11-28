@@ -2,6 +2,8 @@
 title: 'A/B test: more personalised subject lines on job alert emails'
 description: Subject line variant 2* was implemented because it generated a higher click-through rate (CTR) to a vacancy from the job alert emails.
 date: 2022-03-30
+tags:
+  - job_alerts
 ---
 
 ## Introduction

@@ -10,9 +10,12 @@ related:
     href: https://docs.google.com/presentation/d/124pKthA6yIkvYhwKnx7uK9_dCfnEuIOPyZmUp3dUagk/edit#slide=id.p
   - text: Round 3 playback
     href: https://docs.google.com/presentation/d/1OWWx2lWNdLW09es7XTRzENJCpDCryggFoV9giDkHahw/edit#slide=id.p
+tags:
+  - searching_for_a_job
+  - general_updates
 ---
 
-The discovery research conducted in October 2020 highlighted the benefits of providing a standardised application form for teachers to apply for jobs listed on Teaching Vacancies. Having a single application format would make it easier for jobseekers to apply for those jobs as they wouldn’t have to fill applications that came not only in a variety of formats but also asked different questions, which are current pain points for teachers. 
+The discovery research conducted in October 2020 highlighted the benefits of providing a standardised application form for teachers to apply for jobs listed on Teaching Vacancies. Having a single application format would make it easier for jobseekers to apply for those jobs as they wouldn’t have to fill applications that came not only in a variety of formats but also asked different questions, which are current pain points for teachers.
 
 Given the above, a basic Google forms application was created to explore the landscape with teachers and from there a more detailed prototype was developed and tested. This second prototype was tested with teachers during round 3, in order to refine the application process from the jobseeker’s point of view.
 

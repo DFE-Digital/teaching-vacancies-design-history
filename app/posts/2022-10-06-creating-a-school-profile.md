@@ -7,6 +7,9 @@ tags:
   - JN005
   - JN007
   - JN009
+
+  - school_profiles
+
 ---
 
 We recently designed a way for [jobseekers to find schools](/finding-schools).

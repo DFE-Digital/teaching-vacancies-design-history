@@ -3,6 +3,7 @@ title: Handling incomplete sections of a candidate profile
 date: 2022-11-08
 tags:
   - JN002
+  
   - candidate_profiles
 ---
 

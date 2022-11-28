@@ -8,6 +8,8 @@ related:
     href: https://docs.google.com/presentation/d/1oe2cPGSXS1GIULNCnS86oGImmgyIxFQ6A-gHEc3oCMY/edit#slide=id.g76c9fc18ce_0_287
   - text: Hiring staff application testing November 2020
     href: https://docs.google.com/presentation/d/1L0cjrRs0Vyc1w7IZvejJzbrkgSRBcvknISN63VbBpJw/edit?usp=sharing
+tags:
+  - hiring_staff
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -16,7 +18,7 @@ related:
 
 ### What are multi-academy trusts?
 
-Multi-academy trusts (MATs) are not-for-profit companies, who run a group of academies across a variety of locations. 
+Multi-academy trusts (MATs) are not-for-profit companies, who run a group of academies across a variety of locations.
 
 An academy is a type of school which receives direct funding from the government. All academies are part of an academy trust, whether that is a MAT or single academy trust (SAT). Academies do not charge fees, but they have more control over how they do things such as how they set their curriculum. They must however, follow the same rules on admissions, special education needs and exclusions as other state schools and students sit the same exams.
 
@@ -24,9 +26,9 @@ The Trust employs their own staff and works with appointed trustees who are resp
 
 ###  How many MATs are there in England and how many schools do they represent in scope for our service?
 
-MATs in England currently account for 39% of schools. They vary widely in size. 
+MATs in England currently account for 39% of schools. They vary widely in size.
 
-* MATs with 2-5 schools: 712 schools 
+* MATs with 2-5 schools: 712 schools
 * MATs with 6-10 schools: 288 schools
 * MATs with 11-120 schools: 146 schools
 * MATs with 21+ schools: 53 schools
@@ -37,24 +39,24 @@ As academisation continues, MATs are predicted to grow in size and increase in n
 
 Our service was designed for schools to list teaching roles based at the school in question.
 
-However, it was not possible for a MAT hiring staff user to easily list jobs at schools in their trust or recruit to MAT-level roles using Teaching Vacancies. Previously, they could only be associated with a school and list a job at that school. As a workaround, MAT hiring staff were associated with multiple schools, but had to log in and out of each school in order to list a job. 
+However, it was not possible for a MAT hiring staff user to easily list jobs at schools in their trust or recruit to MAT-level roles using Teaching Vacancies. Previously, they could only be associated with a school and list a job at that school. As a workaround, MAT hiring staff were associated with multiple schools, but had to log in and out of each school in order to list a job.
 
 ## User needs
 
 We identified some of the following user needs in user research conducted in January-February 2020 and then May-June 2020.  
- 
+
 As MAT hiring staff, I need to:
 * post jobs on behalf of schools in my MAT, so they don't have to.
 * manage (create, edit, archive) jobs for all the schools in my MAT and MAT-wide jobs in one place, so that I can work efficiently.
-* navigate between schools I manage without logging out, so that I can work efficiently. 
-* edit a job posted by another user in my team, so that my team can work efficiently. 
+* navigate between schools I manage without logging out, so that I can work efficiently.
+* edit a job posted by another user in my team, so that my team can work efficiently.
 * copy a job from one academy to another, so that I can work efficiently.
 * to list a job that is based at the MAT head or regional office so that I can recruit staff into MAT-wide roles.
-* to list a job’s location as multiple schools so that I can recruit staff into these roles. 
+* to list a job’s location as multiple schools so that I can recruit staff into these roles.
 * to see all live vacancies in my MAT/team organised by school so that I can track their activity and provide support where needed.
 * to see all historical (passed deadline) vacancies in my MAT/team organised by school so that I can track their activity and provide support where needed.
 
-As a jobseeker, I need to clearly see at which school(s) the role would be based, so I can determine if I want to apply. 
+As a jobseeker, I need to clearly see at which school(s) the role would be based, so I can determine if I want to apply.
 
 ## The feature
 
@@ -67,7 +69,7 @@ When MAT hiring staff users sign in, they have to select the schools in their tr
   }
 }) }}
 
-When they get to their dashboard, they can filter the jobs by the schools on the left hand side. 
+When they get to their dashboard, they can filter the jobs by the schools on the left hand side.
 
 {{ appFigure({
   image: {
@@ -83,11 +85,11 @@ When they get to their dashboard, they can filter the jobs by the schools on the
   }
 }) }}
 
-When listing a job, they can either set the location as: 
+When listing a job, they can either set the location as:
 
 * One school in their trust
-* More than one school in their trust 
-* Trust head office 
+* More than one school in their trust
+* Trust head office
 
 {{ appFigure({
   image: {
@@ -113,15 +115,15 @@ This is an example of a trust vacancy:
 }) }}
 
 ## Business rules
- 
-MAT users can: 
 
-1. add schools within their trust to their Teaching Vacancies account. 
+MAT users can:
+
+1. add schools within their trust to their Teaching Vacancies account.
 2. list a teaching job at one or more of the schools in their trust.
 3. list a teaching job at the trust head office.
-4. view, edit and delete jobs listed by the schools in their trust. 
-5. choose to accept applications through Teaching Vacancies, using the online application form. 
-6. View, shortlist and reject any applications received for jobs listed by the schools in their account. 
+4. view, edit and delete jobs listed by the schools in their trust.
+5. choose to accept applications through Teaching Vacancies, using the online application form.
+6. View, shortlist and reject any applications received for jobs listed by the schools in their account.
 
 ## Uptake
 
@@ -135,7 +137,7 @@ Data on the service, combined with insights generated through user research, ind
 
 ## Iterations
 
-Since releasing this feature, we made iterations to the dashboard which we applied across the service. This resulted in the MAT dashboard view changing for consistency. 
+Since releasing this feature, we made iterations to the dashboard which we applied across the service. This resulted in the MAT dashboard view changing for consistency.
 
 {{ appFigure({
   image: {
@@ -144,10 +146,10 @@ Since releasing this feature, we made iterations to the dashboard which we appli
   }
 }) }}
 
-We also removed the screen where you select the schools you want to see on the dashboard because this replicated the filters and was confusing to hiring staff. Now hiring staff can sign in and land on their dashboard straightaway, then select the schools they want to see by using the filters (which are now persistently open). 
+We also removed the screen where you select the schools you want to see on the dashboard because this replicated the filters and was confusing to hiring staff. Now hiring staff can sign in and land on their dashboard straightaway, then select the schools they want to see by using the filters (which are now persistently open).
 
 ## Next steps
 
-We are currently undertaking research with MATs to understand MAT hiring staff users’ unmet needs and how Teaching Vacancies can best meet those needs. 
+We are currently undertaking research with MATs to understand MAT hiring staff users’ unmet needs and how Teaching Vacancies can best meet those needs.
 
 We also have comms and other marketing activities planned this autumn 2021 to raise awareness of the service among trusts and schools, and inform them of new developments in the service.

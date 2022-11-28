@@ -3,6 +3,9 @@ title: Changing ‘jobseeker profiles’ to ‘candidate profiles’
 date: 2022-10-27
 tags:
   - HN002
+
+  - candidate_profiles
+
 ---
 
 We previously called profiles for people looking for roles ‘jobseeker profiles’.

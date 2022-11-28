@@ -3,6 +3,8 @@ title: Copying a job listing iteration
 date: 2022-07-14
 tags:
   - HN001
+
+  - hiring_staff
 ---
 
 Research shows that users find that [copying a job listing](/copying-a-job/) is confusing and unintuitive.

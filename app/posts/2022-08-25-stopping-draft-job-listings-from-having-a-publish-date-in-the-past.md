@@ -3,6 +3,9 @@ title: Stopping draft job listings from having a publish date in the past
 date: 2022-08-25
 tags:
   - HN001
+
+  - general_updates
+
 ---
 
 It’s currently possible to create a [draft job listing with a publish date in the past](/handling-draft-job-listings-with-a-publish-date-in-the-past).

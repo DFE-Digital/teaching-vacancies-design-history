@@ -2,11 +2,13 @@
 title: Create a job - making it easier to copy an existing job
 description: Allowing hiring staff to copy an existing job listing when creating a new job.
 date: 2021-11-20
+tags:
+  - hiring_staff
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-Creating new jobs is the most common task hiring staff users perform and we wanted to make it easier for them to do so. Users can currently copy an existing job by navigation to the job and copying it from there. Approximately 7% of vacancies are created in this way. 
+Creating new jobs is the most common task hiring staff users perform and we wanted to make it easier for them to do so. Users can currently copy an existing job by navigation to the job and copying it from there. Approximately 7% of vacancies are created in this way.
 
 We felt that the start of the create a job flow was like a sensible place to offer users an additional way to copy an existing job instead of starting from nothing.
 

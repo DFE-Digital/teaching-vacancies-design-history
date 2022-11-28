@@ -2,6 +2,9 @@
 title: 'A/B test: subject filters'
 description: Subject filters were implemented because users do engage with them when they are present, and because they will be necessary to enable future work of mapping search terms to filters.
 date: 2022-03-30
+tags:
+  - job_alerts
+  - searching_for_a_job
 ---
 
 ## Introduction
@@ -9,16 +12,16 @@ date: 2022-03-30
 We ran this A/B test to see how jobseekers would interact with subject filters if they were introduced, and whether using the filters would improve the relevance of results and job alerts to users. There were two variants: the current version of the service without subject filters, and the test variant that contained subject filters on both the "search results" and "create a job alert" pages.
 
 
-## Hypothesis 
+## Hypothesis
 IF subject filters are present THEN users will engage with them AND will receive more relevant search results and job alerts.
 
 
-## Who we tested with 
+## Who we tested with
 We tested with 264,313 jobseekers between 22 February 2022 and 15 March 2022. 50% of users were assigned to each variant.
 
 
 ## Limitations
-These tests were running when we introduced subject SEO/internal landing pages that use filters. Clicking on these meant that subject filters were applied even when users were not shown the subject filters variant (i.e. the default variant) on the search results page. Moreover, if a user then clicked the search CTA on this page, the filter would be removed and so their search experience was significantly disrupted. 
+These tests were running when we introduced subject SEO/internal landing pages that use filters. Clicking on these meant that subject filters were applied even when users were not shown the subject filters variant (i.e. the default variant) on the search results page. Moreover, if a user then clicked the search CTA on this page, the filter would be removed and so their search experience was significantly disrupted.
 
 Consequently, the A/B test does not show reliable results, especially when it comes to measuring the relevance of search results, as the disrupted search experience adversely affected these. However, we still gained useful insight into the usage of these features.
 

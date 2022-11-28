@@ -3,6 +3,9 @@ title: Adding a school logo iteration 2
 date: 2022-10-27
 tags:
   - HN002
+
+  - school_profiles
+
 ---
 
 We recently designed a [school profile flow](/creating-a-school-profile/#updating-the-school-profile), that included adding a school logo.

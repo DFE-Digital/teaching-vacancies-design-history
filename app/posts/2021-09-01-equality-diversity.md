@@ -10,6 +10,9 @@ related:
     href: https://docs.google.com/presentation/d/1kvZcFvz_qq3ckESeCjfBf7xaWdpE_HGc67pjACv9ipk/edit#slide=id.gb6d7927eb0_0_196
   - text: Guidance from the Information Commissioner’s Office
     href: https://ico.org.uk/media/1061/anonymisation-code.pdf
+tags:
+  - general_updates
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

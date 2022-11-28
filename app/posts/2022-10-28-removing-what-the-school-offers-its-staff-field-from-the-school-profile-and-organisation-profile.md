@@ -3,6 +3,9 @@ title: Removing the ‘What the school offers its staff’ field from the school
 date: 2022-10-28
 tags:
 - HN003
+
+- school_profiles
+
 ---
 
 We recently removed the ‘What the school offers its staff’ field from the school profile and organisation profile.

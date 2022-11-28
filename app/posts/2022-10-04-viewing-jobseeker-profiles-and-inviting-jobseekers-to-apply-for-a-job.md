@@ -5,6 +5,9 @@ tags:
   - HN002
   - JN002
   - JN006
+
+  - hiring_staff
+
 ---
 
 

@@ -6,6 +6,8 @@ related:
   items:
   - text: 'A/B test: an inline form to encourage job alert creators to create an account'
     href: /ab-test-inline-create-account-form/
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -39,7 +41,7 @@ These are the three designs we tested.
 {{ appFigure({
   image: {
     file: "inline.png",
-    alt: "A screenshot of the account sign up screen" 
+    alt: "A screenshot of the account sign up screen"
    },
   caption: "The account creation form inline."
 }) }}
@@ -47,7 +49,7 @@ These are the three designs we tested.
 {{ appFigure({
   image: {
     file: "blue-bg.png",
-    alt: "A screenshot of the account sign up screen" 
+    alt: "A screenshot of the account sign up screen"
    },
   caption: "The create an account form in the sidebar with a blue background."
 }) }}
@@ -55,7 +57,7 @@ These are the three designs we tested.
 {{ appFigure({
   image: {
     file: "grey-bg.png",
-    alt: "A screenshot of the account sign up screen" 
+    alt: "A screenshot of the account sign up screen"
    },
   caption: "The create an account form in the sidebar with a grey background."
 }) }}

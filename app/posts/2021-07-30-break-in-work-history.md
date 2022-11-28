@@ -1,6 +1,6 @@
 ---
 title: Automatically detect gaps in employment
-description: An iteration on how we ask for details about gaps in employment 
+description: An iteration on how we ask for details about gaps in employment
 date: 2021-07-30
 related:
   items:
@@ -8,6 +8,8 @@ related:
     href: https://dfedigital.atlassian.net/browse/TEVA-2568
   - text: Design assets
     href: https://www.figma.com/file/cYfTWCXl9ouJapY2Zv2tu5/Sprint-84?node-id=80%3A153
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -36,7 +38,7 @@ Given that this information was not being accurately supplied by jobseekers in t
 
 The jobseeker is required to provide start and end dates for every role that they add to their employment history (or mark a role as their current role in which case an end date is not required).
 
-The gap between the end date of each role and the start of the subsequent role is calculated (or the end of the most recent role and the current date if the jobseeker is currently out of work) and, if this is 3 months or longer, an inset message is displayed highlighting this gap. 
+The gap between the end date of each role and the start of the subsequent role is calculated (or the end of the most recent role and the current date if the jobseeker is currently out of work) and, if this is 3 months or longer, an inset message is displayed highlighting this gap.
 
 {{ appFigure({
   image: {
@@ -75,4 +77,3 @@ The image below shows the hiring staff view of an application received with empl
     alt: "Current role and employment history"
   }
 }) }}
-

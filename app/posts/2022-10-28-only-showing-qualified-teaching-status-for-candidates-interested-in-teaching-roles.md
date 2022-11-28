@@ -4,8 +4,9 @@ date: 2022-10-28
 tags:
 - HN002
 - JN002
-themes:
-- Profile
+
+- candidate_profiles
+
 ---
 
 Previously, qualified teaching status (QTS) was included in [candidate profiles](/creating-a-jobseeker-profile-iteration-2/) for all roles on the service.

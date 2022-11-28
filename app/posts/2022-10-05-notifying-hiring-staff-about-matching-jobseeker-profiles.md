@@ -6,6 +6,8 @@ tags:
   - JN002
   - JN006
   - JN009
+
+  - hiring_staff
 ---
 
 {% from "email/macro.njk" import appEmail with context %}

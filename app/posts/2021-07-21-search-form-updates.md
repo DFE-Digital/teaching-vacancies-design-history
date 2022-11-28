@@ -1,7 +1,10 @@
 ---
-title: Updating the search for a job form 
+title: Updating the search for a job form
 description: Usability improvements to the search form on the service start page.
 date: 2021-07-21
+tags:
+  - general_updates
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -28,9 +31,9 @@ This is what the search form looked like as of June 2021.
   caption: "The search form with search radius open and filters exposed."
 }) }}
 
-We wanted to remove the placeholders in the text fields as they present [a number of usability issues](https://adamsilver.io/blog/placeholders-are-problematic/). 
+We wanted to remove the placeholders in the text fields as they present [a number of usability issues](https://adamsilver.io/blog/placeholders-are-problematic/).
 
-We also wanted to ensure the search radius field was visible at all times. The current behaviour meant that it was progressively disclosed only if the user added at least one numeric character in the location field. We then assumed it was a postcode. At this stage, radius searches were only allowed on what we called points, i.e. a specific postcode, not a region. 
+We also wanted to ensure the search radius field was visible at all times. The current behaviour meant that it was progressively disclosed only if the user added at least one numeric character in the location field. We then assumed it was a postcode. At this stage, radius searches were only allowed on what we called points, i.e. a specific postcode, not a region.
 
 To minimise additional friction on this step, we thought we could try removing the “Add more filters” UI as well, the reasoning being it would make it easier to make a broad search, then allow them to filter on search results. We also questioned what our users are even filtering at this stage as they are yet to make a search to filter on.
 

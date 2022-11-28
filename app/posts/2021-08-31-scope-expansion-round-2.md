@@ -14,6 +14,9 @@ related:
     href: https://lookback.io/org/teaching-vacancies-2/projects/scope-expansion/rounds#round-8139688
   - text: Card sorting activity
     href: https://app.optimalworkshop.com/optimalsort/8w352848/7f252v8a/shared-results/53t2n7vx12hr31nl32gl12wi6837303m
+tags:
+  - general_updates
+  - hiring_staff
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

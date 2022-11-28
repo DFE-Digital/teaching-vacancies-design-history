@@ -6,6 +6,9 @@ tags:
   - JN005
   - JN007
   - JN009
+
+  - school_profiles
+
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

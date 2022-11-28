@@ -2,6 +2,8 @@
 title: 'A/B test: collapse keyword & location fields into a pop up in search results for mobile users'
 description: Collapsing these fields into a pop up reduced the proportion of searchers who found relevant results and significantly reduced the proportion who refined their search
 date: 2022-01-06
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

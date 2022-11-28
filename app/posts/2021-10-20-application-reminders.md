@@ -2,6 +2,8 @@
 title: Reminding users about the application feature
 description: Signposting the applications feature for existing users.
 date: 2021-10-20
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -10,7 +12,7 @@ Uptake of the applications feature is low. Since September 2021, only 7.8% of te
 
 Though there are a significant number of people who are yet to learn of Teaching Vacancies, in this piece of work we wanted to improve the ways we signpost the application feature to our existing users.
 
-We know from previous research that organisations are hesitant to collect applications through Teaching Vacancies without first seeing the application form itself. Also, it is generally not the staff who would typically use the service who would make decisions about what application tracking software their organisation uses. 
+We know from previous research that organisations are hesitant to collect applications through Teaching Vacancies without first seeing the application form itself. Also, it is generally not the staff who would typically use the service who would make decisions about what application tracking software their organisation uses.
 
 ## Where we started
 
@@ -44,7 +46,7 @@ We replaced the banner with an interstitial screen that hiring staff encounter o
   }
 }) }}
 
-The applications guide was intended to be a cheap way to communicate more about the applications feature without hiring staff having to first create a job and enabling application collection. 
+The applications guide was intended to be a cheap way to communicate more about the applications feature without hiring staff having to first create a job and enabling application collection.
 
 ### A reminder screen
 

@@ -2,6 +2,8 @@
 title: 'A/B test: Map-based search results'
 description: A/B test for map-based search results
 date: 2022-08-11
+tags:
+  - general_updates
 ---
 
 We ran this A/B test to understand how introducing map-based search results would impact the jobseeker search journey. Using a map will affect future work on a new "commute time" feature, so we needed to identify if introducing a map would have a negative effect on a jobseeker’s user journey.

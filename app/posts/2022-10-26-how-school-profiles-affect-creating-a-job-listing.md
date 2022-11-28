@@ -4,6 +4,9 @@ date: 2022-10-26
 tags:
   - HN001
   - HN003
+
+  - school_profiles
+
 ---
 
 At the moment hiring staff provide the same information about their school every time they [create a job listing](creating-a-job-listing-iteration-2).

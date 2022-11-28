@@ -2,9 +2,11 @@
 title: 'A/B test: popular searches (quick links) on home page'
 description: The popular searches quick links were implemented because we deemed it unlikely that they would worsen users' search experiences
 date: 2022-08-16
+tags:
+  - general_updates
 ---
 
-## Introduction 
+## Introduction
 We ran this A/B test to see whether adding popular searches/quick links (based on the most popular keywords, and with the intention to change these seasonally) below the search boxes would worsen the jobseeker search experience.  The reason they may have worsened the jobseeker search experience is because the search results displayed after clicking on a link were not filtered by a location entered by a user - therefore, the results may not have been relevant to users. We wanted to test whether this was true, so that we could make an informed decision about whether to introduce the quick links for SEO benefit (the benefit would come from these links appearing further up the homepage than the internal landing page links below).
 
 We tested two variants with users: the default home page without quick links, and the homepage with "popular searches" quick links underneath the search boxes.

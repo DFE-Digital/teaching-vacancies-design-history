@@ -10,6 +10,8 @@ related:
     href: https://github.com/alphagov/govuk-design-system-backlog/issues/12
   - text: Privacy and Electronic Communications Regulations (PECR)
     href: https://ico.org.uk/for-organisations/guide-to-pecr/what-are-pecr/
+tags:
+  - general_updates
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -51,7 +53,7 @@ Our original banner, and the new GDS design pattern we also tested:
 {{ appFigure({
   image: {
     file: "top-aligned.png",
-    alt: "Screenshots of the original cookie banner and the GDS design system banner positioned at the top of the viewport." 
+    alt: "Screenshots of the original cookie banner and the GDS design system banner positioned at the top of the viewport."
    }
 }) }}
 
@@ -76,4 +78,3 @@ The ‘modal’ banner we also tested:
 ## Next steps
 
 We decided to implement the GDS design pattern, but positioned at the bottom of the screen, because it maximised the opt-in rate, minimised the skew, showed no quantitative evidence of reducing user engagement with the service and ensured that users were able to make a clear choice about their cookie preferences.
-

@@ -3,6 +3,8 @@ title: Handling draft job listings with a publish date in the past
 date: 2022-07-14
 tags:
   - HN001
+
+  - hiring_staff
 ---
 
 If the user creates a draft job listing, the publish date can end up being in the past.

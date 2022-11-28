@@ -2,6 +2,8 @@
 title: 'A/B test: job alert banner placement'
 description: Making the banner blue and sticky made it more visible.
 date: 2021-01-29
+tags:
+  - job_alerts
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -32,7 +34,7 @@ These are the two banner designs we tested.
 {{ appFigure({
   image: {
     file: "job-alert-ab-test.png",
-    alt: "Two screenshots of the job alert banners" 
+    alt: "Two screenshots of the job alert banners"
    },
   caption: "Left is the the white, non-sticky banner and on the right is the blue, sticky banner."
 }) }}

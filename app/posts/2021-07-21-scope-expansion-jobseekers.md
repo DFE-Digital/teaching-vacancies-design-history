@@ -10,11 +10,13 @@ related:
     href: https://lucid.app/lucidspark/cb9a7203-c3d2-4d86-9932-042a723265b5/edit#
   - text: Lookback recordings
     href: https://lookback.io/org/teaching-vacancies-2/projects/scope-expansion/rounds#round-5621505
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
 
-Following our first of research with hiring staff, more research was required to better understand how expanding the scope to education support roles would affect  job seekers using the service. It was also imperative we validated a number of the assumptions we had gathered from hiring staff about how jobseekers typically search for these types of roles.  
+Following our first of research with hiring staff, more research was required to better understand how expanding the scope to education support roles would affect job seekers using the service. It was also imperative we validated a number of the assumptions we had gathered from hiring staff about how jobseekers typically search for these types of roles.  
 
 ## Overarching user need
 

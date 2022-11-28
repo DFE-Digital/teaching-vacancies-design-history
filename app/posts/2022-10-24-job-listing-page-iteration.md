@@ -4,6 +4,9 @@ date: 2022-10-24
 tags:
   - JN001
   - JN004
+
+  - searching_for_a_job
+
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

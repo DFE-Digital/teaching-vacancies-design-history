@@ -2,6 +2,8 @@
 title: The use of filters when searching
 description: Optimising the usability and frequency of filter use when searching.
 date: 2021-07-12
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -19,7 +21,7 @@ We now know that filter use was higher than previously thought during this perio
 
 ## Hypothesis: Our users can’t locate the filters
 
-We had concerns around the discoverability of our filters on the search results screen. By default the filters were hidden within accordions. 
+We had concerns around the discoverability of our filters on the search results screen. By default the filters were hidden within accordions.
 
 {{ appFigure({
   image: {
@@ -37,7 +39,7 @@ We wondered if exposing the filters at all times would improve visibility and us
 
 ### What we did
 
-The updated filter design followed the visual pattern which had already been used on the Find postgraduate teacher training, Register trainee teachers and Manage teacher training applications services. We had confidence knowing these services were using a similar pattern and had been included in numerous rounds of usability testing. 
+The updated filter design followed the visual pattern which had already been used on the Find postgraduate teacher training, Register trainee teachers and Manage teacher training applications services. We had confidence knowing these services were using a similar pattern and had been included in numerous rounds of usability testing.
 
 Exposing the filters by default also represented a usability improvement, largely by removing the barriers to access them. When permanently exposed, there was no interaction required to open the filters before being able to use them. There was also far less chance a user wouldn't notice them.
 
@@ -59,13 +61,13 @@ Exposing the filters by default also represented a usability improvement, largel
 
 ### How it went
 
-For the period of 11 October -  11 November 2021, approximately 18% of searches contained filtered results. 
+For the period of 11 October -  11 November 2021, approximately 18% of searches contained filtered results.
 
 The use of filters when searching has significantly increased since the updates were made.
 
 ## Hypothesis: We are encouraging searching again over filtering current results
 
-We also suspect we are encouraging a ‘search again’ behaviour (as opposed to filtering the current results) by placing the search form above the filters on the search results screen. 
+We also suspect we are encouraging a ‘search again’ behaviour (as opposed to filtering the current results) by placing the search form above the filters on the search results screen.
 
 * Are we influencing our user's behaviour by placing the form in such a prominent position?
 * Has a bias towards searching unintentionally been introduced?
@@ -83,10 +85,9 @@ We have planned an A/B test with a variant where the search and filter UI are de
 
 ## Next steps
 
-We’ll run the A/B test on decoupling search from filtering to compare behaviour. 
+We’ll run the A/B test on decoupling search from filtering to compare behaviour.
 
 Now that we know our original data was incorrect and our users are to a degree, filtering results, we need to decide if our filters are meeting user needs. The following hypotheses could be considered next:
 
 * Keywords and location are enough and our users don't need filters
 * Our current filter options aren’t relevant or useful
-

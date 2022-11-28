@@ -8,6 +8,8 @@ related:
     href: https://dfedigital.atlassian.net/browse/TEVA-871
   - text: Jira ticket
     href: https://dfedigital.atlassian.net/browse/TEVA-1391
+tags:
+  - searching_for_a_job
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}

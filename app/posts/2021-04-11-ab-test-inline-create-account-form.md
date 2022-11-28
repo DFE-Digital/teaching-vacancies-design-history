@@ -2,6 +2,8 @@
 title: 'A/B test: an inline form to encourage job alert creators to create an account'
 description: An inline form encouraged more job alert creators to create an account.
 date: 2021-03-04
+tags:
+  - job_alerts
 ---
 
 {% from "figure/macro.njk" import appFigure with context %}
@@ -32,7 +34,7 @@ These are the three designs we tested.
 {{ appFigure({
   image: {
     file: "account-creation.png",
-    alt: "A screenshot of the account sign up screen" 
+    alt: "A screenshot of the account sign up screen"
    },
   caption: "On the left, a link to the create an account form. On the right, an inline form to cerate an account."
 }) }}

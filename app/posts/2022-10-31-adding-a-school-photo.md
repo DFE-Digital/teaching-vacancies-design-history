@@ -3,6 +3,9 @@ title: Adding a school photo
 date: 2022-10-31
 tags:
 - HN003
+
+- school_profiles
+
 ---
 
 We added a section to the school profile where users can upload a photo of their school. This makes the school profile more personalised.
