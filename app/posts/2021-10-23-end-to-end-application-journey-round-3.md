@@ -13,7 +13,7 @@ related:
   - text: The end-to-end application journey round 2
     href: https://docs.google.com/presentation/d/1kvZcFvz_qq3ckESeCjfBf7xaWdpE_HGc67pjACv9ipk/edit#slide=id.p
   - text: Round 3 prototype design
-    href: https://teaching-vacancies-design-history.london.cloudapps.digital/application-management/
+    href: https://tv-design-history.herokuapp.com/application-management/
   - text: Discussion guide
     href: https://docs.google.com/document/d/1StGiRaDgm7onBWUBnT3C9P3VbiiPM1M-enL46LWlm68/edit#
 tags:

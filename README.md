@@ -2,7 +2,7 @@
 
 A place for us to document our service designs for the GOV.UK Teaching Vacancies service.
 
-<https://teaching-vacancies-design-history.london.cloudapps.digital/>
+<https://tv-design-history.herokuapp.com/>
 
 ## Set up
 

@@ -13,7 +13,7 @@
   ],
   "author": "Becoming a teacher team",
   "license": "MIT",
-  "homepage": "https://teaching-vacancies-design-history.london.cloudapps.digital/",
+  "homepage": "https://tv-design-history.herokuapp.com/",
   "repository": "github:DFE-Digital/teaching-vacancies-design-history",
   "bugs": "https://github.com/DFE-Digital/teaching-vacancies-design-history/issues",
   "scripts": {
