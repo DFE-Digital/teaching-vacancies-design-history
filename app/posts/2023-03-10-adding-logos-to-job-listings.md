@@ -4,7 +4,7 @@ date: 2023-03-10
 tags:
   - JN001
   
-  - candidate_profiles
+  - searching_for_a_job
 ---
 
 We recently designed a [school profile flow](/creating-a-school-profile/), that allowed schools and trusts to add a logo to their profile.
