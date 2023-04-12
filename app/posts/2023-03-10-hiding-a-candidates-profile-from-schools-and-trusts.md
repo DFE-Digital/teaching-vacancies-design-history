@@ -32,7 +32,7 @@ Research conducted in February 2023 highlighted the benefits of providing a feat
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Choosing if you want to hide your profile",
+    text: "Choosing if you want to hide your profile from schools or trusts",
     img: { src: "hide1.png" }
   },{
     text: "Hiding your profile search page",
