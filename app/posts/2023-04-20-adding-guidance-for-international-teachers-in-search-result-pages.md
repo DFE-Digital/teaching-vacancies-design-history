@@ -9,11 +9,11 @@ tags:
 
 We’ve been exploring how we can help international teachers that may be viewing roles on our service. International teachers are unlikely to be given a teaching job in England unless they have qualified teacher status. 
 
-To help make this clearer to international teachers, we’ve updated our search results page to feature an inset text component with guidance before search results are shown.
+To help make this clearer to international teachers, we’ve updated our search results page to feature an inset text component with guidance before search results are shown. We have also added guidance to the apply for a job section on all vacancies.
 
 Both updates include a link to [guidance for international citizens interested in teaching or training to teach in England](https://getintoteaching.education.gov.uk/non-uk-teachers).
 
-We will be monitoring the engagement of this on the service to better understand if it is helping international teachers. 
+We will be monitoring the engagement of this to better understand if it is helping international teachers. 
 
 ## User needs
 
