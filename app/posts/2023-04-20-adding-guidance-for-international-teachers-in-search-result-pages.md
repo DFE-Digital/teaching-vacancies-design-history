@@ -13,7 +13,7 @@ To help make this clearer to international teachers, we’ve updated our search 
 
 Both updates include a link to [guidance for international citizens interested in teaching or training to teach in England](https://getintoteaching.education.gov.uk/non-uk-teachers).
 
-We will be monitoring the engagement of this to better understand if it is helping international teachers. 
+We will be monitoring the engagement of this to understand if it is helping international teachers. 
 
 ## User needs
 
