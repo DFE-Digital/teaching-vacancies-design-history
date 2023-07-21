@@ -7,7 +7,7 @@ tags:
   - candidate_profiles
 ---
 
-If jobseekers have recently submitted a job application through our service and try [creating a profile](creating-a-jobseeker-profile/), some of their details will now be imported into their profile.
+If jobseekers have previously submitted a job application through our service and try [creating a profile](creating-a-jobseeker-profile/), some of their details will now be imported into their profile.
 
 This will allow job seekers to:
 - save time having to re-enter information
