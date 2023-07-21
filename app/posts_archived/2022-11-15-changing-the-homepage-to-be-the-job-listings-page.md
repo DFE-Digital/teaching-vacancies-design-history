@@ -21,6 +21,7 @@ Between 1 September 2021 and 31 August 2022, out of 1.29 million visits:
 - 0.29% go to the jobseeker sign in (3,700)
 
 This data shows that the most of our users perform a search.
+
 ### Where users land when arriving at the service
 
 Between 1 September 2021 and 31 August 2022, out of 14.2 million visits:
