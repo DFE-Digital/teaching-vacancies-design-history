@@ -6,11 +6,11 @@ tags:
   - searching_for_a_job
 ---
 
-We've been exploring how we can reduce support requests on our service when jobseekers struggle creating accounts. 
+We've been exploring how we can reduce support requests on our service when jobseekers have problems creating accounts. 
 
-Previously, if jobseekers did not press the confirmation link to confirm their email address in a given amount of time the link became invalid. This then required manual approval from service support if the jobseeker wanted to continue creating an account.
+Previously, some jobseekers faced difficulties when the confirmation link sent to their email address became invalid due to not being selected within a specific time frame. Consequently, they had to seek manual approval from our service support to proceed with their account creation.
 
-We've redesigned this journey to enable jobseekers to re-request a verification link to be sent to their email if they try to sign-in or select the verification link in the email after it has expired.
+We've redesigned this journey to enable jobseekers to re-request a verification link to be sent to their email if they try to sign-in or select the link in the email after it has expired.
 
 This will prevent a known pain point for jobseekers when creating an account, and reduce the time needed from support teams to help with accounts.
 
