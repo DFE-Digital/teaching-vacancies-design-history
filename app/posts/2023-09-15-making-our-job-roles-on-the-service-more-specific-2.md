@@ -25,7 +25,7 @@ To more specific filters:
 
 Would provide a much better experience for users as the variation between the roles is significant.
 
-Users can now search for jobs and set up job alerts with these more specific job roles.
+Users can now search for jobs and set up job alerts with these more specific job roles. We will be migrating existing subscriptions of job alerts and jobs posted on the service to map accordingly with these more specific roles.
 
 We will be monitoring how this impacts the job search journey.
 
