@@ -44,6 +44,10 @@ We will be monitoring how this impacts the job search journey.
   {
     text: "Allowing jobseekers to be more specific about the roles they are interested in when setting up a job alert",
     img: { src: "example-of-more-specific-roles-on-job-alerts.png" }
+  },
+  {
+    text: "Extending the job roles schools can select when posting a job",
+    img: { src: "example-of-more-specific-roles-on-school-jobs.png" }
   }
   ]
 }) }}
