@@ -7,7 +7,7 @@ tags:
   - searching_for_a_job
 ---
 
-We recently [made our job roles more specific on our profiles feature](making-our-job-roles-on-the-service-more-specific/).
+We recently [made our job roles more specific on our profiles feature](/making-our-job-roles-on-the-service-more-specific/).
 
 We have now launched these more specific job roles across the service.
 
