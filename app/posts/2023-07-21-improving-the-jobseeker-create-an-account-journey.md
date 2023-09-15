@@ -4,6 +4,7 @@ date: 2023-07-21
 tags:
   - JN002
   - searching_for_a_job
+  - general_updates
 ---
 
 We've been exploring how we can reduce support requests on our service when jobseekers have problems creating accounts. 
