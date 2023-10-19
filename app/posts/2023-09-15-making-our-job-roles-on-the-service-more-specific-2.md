@@ -12,7 +12,7 @@ We recently [made our job roles more specific on our profiles feature](/making-o
 
 We have now launched these more specific job roles across the service.
 
-Research indicated that splitting out the two job role filters:
+Research indicated that splitting out the 2 job role filters:
 
 - Headteacher, deputy or assistant headteacher
 - Head of year, department, curriculum or phase
