@@ -35,8 +35,13 @@
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-navigation": "^0.3.2",
+<<<<<<< HEAD
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
     "@rollup/plugin-commonjs": "^22.0.1",
+=======
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
+    "@rollup/plugin-commonjs": "^21.0.1",
+>>>>>>> dfc7fc762e06dc4e783c428902e17857657578e8
     "@rollup/plugin-node-resolve": "^13.0.0",
     "accessible-autocomplete": "^2.0.3",
     "govuk-frontend": "^4.0.0",
