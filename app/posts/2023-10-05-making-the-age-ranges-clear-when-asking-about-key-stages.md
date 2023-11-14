@@ -8,13 +8,13 @@ tags:
   - candidate_profiles
 ---
 
-Recent user research with job seekers not as familiar with the UK education system indicated that it was difficult to understand the age ranges per key stage.
+Recent user research with jobseekers not as familiar with the UK education system indicated that it was difficult to understand the age ranges per key stage.
 
 To help this, we've shown the relevant age ranges next to the key stages when users set up a profile on the candidate profiles feature.
 
-This will indicate to job seekers what ages are usually taught in each key stage.
+This will indicate to jobseekers what ages are usually taught in each key stage.
 
-We will be monitoring how useful this is for job seekers to understand if it would be useful across the service.
+We will be monitoring how useful this is for jobseekers to understand if it would be useful across the service.
 
 ## User needs
 
