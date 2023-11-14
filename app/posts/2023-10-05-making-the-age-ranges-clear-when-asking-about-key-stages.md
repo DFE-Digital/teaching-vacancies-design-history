@@ -24,7 +24,7 @@ We will be monitoring how useful this is for job seekers to understand if it wou
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-    text: "Making the age ranges for each key stage clearer",
+    text: "Making the age ranges for each key stage clear",
     img: { src: "key-stage-age-ranges.png" }
   }
   ]
