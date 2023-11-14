@@ -1,6 +1,6 @@
 ---
 title: Allowing jobseekers to sort roles by distance
-date: 2023-09-15
+date: 2023-09-22
 tags:
   - JN001
   
