@@ -11,7 +11,7 @@ Recent user research with jobseekers indicated that providing a way to know if a
 
 To help this, we are now asking schools when posting a role if visa sponsorship is available or not.
 
-We use this information to indicate to jobseekers in the search results if a role can offer sponsorship in the summary list for each role to make it easy for candidates to quickly see if the course has visa sponsorship available or not.
+We use this information to indicate to jobseekers in the search results if a role can offer sponsorship. This information is now included in the summary list for each roles so candidates can see if the course has visa sponsorship available or not.
 
 We will also show if 'Visa sponsorship' is available when viewing a role in the initial summary list alongside job role, key stage, working pattern, contract type and salary.
 
