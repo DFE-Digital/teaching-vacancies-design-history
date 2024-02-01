@@ -7,7 +7,7 @@ tags:
   - searching_for_a_job
 ---
 
-Recent user research with jobseekers indicated that providing a way to search for roles that could offer them visa sponsorship would be beneficial.
+Recent user research with jobseekers indicated that providing a way to search for roles that could offer visa sponsorship would be beneficial.
 
 To help this, we are now providing a filter that allows jobseekers to only show roles that can offer sponsorship. This will only show relevant roles after [asking schools when posting a role if visa sponsorship is available or not.](/showing-if-a-role-can-offer-visa-sponsorship/) 
 
