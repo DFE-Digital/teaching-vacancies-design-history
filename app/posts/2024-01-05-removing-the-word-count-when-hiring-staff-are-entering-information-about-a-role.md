@@ -12,7 +12,7 @@ Following a review of all feedback in 2023, hiring staff have indicated that the
 
 To help this, we have removed the word count limit from all textareas on the about the role page on the job listing journey.
 
-This will give hiring staff more flexibility when explaining the role. It may also make the process faster given some hiring staff are copying and pasting a pre-written advert.
+This will give hiring staff more flexibility when providing information about a role. It may also make the process faster given some hiring staff are copying and pasting a pre-written advert.
 
 ## User needs
 
