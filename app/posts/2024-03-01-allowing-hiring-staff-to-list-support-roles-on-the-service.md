@@ -1,6 +1,6 @@
 ---
-title: Allowing hiring staff to list support roles on the service
-date: 2024-02-28
+title: Allowing hiring staff to list all school roles on the service
+date: 2024-03-01
 tags:
   - HN001
   - HN002
@@ -51,6 +51,8 @@ The Non-teaching support category will include the follow role types:
 The main journey impacted by this change for hiring staff is the job listing journey, which now allows hiring staff to select any role or role type.
 
 Hiring staff can now also use the  [candidate profiles](/categories/candidate_profiles) feature to find candidates for teaching, teaching support and non-teaching roles if candidates have set up a profile.
+
+We will be monitoring the impact of expanding the service to cater for all school roles so we can make sure the service works for a wider audience.
 
 ## User needs
 
