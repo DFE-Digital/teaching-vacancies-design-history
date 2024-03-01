@@ -1,5 +1,5 @@
 ---
-title: Adding more options and improving the design of the working patterns page
+title: Adding more options to the working patterns page
 date: 2024-02-28
 tags:
   - HN001
