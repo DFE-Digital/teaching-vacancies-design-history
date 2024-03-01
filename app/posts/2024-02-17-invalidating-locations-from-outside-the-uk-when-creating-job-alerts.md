@@ -1,6 +1,6 @@
 ---
 title: Invalidating locations from outside the UK when creating job alerts
-date: 2024-02-05
+date: 2024-02-17
 tags:
   - JN002
   
