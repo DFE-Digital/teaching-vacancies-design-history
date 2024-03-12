@@ -1,5 +1,5 @@
 ---
-title: Updating statutory induction year question in application
+title: Updating the statutory induction year question in the jobseeker application journey
 date: 2024-02-05
 tags:
   - JN002
