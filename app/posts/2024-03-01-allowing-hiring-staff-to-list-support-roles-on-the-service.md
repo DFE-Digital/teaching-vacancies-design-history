@@ -10,11 +10,11 @@ tags:
   - candidate_profiles
 ---
 
-Previously, hiring staff could only listing teaching and teaching support roles on the service.
+Previously, hiring staff could only list teaching and teaching support roles on the service.
 
-To help hiring staff recruit for all roles in schools, we are expanding the service to allow schools to advertise any type of role in a school. To cater for these new roles on the service, research was carried out to understand the types of roles in schools and how they could be categorised. We are introducing 3 categories for the types of jobs hiring staff can now list. These are:
+To help hiring staff recruit for all roles in schools, we are expanding the service to allow schools to advertise all roles in a school. Research was carried out to understand other roles in schools and how they could be categorised. We are introducing 3 categories for the types of roles hiring staff can now list. These are:
 
-- Teaching
+- Teaching 
 - Teaching support
 - Non-teaching support
 
@@ -52,7 +52,7 @@ The main journey impacted by this change for hiring staff is the job listing jou
 
 Hiring staff can now also use the  [candidate profiles](/categories/candidate_profiles) feature to find candidates for teaching, teaching support and non-teaching roles if candidates have set up a profile.
 
-We will be monitoring the impact of expanding the service to cater for all school roles so we can make sure the service works for a wider audience.
+We will be monitoring the impact of expanding the service to cater for all school roles.
 
 ## User needs
 
