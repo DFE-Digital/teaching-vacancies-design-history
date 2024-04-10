@@ -1,6 +1,6 @@
 ---
 title: Allowing hiring staff to list all school roles on the service
-date: 2024-03-01
+date: 2024-03-19
 tags:
   - HN001
   - HN002
@@ -12,11 +12,13 @@ tags:
 
 Previously, hiring staff could only list teaching and teaching support roles on the service.
 
-To help hiring staff recruit for all roles in schools, we are expanding the service to allow schools to advertise all roles in a school. Research was carried out to understand other roles in schools and how they could be categorised. We are introducing 3 categories for the types of roles hiring staff can now list. These are:
+To help hiring staff recruit for all roles in schools we are expanding the service to allow schools to advertise all roles in a school. Research was carried out to understand other roles in schools and how they could be categorised. We are introducing 3 categories for the types of roles hiring staff can now list. These are:
 
 - Teaching 
 - Teaching support
 - Non-teaching support
+
+We have [created our first mission patch](/mission-patches/) dedicated to the release of all school roles.
 
 ## Job role categories
 
