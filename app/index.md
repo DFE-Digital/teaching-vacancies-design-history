@@ -6,6 +6,8 @@ related:
   items:
   - text: User needs
     href: /user-needs
+  - text: Mission patches
+    href: /mission-patches
 pagination:
   data: collections.search-index
   reverse: true
