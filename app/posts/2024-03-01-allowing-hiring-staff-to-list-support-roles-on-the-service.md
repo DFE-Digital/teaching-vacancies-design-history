@@ -10,7 +10,7 @@ tags:
   - candidate_profiles
 ---
 
-Previously, hiring staff could only list teaching and teaching support roles on the service.
+Previously, hiring staff could only list leadership, teaching and teaching support roles on the service.
 
 To help hiring staff recruit for all roles in schools we are expanding the service to allow schools to advertise all roles in a school. Research was carried out to understand other roles in schools and how they could be categorised. We are introducing 3 categories for the types of roles hiring staff can now list. These are:
 
