@@ -1,5 +1,5 @@
 ---
-title: Making the service more accesible
+title: Making the service more accessible
 date: 2024-05-13
 tags:
   - JN001
