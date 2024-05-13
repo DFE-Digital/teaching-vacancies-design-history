@@ -14,9 +14,9 @@ Recently, an audit of the Teaching Vacancies service was conducted to understand
 
 The audit uncovered issues primarily revolving around navigation challenges, issues included:
 
-- Heading structure: some pages displayed incorrectly structured heading hierarchies, impacting keyboard and screen reader users.
+- Heading structure: some pages displayed structured heading hierarchies incorrectly, impacting keyboard and screen reader users.
 - Footer focus order: The focus order of footer elements was found to be illogical.
-- Missing ARIA landmarks: some pages lacked ARIA landmarks, hindering user orientation.
+- Missing Accessible Rich Internet Applications (ARIA) landmarks: some pages lacked ARIA landmarks, hindering user orientation.
 - Duplicated landmark names: duplicated landmark names were discovered, potentially causing user disorientation.
 - Redundant alternative text: decorative imagery on 'Job' and 'Job Listing' pages presented redundancy issues with alternative text.
 - Screen Reader Compatibility: user journey testing revealed compatibility issues with screen readers, particularly on Mac OS VoiceOver and iOS VoiceOver, impacting keyboard navigation and button responsiveness.
