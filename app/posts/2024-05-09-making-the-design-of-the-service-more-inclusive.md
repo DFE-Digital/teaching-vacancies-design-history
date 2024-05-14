@@ -10,17 +10,6 @@ tags:
 
 Recently, an audit of the Teaching Vacancies service was conducted to understand how we could make the service more accessible. The website was tested against the Web Content Accessibility Guidelines (WCAG) 2.2 Level AA standards, by user journey testing with assistive technologies. We have made some changes across the website to ensure it's more inclusive.
 
-## Identified issues
-
-The audit uncovered issues primarily revolving around navigation challenges, issues included:
-
-- heading structure: some pages displayed structured heading hierarchies incorrectly, impacting keyboard and screen reader users
-- footer focus order: The focus order of footer elements was found to be illogical
-- missing Accessible Rich Internet Applications (ARIA) landmarks: some pages lacked ARIA landmarks, hindering user orientation
-- duplicated landmark names: duplicated landmark names were discovered, potentially causing user disorientation
-- redundant alternative text: decorative imagery on 'Job' and 'Job Listing' pages presented redundancy issues with alternative text
-- screen Reader Compatibility: user journey testing revealed compatibility issues with screen readers, particularly on Mac OS VoiceOver and iOS VoiceOver, impacting keyboard navigation and button responsiveness
-
 ## Key changes
 
 Issues were organised into themes and then the WCAG guidelines conformance levels (A,AA,AAA). In total, we have resolved an estimate of 50 accessibility issues across the website.
