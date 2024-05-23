@@ -13,7 +13,7 @@ tags:
   - general_updats
 ---
 
-Recently, we expanded the service to [allow hiring staff to start listing all school roles on the service](/allowing-hiring-staff-to-list-support-roles-on-the-service/). We also [expanding the service to show all school roles when searching for a job](/expanding-the-service-to-show-all-school-roles//).
+Recently, we expanded the service to [allow hiring staff to start listing all school roles on the service](/allowing-hiring-staff-to-list-support-roles-on-the-service/). We also [expanded the service to show all school roles when searching for a job](/expanding-the-service-to-show-all-school-roles//).
 
 Following the launch of the All School Roles (ASR) feature, we have received feedback regarding the phrasing of 'non-teaching' and categorisation of the new roles across the service. 
 
@@ -39,7 +39,7 @@ The following changes have been implemented across the service to reflect the re
 
 - Job search journey filters have been updated 
 - Job alert creation form has been updated 
-- Hiring staf job listing journey
+- Hiring staff job listing journey
 - Candidate profiles feature 
 
 ## User needs
@@ -55,7 +55,7 @@ The following changes have been implemented across the service to reflect the re
     img: { src: "job_search_journey.png" }
   },
    {
-    text: "Updating the job alerts page two have two categories",
+    text: "Updating the job alerts page to have two categories",
     img: { src: "job_alerts.png" }
   },
   {
