@@ -29,7 +29,7 @@ Based on this feedback, we have reviewed and updated our service to better cater
 
 ### Revised role categories:
 
-- 'Non-teaching' and 'Teaching support' have been merged into a single 'Support' category to provide a more cohesive experience for users
+- 'Non-teaching' and 'Teaching support' have been merged into a single 'Support' category to provide a more cohesive experience for people
 - The 'Teaching' category has been changed to 'Teaching & leadership' to better reflect senior roles in teaching
 - The 'other leadership roles' category has been moved to the 'Teaching & leadership' category to better reflect user feedback and expectations of where this role type should be.
 
