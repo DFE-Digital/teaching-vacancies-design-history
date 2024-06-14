@@ -11,7 +11,7 @@ Previously on the job listing journey, hiring staff had to enter a specific date
 
 We had some feedback from hiring staff users that they would find it useful to have a faster way to list applications without specifying a date.
 
-To help make the job listing journey process faster for hiring staff who don’t have a job listing date, we’re adding an ‘As soon as possible’.
+To help make the job listing journey process faster for hiring staff who don’t have a job listing date, we’re adding an ‘As soon as possible’ option.
 
 ## User needs
 
