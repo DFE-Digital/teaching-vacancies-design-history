@@ -10,7 +10,7 @@ tags:
   - searching_for_a_job
   - candidate_profiles
   - hiring_staff
-  - general_updats
+  - general_updates
 ---
 
 We expanded the service to [allow hiring staff to list all school roles](/allowing-hiring-staff-to-list-support-roles-on-the-service/). We also [expanded the service to show all school roles when searching for a job](/expanding-the-service-to-show-all-school-roles//).
