@@ -10,7 +10,7 @@ After user testing in September and October 2024, we identified a key pain point
  
 The summary page was a long, scroll-heavy layout that made navigation difficult. This was especially true for users who did not complete their application in one sitting. When they saved it as a draft and came back to it later, they would start on this page and had to navigate in and out of the summary form for each section. 
  
-For users completing the application in one sitting, it was a more straightforward linear journey as they could click through sections.  
+For users completing the application in one sitting, it was a more straightforward linear journey as they could click through sections.   
 
 ## Key findings from user research
   
