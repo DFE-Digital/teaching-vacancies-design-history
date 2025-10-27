@@ -50,15 +50,15 @@ A second round of user research was conducted on our application form in March 2
 {{ appScreenshots({
   items: [
   {
-    text: "A screenshot of how the 'Add training and continuing professional development (CPD)' page in the 'Training and continuing professional development (CPD)' section of the Teaching Vacancies application form looked when it was launched in May 2024.",
+    text: "The 'Add training and continuing professional development (CPD)' page in the 'Training and continuing professional development (CPD)' section of the Teaching Vacancies application form looked when it was launched in May 2024.",
     img: { src: "cpd.png" }
   },
   {
-    text: "A screenshot of the 'Add training and continuing professional development (CPD)' page in the 'Training and continuing professional development (CPD)' section of the Teaching Vacancies application form showing the changes made after user research in September 2024.",
+    text: "The 'Add training and continuing professional development (CPD)' page in the 'Training and continuing professional development (CPD)' section of the Teaching Vacancies application form showing the changes made after user research in September 2024.",
     img: { src: "research.png" }
   },
   {
-    text: "A screenshot of the 'Add training and continuing professional development (CPD)' page in the 'Training and continuing professional development (CPD)' section of the Teaching Vacancies application form showing the changes made after user research in March 2025",
+    text: "The 'Add training and continuing professional development (CPD)' page in the 'Training and continuing professional development (CPD)' section of the Teaching Vacancies application form showing the changes made after user research in March 2025",
     img: { src: "iteration.png" }
   }
   ]
