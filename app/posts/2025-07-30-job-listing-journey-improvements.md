@@ -54,7 +54,7 @@ These changes should allow hiring staff to accurately represent all roles on the
   {
     text: "The 'Salary and allowances' question on the Create a job listing user journey for hiring staff on the Teaching Vacancies website.",
     img: { src: "five.png" }
-  },
+  }
   
   ]
 }) }}
