@@ -5,7 +5,7 @@ tags:
   - hiring_staff
 --- 
 
-Following the improvements to a[allow hiring staff to list all school roles](/allowing-hiring-staff-to-list-support-roles-on-the-service/) in March 2024, we reviewed elements of our job listing journey to ensure this was inclusive to the new role types that had been introduced during the scope expansion.  
+Following the improvements to [allow hiring staff to list all school roles](/allowing-hiring-staff-to-list-support-roles-on-the-service/) in March 2024, we reviewed elements of our job listing journey to ensure this was inclusive to the new role types that had been introduced during the scope expansion.  
 
 ## Key findings
   
