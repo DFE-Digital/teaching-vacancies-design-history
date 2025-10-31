@@ -38,7 +38,6 @@ module.exports = function (eleventyConfig) {
     return sortedArray
   })
 
-
   // Template libraries
   eleventyConfig.setLibrary('njk', require('./lib/libraries/nunjucks'))
   eleventyConfig.setLibrary('md', require('./lib/libraries/markdown'))
