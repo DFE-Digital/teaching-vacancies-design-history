@@ -3,7 +3,6 @@ title: Adding Teacher Reference Number (TRN) in our application form and candida
 date: 2025-09-04
 tags:
   - searching_for_a_job
-  - profiles
 --- 
 
 In August 2024, we reviewed the data held within Teaching Vacancies as part of a departmental review of the teacher trainee journey. We reviewed this with the aim of improving transitions between departmental services to provide a seamless user experience.  
@@ -39,7 +38,7 @@ Based on the user research feedback, in April 2025 we decided to:
   {
     text: "The professional status section of the Teaching Vacancies application with the changes made as described in the previous paragraph.",
     img: { src: "application2.png" }
-  }
+  } 
   ]
 }) }}
 
