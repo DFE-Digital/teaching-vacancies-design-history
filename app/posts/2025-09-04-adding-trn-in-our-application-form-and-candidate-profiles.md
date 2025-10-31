@@ -13,7 +13,7 @@ During this review, we identified that Teaching Vacancies does not hold a unique
   
 Within the professional status section of the application form and candidate profiles, we have added a TRN field. The TRN field is mandatory if the jobseeker answers ‘Yes’ to the Qualified Teacher Status (QTS) question on holding QTS. This is due to all QTS holders having a TRN. If the jobseeker answers ‘No’ or ‘I’m on track for QTS’, then the TRN field is optional.  
 
-## Key findings
+## Key findings 
   
 User research was conducted on our application form during September 2024. The TRN addition was included, which highlighted that nearly all jobseekers expected to provide their TRN within the application form. Those that didn’t also did not have QTS and left the field blank.  
 
