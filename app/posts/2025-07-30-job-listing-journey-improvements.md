@@ -3,6 +3,7 @@ title: Job listing journey improvements
 date: 2025-07-30
 tags:
   - hiring_staff
+  - HN001
 --- 
 
 Following the improvements to [allow hiring staff to list all school roles](/allowing-hiring-staff-to-list-support-roles-on-the-service/) in March 2024, we reviewed elements of our job listing journey to ensure this was inclusive to the new role types that had been introduced during the scope expansion.  
@@ -31,6 +32,11 @@ The changes made following user feedback and internal analysis are:
 - adding an hourly pay option to the salary and allowances page  
 
 These changes should allow hiring staff to accurately represent all roles on the service and complete the job listing journey more easily.  
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

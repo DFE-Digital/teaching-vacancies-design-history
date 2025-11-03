@@ -4,6 +4,7 @@ date: 2025-09-04
 tags:
   - searching_for_a_job
   - candidate_profiles
+  - JN002
 --- 
 
 In August 2024, we reviewed the data held within Teaching Vacancies as part of a departmental review of the teacher trainee journey. We reviewed this with the aim of improving transitions between departmental services to provide a seamless user experience.  
@@ -28,6 +29,11 @@ Based on the user research feedback, in April 2025 we decided to:
 
 - remove the radio button response from the TRN question and have the input field directly on the page 
 - added hint text under the QTS question to warn jobseekers that they will need to provide their TRN 
+
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
