@@ -3,6 +3,9 @@ title: Adding training and continuing professional development (CPD) section to 
 date: 2025-04-25
 tags:
   - searching_for_a_job
+  - JN002
+  - JN003
+  - HN002
 --- 
 
 In August and September 2023, we conducted a thorough review of all the user feedback received into Teaching Vacancies relating to our application form.  
@@ -44,7 +47,10 @@ A second round of user research was conducted on our application form in March 2
 
 - made the ‘Training provider and ‘Course length’ fields optional as they were not relevant to all training and CPD courses 
 
-  
+## User needs
+
+{% from "user-needs/macro.njk" import appUserNeeds %}
+{{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -63,5 +69,6 @@ A second round of user research was conducted on our application form in March 2
   }
   ]
 }) }}
+
 
 
