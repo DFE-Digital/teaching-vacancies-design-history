@@ -15,7 +15,7 @@ Recent user research showed we could make it easier for jobseekers to understand
 User research highlighted that: 
 
 - jobseekers did not always notice the optional fields on our application form and thought they were mandatory  
-- 2hen entering their work history, jobseekers often didn’t notice the gaps flagged by the system. When asked to go back and explain these gaps, they struggled to find the right section to complete before moving on with their application.
+- when entering their work history, jobseekers often didn’t notice the gaps flagged by the system. When asked to go back and explain these gaps, they struggled to find the right section to complete before moving on with their application.
 - there was confusion around the references jobseekers needed to provide in their application 
 
 ## Additional insights
