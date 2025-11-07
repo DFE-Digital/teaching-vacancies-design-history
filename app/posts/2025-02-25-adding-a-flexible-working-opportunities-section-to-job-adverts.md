@@ -15,7 +15,7 @@ To promote flexible working and improve teacher recruitment and retention, we in
 The flexible working concept was launched in October 2024. The introduction of the flexible working opportunities textarea on the job listing journey allowed us to: 
  
 - remove the reference to flexible working opportunities in the ‘What does your school offer’ question hint text to encourage staff to place this information in the new ‘flexible working opportunities’ textarea 
-- add a ‘Flexible working opportunities’ heading to the job advert page if anything was added to the job listing teztarea
+- add a ‘Flexible working opportunities’ heading to the job advert page if anything was added to the job listing textarea
 
 ## Analysis of iteration 1
 
