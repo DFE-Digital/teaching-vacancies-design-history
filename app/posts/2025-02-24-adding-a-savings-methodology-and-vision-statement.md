@@ -5,9 +5,9 @@ tags:
   - general_updates
 --- 
 
-To share the Teaching Vacancies' savings figure methodology more widely, we needed to publish our methodology. This was completed in September 2024.  
+To make the Teaching Vacancies savings figure methodology more widely accessible, we published it in September 2024.
 
-We also wanted to provide a vision statement to improve the clarity on the service eligibility and our ability to accept integrations with applicant tracking systems (ATS).  
+We also published a vision statement to clarify service eligibility and define our approach to accepting integrations with applicant tracking systems (ATS).
 
 ## What we have done
   
