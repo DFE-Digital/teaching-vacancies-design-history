@@ -1,5 +1,5 @@
 ---
-title: Iterating a flexible working opportunities section on job adverts 
+title: Adding a flexible working opportunities section to job adverts 
 date: 2025-02-25
 tags:
   - hiring_staff
