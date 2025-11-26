@@ -9,7 +9,7 @@ tags:
   - HN003
 --- 
 
-Following the jobseeker application testing in September to October 2024, we realised that jobseekers came across a few difficulties within the Qualifications section.  
+Following the jobseeker application testing in September to October 2024, we realised that jobseekers came across a few difficulties within the qualifications section.  
  
 As a result, we decided to change the placement of content and options for an improved user experience. We also updated the PDF download of the application form to match the site changes.   
 
@@ -29,7 +29,7 @@ We made the following changes to the ‘Add a postgraduate qualification’ page
 
 We made the following changes to the GCSE, AS and A level pages: 
 
-- added an optional space for jobseekers to specify the awarding body for GCSE, AS and A level pages as recommended by KCSIE 
+- added an optional field for jobseekers to specify the awarding body for GCSE, AS and A level pages as recommended by KCSIE 
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
