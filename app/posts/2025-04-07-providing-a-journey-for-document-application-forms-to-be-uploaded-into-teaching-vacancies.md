@@ -1,5 +1,5 @@
 ---
-title: Providing a journey for document application forms to be uploaded into Teaching Vacancies  
+title: Enabling document application forms to be uploaded into Teaching Vacancies
 date: 2025-07-04
 tags:
   - hiring_staff
