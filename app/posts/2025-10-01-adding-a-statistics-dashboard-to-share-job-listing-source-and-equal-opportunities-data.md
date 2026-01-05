@@ -1,6 +1,6 @@
 ---
 title: Adding a statistics dashboard to share job listing source and equal opportunities data  
-date: 2025-01-10
+date: 2025-10-01
 tags:
   - hiring_staff
   - jobseekers
