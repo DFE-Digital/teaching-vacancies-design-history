@@ -1,6 +1,6 @@
 ---
 title: Adding professional body memberships and working pattern preference to our application form and jobseeker profiles 
-date: 2025-10-02
+date: 2025-02-10
 tags:
   - jobseekers
   - JN002
@@ -19,7 +19,7 @@ User research found that:
 
 We have made changes to both the application form and jobseeker profiles to accommodate these needs by: 
 
-- creating a new professional body memberships section  
+- creating a new professional body memberships section    
 - adding a working pattern preference question to the application form personal details page  
 - adding a working pattern preference question to the jobseeker profiles job preferences page 
 
