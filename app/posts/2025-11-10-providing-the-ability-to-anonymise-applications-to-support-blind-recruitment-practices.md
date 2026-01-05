@@ -1,6 +1,6 @@
 ---
 title: Providing the ability to anonymise applications to support blind recruitment practices 
-date: 2025-10-11
+date: 2025-11-10
 tags:
   - hiring_staff
   - HN001
