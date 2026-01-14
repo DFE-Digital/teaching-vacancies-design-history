@@ -6,7 +6,7 @@ tags:
   - HN002
 --- 
 
-As part of developing an ATS system, the main pain points for hiring staff were around the requirements for references as part of the pre-interview checks under the Keeping Children Safe in Education (KCSIE) guidance. 
+As part of developing an ATS system, the main pain points for hiring staff were around the requirements for references as part of the pre-interview checks under the [Keeping Children Safe in Education (KCSIE)](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2) guidance. 
 
 ## Key findings
 

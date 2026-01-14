@@ -33,8 +33,8 @@ To support jobseeker behaviours in alerting different parties at different times
   },
   {
     text: "The details shown to hiring staff with a completed references section on the application form",
-    img: { src: "add.png" }
-  },
+    img: { src: "details.png" }
+  }, 
   {
     text: "The email sent to jobseekers if hiring staff opt to trigger an email through our applicant tracking system",
     img: { src: "candidate.png" }
