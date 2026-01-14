@@ -1,6 +1,6 @@
 ---
 title: Redesigning the create a job listing journey 
-date: 2025-08-05
+date: 2025-05-08
 tags:
   - hiring_staff
   - HN001
