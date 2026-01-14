@@ -14,9 +14,9 @@ Following the release of the [built-in messages feature](/adding-a-message-featu
 
 This change has provided: 
 - a message button has been included on the ‘Not progressing’, ‘Shortlisted’ and ‘Interviewing’ tabs within our application management table which all connect to the same bulk messaging journey 
-- Bulk message functionality by allowing hiring staff to select one, or many, applicants from a tab within the application management table and trigger a message to the selected applicants 
+- bulk message functionality by allowing hiring staff to select one, or many, applicants from a tab within the application management table and trigger a message to the selected applicants 
 - a bulk messaging journey which starts by asking hiring staff if they wish to create, update or use one of their message templates – note that hiring staff can opt to skip the templates section if they do not wish to use this 
-- a separate table to show which applications you have send a rejection, or unsuccessful application, message -
+- a separate table to show which applications you have send a rejection, or unsuccessful application, message
 
 The above changes should provide hiring staff with flexibility with regards to how they wish to send communications to applications they receive via the service. They can message applicants one by one, or they can utilise our bulk templating and messaging feature if this is more appropriate.  
 
