@@ -8,7 +8,9 @@ tags:
   - general_updates
 --- 
 
-Recently, an audit of the Teaching Vacancies service was conducted to understand how we could make the service more accessible. The website was tested against the Web Content Accessibility Guidelines (WCAG) 2.2 Level AA standards, by user journey testing with assistive technologies. We have made some changes across the website to ensure it’s more inclusive. 
+Recently, we carried out an accessibility audit of the Teaching Vacancies service to better understand how people with diverse needs and assistive technologies experienced the site. Accessibility improvements help people with disabilities and other users navigate and complete tasks more easily, and contribute to a more inclusive service overall.
+
+The website was tested against the Web Content Accessibility Guidelines (WCAG) 2.2 Level AA standards, by user journey testing with assistive technologies. We have made some changes across the website to ensure it’s more inclusive. 
 
 This is a similar approach to how we [made the service more accessible](/making-the-design-of-the-service-more-inclusive/)
  in 2024.
