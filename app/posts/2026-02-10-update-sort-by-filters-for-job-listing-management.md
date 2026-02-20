@@ -8,7 +8,7 @@ tags:
   - hiring_staff
 --- 
 
-Through user feedback, we identified that hiring staff were struggling to find some of the filters available in the job listing management area. While the filters existed, their placement and design differed from the filters used on other pages, such as the jobs search page, which peole were already familiar with.
+Through user feedback, we identified that hiring staff were struggling to find some of the filters available in the job listing management area. While the filters existed, their placement and design differed from the filters used on other pages, such as the jobs search page, which people were already familiar with.
 
 This inconsistency made it harder for users to sort and filter their job listings, particularly when managing multiple roles across different job states.
 
@@ -39,11 +39,11 @@ To address these issues, we updated the job listing management pages to align wi
 {{ appScreenshots({
   items: [
   {
-    text: "The old sorting functionality where the sorting was done via text links",
+    text: "The old sorting functionality where the sorting was done using text links",
     img: { src: "old.png" }
   },
   {
-    text: "The new sorting functionality done via a dropdown which is more consistent with other areas of the service",
+    text: "The new sorting functionality done using a dropdown which is more consistent with other areas of the service",
     img: { src: "new.png" }
   }
   ]
