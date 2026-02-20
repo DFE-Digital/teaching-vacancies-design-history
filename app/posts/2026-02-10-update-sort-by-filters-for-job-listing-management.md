@@ -16,19 +16,19 @@ This inconsistency made it harder for users to sort and filter their job listing
 
 From feedback and observation, we learned that:
 
-- Hiring staff expected filters to behave and appear consistently across the service
-- The existing closing date and job title filters were not easily discoverable
-- Users were already comfortable with the filter and sort pattern used on the jobs page
-- Switching between pages with different filter layouts caused confusion and slowed task completion
+- hiring staff expected filters to behave and appear consistently across the service
+- the existing closing date and job title filters were not easily discoverable
+- users were already comfortable with the filter and sort pattern used on the jobs page
+- switching between pages with different filter layouts caused confusion and slowed task completion
 
 ### What we have done
 
 To address these issues, we updated the job listing management pages to align with the filter and sort design used on the jobs page. We have:
 
-- Replaced the existing closing date and job title filters with the jobs page filter design
-- Applied the updated design consistently across active jobs, draft jobs, closed jobs and jobs awaiting feedback
-- Kept the default selections and available filter options unchanged, ensuring no loss of existing functionality
-- Implemented the jobs page filter layout within the existing job listings frame, so sort confirmation text appears on the left and filters are positioned on the right
+- replaced the existing closing date and job title filters with the jobs page filter design
+- applied the updated design consistently across active jobs, draft jobs, closed jobs and jobs awaiting feedback
+- kept the default selections and available filter options unchanged, ensuring no loss of existing functionality
+- implemented the jobs page filter layout within the existing job listings frame, so sort confirmation text appears on the left and filters are positioned on the right
 
 ## User needs
 
