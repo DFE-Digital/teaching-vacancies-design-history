@@ -40,13 +40,3 @@ These changes help users manage their alerts more easily while allowing us to be
 
 {% from "user-needs/macro.njk" import appUserNeeds %}
 {{ appUserNeeds({ items: collections['user-need'] | slugs(tags)}) }}
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [
-  {
-    text: "The new personal statement page with updated guidance and word count limit",
-    img: { src: "page.png" }
-  }
-  ]
-}) }}
