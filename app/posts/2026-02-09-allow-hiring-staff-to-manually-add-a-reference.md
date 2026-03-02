@@ -2,7 +2,6 @@
 title: Allow hiring staff to manually add a reference
 date: 2026-02-09
 tags:
-  - HN001
   - HN002
   
   - hiring_staff
