@@ -7,7 +7,7 @@ tags:
   - hiring_staff
 --- 
 
-Hiring staff want to be able to track all references in one place within the ATS. While many references are collected through the service, some are gathered outside of Teaching Vacancies, for example, via email or paper forms.
+Hiring staff want to be able to track all references in one place within the Application tracking system (ATS). While many references are collected through the service, some are gathered outside of Teaching Vacancies, for example, using email or paper forms.
 
 Currently, there is no way for hiring staff to record these externally collected references in the service. This means reference information can be fragmented, making it harder to manage pre-interview checks consistently.
 
@@ -15,7 +15,7 @@ Currently, there is no way for hiring staff to record these externally collected
 
 We’re adding a way for hiring staff to manually add a reference to a completed jobseeker application.
 
-On the pre-interview checks tab, hiring staff can now manually add a reference by selecting the “Add a reference” button.
+On the pre-interview checks tab, hiring staff can now manually add a reference by selecting the 'Add a reference' button.
 
 ## User needs
 
