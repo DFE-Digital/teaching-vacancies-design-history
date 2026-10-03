@@ -1,6 +1,6 @@
-{%- if params.items | length > 1 -%}
-<nav class="app-pagination {{- ' ' + params.classes if params.classes}}" id="pagination-label">
-  <p class="govuk-visually-hidden" aria-labelledby="pagination-label">Pagination navigation</p>
+{%- if params.items and params.items.length > 1 -%}
+<nav class="app-pagination {{- ' ' + params.classes if params.classes}}" aria-labelledby="pagination-label">
+  <h2 class="govuk-visually-hidden" id="pagination-label">Pagination navigation</h2>
 
   <ul class="app-pagination__list">
     {%- if params.previous %}

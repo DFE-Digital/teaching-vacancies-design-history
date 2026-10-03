@@ -5,6 +5,7 @@
 {% from "pagination/macro.njk" import appPagination %}
 {% from "prose/macro.njk" import appProse %}
 {% from "related/macro.njk" import appRelated %}
+{% from "categories/macro.njk" import appCategories %}
 
 {% block main %}
   {% call appMasthead({
@@ -67,29 +68,9 @@
           {% endif %}
 
           <div class="govuk-grid-column-one-third">
-            <aside class="app-related govuk-!-display-none-print" role="complementary">
-              <h2 class="govuk-heading-s govuk-!-margin-bottom-2" id="-title">Categories</h2>
-              <nav role="navigation" aria-labelledby="-title">
-                <ul class="app-related__list">
-                  <li class="app-related__list-item">
-                      <a class="govuk-link" href="/categories/"><span class="govuk-visually-hidden">view </span>All categories</a>
-                  </li>
-
-                    {% for tag, count in collections.bySize %}
-
-                      {% if ('JN' in tag) or ('HN' in tag) or ('index' in tag) or ('user-need' in tag) or ('all' in tag)%}
-                      {% else %}
-                        <li class="app-related__list-item">
-                            <a class="govuk-link" href="/categories/{{ tag }}"><span class="govuk-visually-hidden">view posts in the category </span>{{ tag | replace("_", " ") }} ({{ count }})</a>
-                        </li>
-                      {% endif %}
-
-                    {% endfor %}
-
-                </ul>
-
-              </nav>
-            </aside>
+            {{ appCategories({
+              tags: collections.bySize
+            }) }}
           </div>
         {# List sections (pages whose parent is `home`) if homepage with no pagination key set #}
         {% elif eleventyNavigation.key == "home" %}

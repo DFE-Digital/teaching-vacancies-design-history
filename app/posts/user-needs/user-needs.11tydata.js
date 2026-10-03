@@ -1,7 +1,7 @@
 module.exports = {
   tags: ['user-need'],
   eleventyComputed: {
-    title: data => `Need ${data.page.fileSlug}`,
+    title: data => `User need ${data.page.fileSlug}`,
     related: data => {
       const relatedPosts = data.collections[data.page.fileSlug]
       if (relatedPosts) {

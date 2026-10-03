@@ -17,6 +17,7 @@
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
       {{ appProse({
+        classes: "app-prose--user-need" if tags and ("user-need" in tags),
         prose: content
       }) }}
     </div>

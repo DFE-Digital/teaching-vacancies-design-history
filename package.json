@@ -39,6 +39,7 @@
     "@rollup/plugin-commonjs": "^22.0.1",
     "@rollup/plugin-node-resolve": "^13.0.0",
     "accessible-autocomplete": "^2.0.3",
+    "concurrently": "^8.0.0",
     "govuk-frontend": "^4.0.0",
     "http-server": "^14.0.0",
     "lodash": "^4.17.21",
@@ -52,9 +53,9 @@
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "markdown-it-table-of-contents": "^0.6.0",
+    "rollup": "^2.43.0",
     "sass": "^1.0.0",
-    "concurrently": "^8.0.0",
-    "rollup": "^2.43.0"
+    "slugify": "1.6.9"
   },
   "devDependencies": {
     "standard": "^17.0.0",

@@ -2,7 +2,7 @@
 title: Sending additional jobseeker communication emails and adding an opt out process 
 date: 2025-03-20 
 tags:
-  - jobseeker
+  - jobseekers
   - JN001
   - JN003
 --- 

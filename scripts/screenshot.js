@@ -30,8 +30,13 @@ const webshot = require('webshot-node')
 const fs = require('fs')
 
 // Arguments
-const directoryName = process.argv.slice(-1)[0]
-warnIfNoArguments()
+const directoryName = process.argv[2]
+
+if (!directoryName) {
+  console.log('No arguments set')
+  console.log('Please set a directory name: `node scripts/screenshot.js name-of-directory`')
+  process.exit(1)
+}
 
 const deepestDirectory = directoryName.split('/').pop()
 
@@ -49,14 +54,6 @@ function start () {
   decoratePaths()
   generatePage()
   takeScreenshots()
-}
-
-function warnIfNoArguments (title) {
-  // TODO: Use a better check for an argument
-  if (directoryName.startsWith('/Users')) {
-    console.log('No arguments set')
-    console.log('Please set a directory name: `node scripts/screenshot.js "name-of-directory"`')
-  }
 }
 
 function makeDirectories () {

@@ -1,0 +1,49 @@
+---
+pagination:
+  data: collections.categoryTags
+  size: 1
+  alias: tag
+permalink: /categories/{{ tag }}/
+eleventyComputed:
+  title: "Posts about {{ tag | replace('_', ' ') }}"
+---
+
+{% extends "base.njk" %}
+
+{% from "document-list/macro.njk" import appDocumentList %}
+{% from "categories/macro.njk" import appCategories %}
+{% from "govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
+
+{% block beforeContent %}
+  {{ govukBreadcrumbs({
+    items: [
+      {
+        text: "Teaching Vacancies design history",
+        href: "/"
+      },
+      {
+        text: "Categories",
+        href: "/categories/"
+      },
+      {
+        text: title
+      }
+    ]
+  }) }}
+{% endblock %}
+
+{% block content %}
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-l">{{ title }}</h1>
+      {{ appDocumentList({
+        items: collections[tag] | reverse
+      }) }}
+    </div>
+    <div class="govuk-grid-column-one-third">
+      {{ appCategories({
+      tags: collections.bySize
+    }) }}
+    </div>
+  </div>
+{% endblock %}

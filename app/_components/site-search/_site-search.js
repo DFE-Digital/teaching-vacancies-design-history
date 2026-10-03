@@ -11,6 +11,10 @@ let searchQuery = ''
 let searchCallback = function () {}
 let searchResults = []
 
+function escapeRegExp (value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
 function Search ($module) {
   this.$module = $module
 }
@@ -23,11 +27,14 @@ Search.prototype.fetchSearchIndex = function (indexUrl, callback) {
   request.onreadystatechange = function () {
     if (request.readyState === STATE_DONE) {
       if (request.status === 200) {
-        const response = request.responseText
-        const json = JSON.parse(response)
-        statusMessage = 'No results found'
-        searchIndex = json
-        callback(json)
+        try {
+          const json = JSON.parse(request.responseText)
+          statusMessage = 'No results found'
+          searchIndex = json
+          callback(json)
+        } catch {
+          statusMessage = 'Failed to load the search index'
+        }
       } else {
         statusMessage = 'Failed to load the search index'
       }
@@ -36,10 +43,13 @@ Search.prototype.fetchSearchIndex = function (indexUrl, callback) {
   request.send()
 }
 
-Search.prototype.findResults = function (searchQuery, searchIndex) {
-  return searchIndex.filter(item => {
-    const regex = new RegExp(searchQuery, 'gi')
-    return item.data.title.match(regex) || item.templateContent.match(regex)
+Search.prototype.findResults = function (query, index) {
+  const regex = new RegExp(escapeRegExp(query), 'gi')
+
+  return index.filter(item => {
+    const title = (item.data && item.data.title) || ''
+    const content = item.templateContent || ''
+    return String(title).match(regex) || String(content).match(regex)
   })
 }
 
@@ -48,12 +58,7 @@ Search.prototype.renderResults = function () {
     return searchCallback(searchResults)
   }
 
-  const resultsArray = this.findResults(searchQuery, searchIndex).reverse()
-
-  searchResults = resultsArray.map(function (result) {
-    return result
-  })
-
+  searchResults = this.findResults(searchQuery, searchIndex).reverse()
   searchCallback(searchResults)
 }
 
@@ -65,11 +70,10 @@ Search.prototype.handleSearchQuery = function (query, callback) {
 }
 
 Search.prototype.handleOnConfirm = function (result) {
-  const path = result.url
-  if (!path) {
+  if (!result || !result.url) {
     return
   }
-  window.location.href = path
+  window.location.href = result.url
 }
 
 Search.prototype.inputValueTemplate = function (result) {
@@ -86,7 +90,7 @@ Search.prototype.resultTemplate = function (result) {
 
     const section = document.createElement('span')
     section.className = 'app-site-search--section'
-    section.innerHTML = result.dateString
+    section.textContent = result.dateString || ''
 
     elem.appendChild(section)
     return elem.innerHTML

@@ -69,14 +69,9 @@ permalink: /categories/index.html
 
 <ul class="govuk-list govuk-list--bullet">
   {% for tag, count in collections.bySize %}
-
-    {% if ('JN' in tag) or ('HN' in tag) or ('index' in tag) or ('user-need' in tag) or ('all' in tag)%}
-    {% else %}
-      <li>
-          <a class="govuk-link" href="/categories/{{ tag }}"><span class="govuk-visually-hidden">view posts in the category </span>{{ tag | replace("_", " ") }} ({{ count }})</a>
-      </li>
-    {% endif %}
-
+    <li>
+      <a class="govuk-link" href="/categories/{{ tag }}/"><span class="govuk-visually-hidden">view posts in the category </span>{{ tag | replace("_", " ") }} ({{ count }})</a>
+    </li>
   {% endfor %}
 </ul>
 

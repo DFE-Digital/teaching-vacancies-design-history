@@ -2,7 +2,7 @@
 title: AB test for having a homepage vs directing users straight to the jobs search page 
 date: 2024-12-20
 tags:
-  - jobseeker
+  - jobseekers
   - JN001
 --- 
 

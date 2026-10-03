@@ -12,8 +12,13 @@ const fs = require('fs')
 const { DateTime } = require('luxon')
 
 // Arguments
-const directoryName = process.argv.slice(-1)[0]
-warnIfNoArguments()
+const directoryName = process.argv[2]
+
+if (!directoryName) {
+  console.log('No arguments set')
+  console.log('Please set a directory name: `node scripts/generate.js name-of-directory`')
+  process.exit(1)
+}
 
 const deepestDirectory = directoryName.split('/').pop()
 
@@ -32,14 +37,6 @@ function start () {
   makeDirectories()
   getExistingImages()
   generatePage()
-}
-
-function warnIfNoArguments (title) {
-  // TODO: Use a better check for an argument
-  if (directoryName.startsWith('/Users')) {
-    console.log('No arguments set')
-    console.log('Please set a title: `node scripts/screenshot.js "Title of page"`')
-  }
 }
 
 function makeDirectories () {

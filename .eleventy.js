@@ -1,3 +1,26 @@
+const HIDDEN_TAG_FRAGMENTS = ['JN', 'HN', 'index', 'user-need', 'all']
+
+function isPublicCategoryTag (tag) {
+  return !HIDDEN_TAG_FRAGMENTS.some(fragment => String(tag).includes(fragment))
+}
+
+function postsByCategory (collectionApi) {
+  const counts = new Map()
+
+  collectionApi.getAll().forEach((post) => {
+    const tags = post.data.tags || []
+    tags.forEach((tag) => {
+      if (!isPublicCategoryTag(tag)) {
+        return
+      }
+
+      counts.set(tag, (counts.get(tag) || 0) + 1)
+    })
+  })
+
+  return [...counts].sort((a, b) => b[1] - a[1])
+}
+
 module.exports = function (eleventyConfig) {
   // Browser Sync
   eleventyConfig.setBrowserSyncConfig({
@@ -11,31 +34,13 @@ module.exports = function (eleventyConfig) {
     }
   })
 
-  // addCollection receives the new collection's name and a
-  // callback that can return any arbitrary data (since v0.5.3)
+  // [tag, count] pairs for public categories, largest first
   eleventyConfig.addCollection('bySize', (collectionApi) => {
-    // see https://www.11ty.dev/docs/collections/#getall()
-    const allPosts = collectionApi.getAll()
+    return postsByCategory(collectionApi)
+  })
 
-    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
-    const countPostsByTag = new Map()
-    allPosts.forEach((post) => {
-      // short circuit eval sets tags to an empty array if there are no tags set
-      const tags = post.data.tags || []
-      tags.forEach((tag) => {
-        const count = countPostsByTag.get(tag) || 0
-        countPostsByTag.set(tag, count + 1)
-      })
-    })
-
-    // Maps are iterators so we spread it into an array to sort
-    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/entries
-    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
-    const sortedArray = [...countPostsByTag].sort((a, b) => b[1] - a[1])
-
-    // this function returns an array of [tag, count] pairs sorted by count
-    // [['bonfires', 4], ['books', 3], ['boats', 2], ...]
-    return sortedArray
+  eleventyConfig.addCollection('categoryTags', (collectionApi) => {
+    return postsByCategory(collectionApi).map(([tag]) => tag)
   })
 
   // Template libraries
@@ -76,7 +81,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection('search-index', collection => {
     return collection.getFilteredByTag('search-index').filter(item => {
-      return !item.data.tags.includes('user-need')
+      const tags = item.data.tags || []
+      return !tags.includes('user-need')
     })
   })
 
